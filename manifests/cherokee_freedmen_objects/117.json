@@ -1,0 +1,280 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/117.json",
+    "@type": "sc:Manifest",
+    "label": "In the matter of the application of Betsy Reed, C.F.D. 1093--Supplemental testimony [from the Commission to the Five Civilized Tribes, Vinita, I.T., October 29th, 1901]",
+    "metadata": [
+        {
+            "label": "dc:source",
+            "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/117"
+        },
+        {
+            "label": "creator",
+            "value": "United States. Commission to the Five Civilized Tribes"
+        },
+        {
+            "label": "contributor",
+            "value": [
+                "Hastings, William Wirt, 1866-1938",
+                "Smith, Edgar",
+                "Von Weise, Chas.",
+                "Breckinridge, Clifton Rodes, 1846-1932"
+            ]
+        },
+        {
+            "label": "subject",
+            "value": [
+                "Cherokee Indians--Tribal citizenship",
+                "African American women",
+                "Freed persons",
+                "Reed, Betsy",
+                "Children of freed persons",
+                "African Americans",
+                "Migration, Internal--United States",
+                "Governmental investigations"
+            ]
+        },
+        {
+            "label": "rights",
+            "value": "No Copyright - United States; For more information, see: http://rightsstatements.org/vocab/NoC-US/1.0/"
+        },
+        {
+            "label": "format",
+            "value": "reformatted digital"
+        },
+        {
+            "label": "language",
+            "value": "eng"
+        },
+        {
+            "label": "title",
+            "value": "In the matter of the application of Betsy Reed, C.F.D. 1093--Supplemental testimony [from the Commission to the Five Civilized Tribes, Vinita, I.T., October 29th, 1901]"
+        },
+        {
+            "label": "extent",
+            "value": "1 page"
+        },
+        {
+            "label": "created",
+            "value": "1901-10-29"
+        },
+        {
+            "label": "abstract",
+            "value": "W.W. Hastings requests a certificate from Linn County, Kansas be admitted as evidence that that Betsy Reed, the wife of Joseph Reed, had lived continuously in Mound City Township, Kansas from 1870 to 1878. Edgar Smith objects to this request as inadmissible evidence. Commissioner C.R. Breckinridge decides to take note of Smith's objections and file the certificate with the testimony with the Betsy Reed case (C.F.D. 1093) for further consideration by the Commission. He also decides to file it with additional cases: Sarah Hines et al. and Senie Dorgan (C.F.D. 1095)."
+        },
+        {
+            "label": "spatial",
+            "value": [
+                "Oklahoma--Vinita (Indian Territory)",
+                "Kansas--Mound City (Township)",
+                "Cherokee Nation, Oklahoma",
+                "Kansas--Linn County"
+            ]
+        },
+        {
+            "label": "type",
+            "value": "Text"
+        },
+        {
+            "label": "context",
+            "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/117"
+        },
+        {
+            "label": "Title",
+            "value": "In the matter of the application of Betsy Reed, C.F.D. 1093--Supplemental testimony [from the Commission to the Five Civilized Tribes, Vinita, I.T., October 29th, 1901]"
+        },
+        {
+            "label": "Description",
+            "value": "W.W. Hastings requests a certificate from Linn County, Kansas be admitted as evidence that that Betsy Reed, the wife of Joseph Reed, had lived continuously in Mound City Township, Kansas from 1870 to 1878. Edgar Smith objects to this request as inadmissible evidence. Commissioner C.R. Breckinridge decides to take note of Smith's objections and file the certificate with the testimony with the Betsy Reed case (C.F.D. 1093) for further consideration by the Commission. He also decides to file it with additional cases: Sarah Hines et al. and Senie Dorgan (C.F.D. 1095).\n<br /><br />\n"
+        },
+        {
+            "label": "Created On",
+            "value": "2025-04-29 20:06:22 UTC"
+        },
+        {
+            "label": "In Scope",
+            "value": "true"
+        }
+    ],
+    "description": "This is an annotated version of the original manifest produced by FromThePage",
+    "within": {
+        "@type": "sc:Collection",
+        "label": "Cherokee Freedmen",
+        "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+    },
+    "related": [
+        {
+            "format": "text/html",
+            "label": "Read In the matter of the application of Betsy Reed, C.F.D. 1093--Supplemental testimony [from the Commission to the Five Civilized Tribes, Vinita, I.T., October 29th, 1901]",
+            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/in-the-matter-of-the-application-of-betsy-reed-c-f-d-1093-supplemental-testimony-from-the-commission-to-the-five-civilized-tribes-vinita-i-t-october-29th-1901"
+        },
+        {
+            "format": "text/html",
+            "label": "Table of Contents for In the matter of the application of Betsy Reed, C.F.D. 1093--Supplemental testimony [from the Commission to the Five Civilized Tribes, Vinita, I.T., October 29th, 1901]",
+            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/in-the-matter-of-the-application-of-betsy-reed-c-f-d-1093-supplemental-testimony-from-the-commission-to-the-five-civilized-tribes-vinita-i-t-october-29th-1901/contents"
+        }
+    ],
+    "seeAlso": [
+        {
+            "label": "Verbatim Plaintext",
+            "format": "text/plain",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
+            "@id": "https://fromthepage.com/iiif/32196039/export/plaintext/verbatim"
+        },
+        {
+            "label": "Emended Plaintext",
+            "format": "text/plain",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
+            "@id": "https://fromthepage.com/iiif/32196039/export/plaintext/emended"
+        },
+        {
+            "label": "Searchable Plaintext",
+            "format": "text/plain",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
+            "@id": "https://fromthepage.com/iiif/32196039/export/plaintext/searchable"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196039/status",
+            "label": "Work Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
+            "pctComplete": 100.0,
+            "pctTranscribed": 100.0,
+            "pctOcrCorrected": 0.0,
+            "pctIndexed": 0,
+            "pctMarkedBlank": 0,
+            "pctNeedsReview": 0,
+            "pctTranslationComplete": 0,
+            "pctTranslated": 0,
+            "pctTranslationNeedsReview": 0,
+            "pctTranslationIndexed": 0,
+            "pctTranslationMarkedBlank": 0,
+            "metadataStatus": "undescribed",
+            "lastUpdated": "2025-05-03 17:04:38 UTC"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://fromthepage.com/iiif/32196039/sequence/default",
+            "@type": "sc:Sequence",
+            "label": "Pages",
+            "rendering": [
+                {
+                    "label": "Verbatim Plaintext",
+                    "format": "text/plain",
+                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
+                    "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32196039/export/plaintext/verbatim"
+                },
+                {
+                    "@id": "https://fromthepage.com/iiif/32196039/export/html",
+                    "label": "XHTML Export",
+                    "format": "text/html",
+                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
+                },
+                {
+                    "@id": "https://fromthepage.com/iiif/32196039/export/tei",
+                    "label": "TEI Export",
+                    "format": "application/tei+xml",
+                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
+                }
+            ],
+            "canvases": [
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/117/pages/page_0",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/117/pages/page_0",
+                    "width": 2878,
+                    "height": 4975,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/e08cd87a-881d-316c-85cb-af52835fb82c",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/e08cd87a-881d-316c-85cb-af52835fb82c/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2878,
+                                "height": 4975,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/e08cd87a-881d-316c-85cb-af52835fb82c",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/117/pages/page_0"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987298"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987298"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/in-the-matter-of-the-application-of-betsy-reed-c-f-d-1093-supplemental-testimony-from-the-commission-to-the-five-civilized-tribes-vinita-i-t-october-29th-1901/annotation/34987298/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196039/export/34987298/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196039/export/34987298/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196039/export/34987298/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196039/34987298/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987298/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "otherContent": [
+        {
+            "@id": "https://fromthepage.com/iiif/32196039/layer/transcription",
+            "@type": "sc:Layer",
+            "label": "transcription layer"
+        },
+        {
+            "@id": "https://fromthepage.com/iiif/32196039/layer/notes",
+            "@type": "sc:Layer",
+            "label": "notes layer"
+        }
+    ]
+}

@@ -1,0 +1,529 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/114.json",
+    "@type": "sc:Manifest",
+    "label": "Supplemental proceedings in the matter of the application for the enrollment of  Charlotte Potts, et al., as Cherokee Freedmen [November 22, 1904]",
+    "metadata": [
+        {
+            "label": "dc:source",
+            "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/114"
+        },
+        {
+            "label": "creator",
+            "value": "United States. Commission to the Five Civilized Tribes"
+        },
+        {
+            "label": "contributor",
+            "value": [
+                "Bowman, Lucy M.",
+                "Miller, Fannie",
+                "Walker, Mary A.",
+                "Bulger, J. J.",
+                "Hastings, William Wirt, 1866-1938"
+            ]
+        },
+        {
+            "label": "subject",
+            "value": [
+                "Cherokee Indians--Tribal citizenship",
+                "Indian slaveholders",
+                "American Civil War (United States : 1861-1865)",
+                "Potts, Charlotte",
+                "African Americans",
+                "Freed persons",
+                "African American women",
+                "Migration, Internal--Southern States",
+                "Enslaved persons",
+                "Governmental investigations"
+            ]
+        },
+        {
+            "label": "rights",
+            "value": "No Copyright - United States; For more information, see: http://rightsstatements.org/vocab/NoC-US/1.0/"
+        },
+        {
+            "label": "format",
+            "value": "reformatted digital"
+        },
+        {
+            "label": "language",
+            "value": "eng"
+        },
+        {
+            "label": "title",
+            "value": "Supplemental proceedings in the matter of the application for the enrollment of  Charlotte Potts, et al., as Cherokee Freedmen [November 22, 1904]"
+        },
+        {
+            "label": "type",
+            "value": "Interviews"
+        },
+        {
+            "label": "extent",
+            "value": "4 pages"
+        },
+        {
+            "label": "created",
+            "value": "1904-11-22"
+        },
+        {
+            "label": "abstract",
+            "value": "Fannie Miller and Mary A. Walker testify before the Commission to the Five Civilized Tribes, Muskogee, Indian Territory in the Cherokee Freedmen enrollment case of Charlotte Potts et al. Fannie Miller testifies that Charlotte was formerly enslaved by Betsy Scott, and that she had become acquainted with Charlotte and her mother, Myra, during the Civil War, when they had relocated to  Fort Gibson. She testifies that Charlotte and her mother had moved to Webbers Falls later during the war. Mary A. Walker, the daughter of Sterling Scott (Betsy Scott's husband) is questioned about the persons enslaved by her father, and that she did not know Charlotte Potts and denies that he had ever enslaved Myra."
+        },
+        {
+            "label": "type",
+            "value": "Text"
+        },
+        {
+            "label": "spatial",
+            "value": [
+                "Oklahoma--Muskogee (Indian Territory)",
+                "Cherokee Nation, Oklahoma",
+                "Oklahoma--Fort Gibson (Indian Territory)"
+            ]
+        },
+        {
+            "label": "context",
+            "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/114"
+        },
+        {
+            "label": "Title",
+            "value": "Supplemental proceedings in the matter of the application for the enrollment of  Charlotte Potts, et al., as Cherokee Freedmen [November 22, 1904]"
+        },
+        {
+            "label": "Description",
+            "value": "Fannie Miller and Mary A. Walker testify before the Commission to the Five Civilized Tribes, Muskogee, Indian Territory in the Cherokee Freedmen enrollment case of Charlotte Potts et al. Fannie Miller testifies that Charlotte was formerly enslaved by Betsy Scott, and that she had become acquainted with Charlotte and her mother, Myra, during the Civil War, when they had relocated to  Fort Gibson. She testifies that Charlotte and her mother had moved to Webbers Falls later during the war. Mary A. Walker, the daughter of Sterling Scott (Betsy Scott's husband) is questioned about the persons enslaved by her father, and that she did not know Charlotte Potts and denies that he had ever enslaved Myra.\n<br /><br />\n"
+        },
+        {
+            "label": "Created On",
+            "value": "2025-04-29 20:59:13 UTC"
+        },
+        {
+            "label": "In Scope",
+            "value": "true"
+        }
+    ],
+    "description": "This is an annotated version of the original manifest produced by FromThePage",
+    "within": {
+        "@type": "sc:Collection",
+        "label": "Cherokee Freedmen",
+        "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+    },
+    "related": [
+        {
+            "format": "text/html",
+            "label": "Read Supplemental proceedings in the matter of the application for the enrollment of  Charlotte Potts, et al., as Cherokee Freedmen [November 22, 1904]",
+            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/supplemental-proceedings-in-the-matter-of-the-application-for-the-enrollment-of-charlotte-potts-et-al-as-cherokee-freedmen-november-22-1904"
+        },
+        {
+            "format": "text/html",
+            "label": "Table of Contents for Supplemental proceedings in the matter of the application for the enrollment of  Charlotte Potts, et al., as Cherokee Freedmen [November 22, 1904]",
+            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/supplemental-proceedings-in-the-matter-of-the-application-for-the-enrollment-of-charlotte-potts-et-al-as-cherokee-freedmen-november-22-1904/contents"
+        }
+    ],
+    "seeAlso": [
+        {
+            "label": "Verbatim Plaintext",
+            "format": "text/plain",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
+            "@id": "https://fromthepage.com/iiif/32196156/export/plaintext/verbatim"
+        },
+        {
+            "label": "Emended Plaintext",
+            "format": "text/plain",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
+            "@id": "https://fromthepage.com/iiif/32196156/export/plaintext/emended"
+        },
+        {
+            "label": "Searchable Plaintext",
+            "format": "text/plain",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
+            "@id": "https://fromthepage.com/iiif/32196156/export/plaintext/searchable"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196156/status",
+            "label": "Work Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
+            "pctComplete": 100.0,
+            "pctTranscribed": 100.0,
+            "pctOcrCorrected": 0.0,
+            "pctIndexed": 0,
+            "pctMarkedBlank": 0,
+            "pctNeedsReview": 0,
+            "pctTranslationComplete": 0,
+            "pctTranslated": 0,
+            "pctTranslationNeedsReview": 0,
+            "pctTranslationIndexed": 0,
+            "pctTranslationMarkedBlank": 0,
+            "metadataStatus": "undescribed",
+            "lastUpdated": "2025-05-13 02:53:08 UTC"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://fromthepage.com/iiif/32196156/sequence/default",
+            "@type": "sc:Sequence",
+            "label": "Pages",
+            "rendering": [
+                {
+                    "label": "Verbatim Plaintext",
+                    "format": "text/plain",
+                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
+                    "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32196156/export/plaintext/verbatim"
+                },
+                {
+                    "@id": "https://fromthepage.com/iiif/32196156/export/html",
+                    "label": "XHTML Export",
+                    "format": "text/html",
+                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
+                },
+                {
+                    "@id": "https://fromthepage.com/iiif/32196156/export/tei",
+                    "label": "TEI Export",
+                    "format": "application/tei+xml",
+                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
+                }
+            ],
+            "canvases": [
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/114/pages/page_0",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/114/pages/page_0",
+                    "width": 2842,
+                    "height": 4254,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/769eaac4-bf99-33d9-83cb-7aad9f761969",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/769eaac4-bf99-33d9-83cb-7aad9f761969/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2842,
+                                "height": 4254,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/769eaac4-bf99-33d9-83cb-7aad9f761969",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/114/pages/page_0"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987659"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987659"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/supplemental-proceedings-in-the-matter-of-the-application-for-the-enrollment-of-charlotte-potts-et-al-as-cherokee-freedmen-november-22-1904/annotation/34987659/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196156/export/34987659/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196156/export/34987659/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196156/export/34987659/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196156/34987659/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987659/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/114/pages/page_1",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/114/pages/page_1",
+                    "width": 2842,
+                    "height": 4254,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/e9cf7e07-a782-3f6c-a367-d87f7f5fb4e1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/e9cf7e07-a782-3f6c-a367-d87f7f5fb4e1/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2842,
+                                "height": 4254,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/e9cf7e07-a782-3f6c-a367-d87f7f5fb4e1",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/114/pages/page_1"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987660"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987660"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/supplemental-proceedings-in-the-matter-of-the-application-for-the-enrollment-of-charlotte-potts-et-al-as-cherokee-freedmen-november-22-1904/annotation/34987660/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196156/export/34987660/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196156/export/34987660/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196156/export/34987660/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196156/34987660/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987660/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/114/pages/page_2",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/114/pages/page_2",
+                    "width": 2910,
+                    "height": 4254,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/884c1fd9-f3b9-319d-8d92-e9ce6da950ce",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/884c1fd9-f3b9-319d-8d92-e9ce6da950ce/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2910,
+                                "height": 4254,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/884c1fd9-f3b9-319d-8d92-e9ce6da950ce",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/114/pages/page_2"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987661"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987661"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/supplemental-proceedings-in-the-matter-of-the-application-for-the-enrollment-of-charlotte-potts-et-al-as-cherokee-freedmen-november-22-1904/annotation/34987661/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196156/export/34987661/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196156/export/34987661/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196156/export/34987661/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196156/34987661/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987661/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/114/pages/page_3",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/114/pages/page_3",
+                    "width": 2906,
+                    "height": 4113,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/176594eb-f6be-3e84-b8a4-b461ce287eef",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/176594eb-f6be-3e84-b8a4-b461ce287eef/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2906,
+                                "height": 4113,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/176594eb-f6be-3e84-b8a4-b461ce287eef",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/114/pages/page_3"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987662"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987662"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/supplemental-proceedings-in-the-matter-of-the-application-for-the-enrollment-of-charlotte-potts-et-al-as-cherokee-freedmen-november-22-1904/annotation/34987662/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196156/export/34987662/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196156/export/34987662/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196156/export/34987662/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196156/34987662/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987662/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "otherContent": [
+        {
+            "@id": "https://fromthepage.com/iiif/32196156/layer/transcription",
+            "@type": "sc:Layer",
+            "label": "transcription layer"
+        },
+        {
+            "@id": "https://fromthepage.com/iiif/32196156/layer/notes",
+            "@type": "sc:Layer",
+            "label": "notes layer"
+        }
+    ]
+}

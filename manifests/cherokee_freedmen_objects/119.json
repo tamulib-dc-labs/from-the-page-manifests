@@ -1,0 +1,1267 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/119.json",
+    "@type": "sc:Manifest",
+    "label": "[Betsy Reed et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., October 26th, 1901",
+    "metadata": [
+        {
+            "label": "dc:source",
+            "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119"
+        },
+        {
+            "label": "creator",
+            "value": "United States. Commission to the Five Civilized Tribes"
+        },
+        {
+            "label": "contributor",
+            "value": [
+                "Reed, Betsy",
+                "Still, Harry",
+                "Rosson, J. O. (John O.)",
+                "Hastings, William Wirt, 1866-1938",
+                "Needles, T. B. (Thomas. B.), 1835-1914",
+                "Coody, John H.",
+                "Smith, Edgar",
+                "Webber, Sam",
+                "Armstrong, Henry"
+            ]
+        },
+        {
+            "label": "subject",
+            "value": [
+                "Reed, Betsy",
+                "Kerns-Clifton roll",
+                "Cherokee Indians--Tribal citizenship",
+                "Cherokee Indians--Census",
+                "African Americans",
+                "African American women",
+                "Indian slaveholders",
+                "Enslaved persons",
+                "Migration, Internal--United States",
+                "Children of freed persons",
+                "Freed persons",
+                "Governmental investigations",
+                "American Civil War (United States : 1861-1865)",
+                "Wallace rolls"
+            ]
+        },
+        {
+            "label": "rights",
+            "value": "No Copyright - United States; For more information, see: http://rightsstatements.org/vocab/NoC-US/1.0/"
+        },
+        {
+            "label": "format",
+            "value": "reformatted digital"
+        },
+        {
+            "label": "language",
+            "value": "eng"
+        },
+        {
+            "label": "title",
+            "value": "[Betsy Reed et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., October 26th, 1901"
+        },
+        {
+            "label": "type",
+            "value": "Interviews"
+        },
+        {
+            "label": "extent",
+            "value": "13 pages"
+        },
+        {
+            "label": "created",
+            "value": "1901-10-26"
+        },
+        {
+            "label": "abstract",
+            "value": "Testimony of Betsy Reed a former enslaved African American, for the enrollment of herself and her five grandchildren (Silas Harris, Mamie Harris, Hannah Brown,  Myrtle Brown, Mima Harris) as Cherokee Freedmen. The testimonies of Sam Webber, Harry Still, John H. Coody and Henry Armstrong are also included. Betsy testifies that she was formerly enslaved by \"Aleck McPherson,\" a Cherokee citizen, who lived on \"Dog Creek\" in the Cherokee Nation. She moved to Mound City, Kansas during the Civil War. She testifies that she has lived off and on in Mound City since the war ended, and has returned to the Cherokee Nation several times. Sam Webber and Harry Still testify that they saw her near Coody's Bluff in the Cherokee Nation in 1866. and that she returned to the Cherokee Nation again during the Wallace roll. Meanwhile, Betsy could not be identified in any of the Cherokee tribal rolls except for the Kern-Clifton roll. It is decided that Betsy and her grandchildren are to be placed on a \"doubtful card\" for further consideration by the Commission."
+        },
+        {
+            "label": "spatial",
+            "value": [
+                "Oklahoma--Vinita (Indian Territory)",
+                "Kansas--Mound City",
+                "Oklahoma--Coody's Bluff (Indian Territory)",
+                "Cherokee Nation, Oklahoma"
+            ]
+        },
+        {
+            "label": "type",
+            "value": "Text"
+        },
+        {
+            "label": "context",
+            "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119"
+        },
+        {
+            "label": "Title",
+            "value": "[Betsy Reed et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., October 26th, 1901"
+        },
+        {
+            "label": "Description",
+            "value": "Testimony of Betsy Reed a former enslaved African American, for the enrollment of herself and her five grandchildren (Silas Harris, Mamie Harris, Hannah Brown,  Myrtle Brown, Mima Harris) as Cherokee Freedmen. The testimonies of Sam Webber, Harry Still, John H. Coody and Henry Armstrong are also included. Betsy testifies that she was formerly enslaved by \"Aleck McPherson,\" a Cherokee citizen, who lived on \"Dog Creek\" in the Cherokee Nation. She moved to Mound City, Kansas during the Civil War. She testifies that she has lived off and on in Mound City since the war ended, and has returned to the Cherokee Nation several times. Sam Webber and Harry Still testify that they saw her near Coody's Bluff in the Cherokee Nation in 1866. and that she returned to the Cherokee Nation again during the Wallace roll. Meanwhile, Betsy could not be identified in any of the Cherokee tribal rolls except for the Kern-Clifton roll. It is decided that Betsy and her grandchildren are to be placed on a \"doubtful card\" for further consideration by the Commission.\n<br /><br />\n"
+        },
+        {
+            "label": "Created On",
+            "value": "2025-04-29 20:22:22 UTC"
+        },
+        {
+            "label": "In Scope",
+            "value": "true"
+        }
+    ],
+    "description": "This is an annotated version of the original manifest produced by FromThePage",
+    "within": {
+        "@type": "sc:Collection",
+        "label": "Cherokee Freedmen",
+        "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+    },
+    "related": [
+        {
+            "format": "text/html",
+            "label": "Read [Betsy Reed et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., October 26th, 1901",
+            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/betsy-reed-et-al-case-testimonies-department-of-the-interior-commission-to-the-five-civilized-tribes-vinita-i-t-october-26th-1901"
+        },
+        {
+            "format": "text/html",
+            "label": "Table of Contents for [Betsy Reed et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., October 26th, 1901",
+            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/betsy-reed-et-al-case-testimonies-department-of-the-interior-commission-to-the-five-civilized-tribes-vinita-i-t-october-26th-1901/contents"
+        }
+    ],
+    "seeAlso": [
+        {
+            "label": "Verbatim Plaintext",
+            "format": "text/plain",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
+            "@id": "https://fromthepage.com/iiif/32196098/export/plaintext/verbatim"
+        },
+        {
+            "label": "Emended Plaintext",
+            "format": "text/plain",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
+            "@id": "https://fromthepage.com/iiif/32196098/export/plaintext/emended"
+        },
+        {
+            "label": "Searchable Plaintext",
+            "format": "text/plain",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
+            "@id": "https://fromthepage.com/iiif/32196098/export/plaintext/searchable"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196098/status",
+            "label": "Work Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
+            "pctComplete": 100.0,
+            "pctTranscribed": 100.0,
+            "pctOcrCorrected": 0.0,
+            "pctIndexed": 0,
+            "pctMarkedBlank": 0,
+            "pctNeedsReview": 0,
+            "pctTranslationComplete": 0,
+            "pctTranslated": 0,
+            "pctTranslationNeedsReview": 0,
+            "pctTranslationIndexed": 0,
+            "pctTranslationMarkedBlank": 0,
+            "metadataStatus": "undescribed",
+            "lastUpdated": "2025-05-17 15:32:56 UTC"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://fromthepage.com/iiif/32196098/sequence/default",
+            "@type": "sc:Sequence",
+            "label": "Pages",
+            "rendering": [
+                {
+                    "label": "Verbatim Plaintext",
+                    "format": "text/plain",
+                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
+                    "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32196098/export/plaintext/verbatim"
+                },
+                {
+                    "@id": "https://fromthepage.com/iiif/32196098/export/html",
+                    "label": "XHTML Export",
+                    "format": "text/html",
+                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
+                },
+                {
+                    "@id": "https://fromthepage.com/iiif/32196098/export/tei",
+                    "label": "TEI Export",
+                    "format": "application/tei+xml",
+                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
+                }
+            ],
+            "canvases": [
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_0",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_0",
+                    "width": 2878,
+                    "height": 4739,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/7bc01ab9-de3d-3588-afdd-c7e9f07a8610",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/7bc01ab9-de3d-3588-afdd-c7e9f07a8610/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2878,
+                                "height": 4739,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/7bc01ab9-de3d-3588-afdd-c7e9f07a8610",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_0"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987451"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987451"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/betsy-reed-et-al-case-testimonies-department-of-the-interior-commission-to-the-five-civilized-tribes-vinita-i-t-october-26th-1901/annotation/34987451/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987451/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987451/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987451/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196098/34987451/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987451/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_1",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_1",
+                    "width": 2878,
+                    "height": 4518,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/aae0b650-b1ab-3d2b-824b-571e86e97f95",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/aae0b650-b1ab-3d2b-824b-571e86e97f95/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2878,
+                                "height": 4518,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/aae0b650-b1ab-3d2b-824b-571e86e97f95",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_1"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987452"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987452"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/betsy-reed-et-al-case-testimonies-department-of-the-interior-commission-to-the-five-civilized-tribes-vinita-i-t-october-26th-1901/annotation/34987452/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987452/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987452/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987452/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196098/34987452/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987452/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_2",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_2",
+                    "width": 2878,
+                    "height": 4554,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/92ee0eb4-2f32-3d2f-86d2-b914df16d2e5",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/92ee0eb4-2f32-3d2f-86d2-b914df16d2e5/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2878,
+                                "height": 4554,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/92ee0eb4-2f32-3d2f-86d2-b914df16d2e5",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_2"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987453"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987453"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/betsy-reed-et-al-case-testimonies-department-of-the-interior-commission-to-the-five-civilized-tribes-vinita-i-t-october-26th-1901/annotation/34987453/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987453/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987453/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987453/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196098/34987453/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987453/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_3",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_3",
+                    "width": 2866,
+                    "height": 4554,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/90520d8b-a6cf-3e40-bd32-d69f92e741d9",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/90520d8b-a6cf-3e40-bd32-d69f92e741d9/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2866,
+                                "height": 4554,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/90520d8b-a6cf-3e40-bd32-d69f92e741d9",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_3"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987454"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987454"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/betsy-reed-et-al-case-testimonies-department-of-the-interior-commission-to-the-five-civilized-tribes-vinita-i-t-october-26th-1901/annotation/34987454/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987454/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987454/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987454/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196098/34987454/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987454/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_4",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_4",
+                    "width": 2866,
+                    "height": 4458,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/2b710035-737a-3279-ae9b-098d2de8399b",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/2b710035-737a-3279-ae9b-098d2de8399b/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2866,
+                                "height": 4458,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/2b710035-737a-3279-ae9b-098d2de8399b",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_4"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987455"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987455"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/betsy-reed-et-al-case-testimonies-department-of-the-interior-commission-to-the-five-civilized-tribes-vinita-i-t-october-26th-1901/annotation/34987455/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987455/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987455/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987455/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196098/34987455/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987455/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_5",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_5",
+                    "width": 2826,
+                    "height": 4514,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/d2e31b33-6779-30f0-abd9-ed0fd8af8d54",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/d2e31b33-6779-30f0-abd9-ed0fd8af8d54/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2826,
+                                "height": 4514,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/d2e31b33-6779-30f0-abd9-ed0fd8af8d54",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_5"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987456"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987456"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/betsy-reed-et-al-case-testimonies-department-of-the-interior-commission-to-the-five-civilized-tribes-vinita-i-t-october-26th-1901/annotation/34987456/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987456/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987456/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987456/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196098/34987456/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987456/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_6",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_6",
+                    "width": 2826,
+                    "height": 4627,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/3ec2fd11-062c-34c0-b216-6b9d0735415b",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/3ec2fd11-062c-34c0-b216-6b9d0735415b/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2826,
+                                "height": 4627,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/3ec2fd11-062c-34c0-b216-6b9d0735415b",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_6"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987457"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987457"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/betsy-reed-et-al-case-testimonies-department-of-the-interior-commission-to-the-five-civilized-tribes-vinita-i-t-october-26th-1901/annotation/34987457/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987457/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987457/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987457/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196098/34987457/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987457/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_7",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_7",
+                    "width": 2826,
+                    "height": 4627,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/2a71cf48-9baa-30ad-9401-73c2a5a5239e",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/2a71cf48-9baa-30ad-9401-73c2a5a5239e/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2826,
+                                "height": 4627,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/2a71cf48-9baa-30ad-9401-73c2a5a5239e",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_7"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987458"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987458"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/betsy-reed-et-al-case-testimonies-department-of-the-interior-commission-to-the-five-civilized-tribes-vinita-i-t-october-26th-1901/annotation/34987458/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987458/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987458/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987458/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196098/34987458/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987458/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_8",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_8",
+                    "width": 2826,
+                    "height": 4627,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/9bdb0803-5ce0-33ce-b474-154dd1b25eb0",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/9bdb0803-5ce0-33ce-b474-154dd1b25eb0/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2826,
+                                "height": 4627,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/9bdb0803-5ce0-33ce-b474-154dd1b25eb0",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_8"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987459"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987459"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/betsy-reed-et-al-case-testimonies-department-of-the-interior-commission-to-the-five-civilized-tribes-vinita-i-t-october-26th-1901/annotation/34987459/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987459/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987459/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987459/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196098/34987459/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987459/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_9",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_9",
+                    "width": 2898,
+                    "height": 4627,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/89e6516b-dea7-34b9-b2cd-bc4b074e4479",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/89e6516b-dea7-34b9-b2cd-bc4b074e4479/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2898,
+                                "height": 4627,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/89e6516b-dea7-34b9-b2cd-bc4b074e4479",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_9"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987460"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987460"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/betsy-reed-et-al-case-testimonies-department-of-the-interior-commission-to-the-five-civilized-tribes-vinita-i-t-october-26th-1901/annotation/34987460/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987460/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987460/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987460/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196098/34987460/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987460/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_10",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_10",
+                    "width": 2898,
+                    "height": 4667,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/6aa6e6e6-41cb-3473-8ad1-312361c85e85",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/6aa6e6e6-41cb-3473-8ad1-312361c85e85/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2898,
+                                "height": 4667,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/6aa6e6e6-41cb-3473-8ad1-312361c85e85",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_10"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987461"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987461"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/betsy-reed-et-al-case-testimonies-department-of-the-interior-commission-to-the-five-civilized-tribes-vinita-i-t-october-26th-1901/annotation/34987461/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987461/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987461/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987461/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196098/34987461/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987461/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_11",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_11",
+                    "width": 2898,
+                    "height": 4627,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/7b287497-770f-318a-911f-786647dc25ff",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/7b287497-770f-318a-911f-786647dc25ff/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2898,
+                                "height": 4627,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/7b287497-770f-318a-911f-786647dc25ff",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_11"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987462"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987462"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/betsy-reed-et-al-case-testimonies-department-of-the-interior-commission-to-the-five-civilized-tribes-vinita-i-t-october-26th-1901/annotation/34987462/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987462/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987462/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987462/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196098/34987462/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987462/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_12",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_12",
+                    "width": 2898,
+                    "height": 4322,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/43ee7cc4-a573-3dc4-9e08-b50bb36e6f07",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/43ee7cc4-a573-3dc4-9e08-b50bb36e6f07/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2898,
+                                "height": 4322,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/43ee7cc4-a573-3dc4-9e08-b50bb36e6f07",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/119/pages/page_12"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987463"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987463"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/betsy-reed-et-al-case-testimonies-department-of-the-interior-commission-to-the-five-civilized-tribes-vinita-i-t-october-26th-1901/annotation/34987463/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987463/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987463/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196098/export/34987463/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196098/34987463/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987463/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "otherContent": [
+        {
+            "@id": "https://fromthepage.com/iiif/32196098/layer/transcription",
+            "@type": "sc:Layer",
+            "label": "transcription layer"
+        },
+        {
+            "@id": "https://fromthepage.com/iiif/32196098/layer/notes",
+            "@type": "sc:Layer",
+            "label": "notes layer"
+        }
+    ]
+}

@@ -1,0 +1,286 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/177.json",
+    "@type": "sc:Manifest",
+    "label": "Decision: in the matter of the application of Ruthie Wright for the enrollment of herself and minor children, Henry, Nora, Minnie and Anna Wright, as Cherokee Freedmen",
+    "metadata": [
+        {
+            "label": "dc:source",
+            "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/177"
+        },
+        {
+            "label": "creator",
+            "value": "United States. Commission to the Five Civilized Tribes"
+        },
+        {
+            "label": "contributor",
+            "value": [
+                "Breckinridge, Clifton Rodes, 1846-1932",
+                "Stanley, W. E."
+            ]
+        },
+        {
+            "label": "subject",
+            "value": [
+                "Cherokee Indians--Tribal citizenship",
+                "African Americans",
+                "Cherokee Indians--Legal status, laws, etc.",
+                "Freed persons",
+                "Wright, Nora",
+                "Cherokee Indians--Census, 1880",
+                "Governmental investigations",
+                "Wright, Anna",
+                "Choctaw Indians",
+                "Wright, Ruthie",
+                "African American women",
+                "United States. Curtis Act",
+                "Wright, Henry",
+                "Children of freed persons",
+                "Wright, Minnie",
+                "Enslaved persons",
+                "Slaveholders"
+            ]
+        },
+        {
+            "label": "rights",
+            "value": "No Copyright - United States; For more information, see: http://rightsstatements.org/vocab/NoC-US/1.0/"
+        },
+        {
+            "label": "format",
+            "value": "reformatted digital"
+        },
+        {
+            "label": "language",
+            "value": "eng"
+        },
+        {
+            "label": "title",
+            "value": "Decision: in the matter of the application of Ruthie Wright for the enrollment of herself and minor children, Henry, Nora, Minnie and Anna Wright, as Cherokee Freedmen"
+        },
+        {
+            "label": "extent",
+            "value": "1 page"
+        },
+        {
+            "label": "created",
+            "value": "1904-03-05"
+        },
+        {
+            "label": "abstract",
+            "value": "The official decision of the  Commission to the Five Civilized Tribes  to deny the application of Ruthie Wright and her minor children (Henry, Nora, Minnie and Anna) for enrollment as Cherokee Freedmen. The evidence cited includes the finding that Ruthie was formerly enslaved by Mary Bright, in Arkansas, and that neither she nor her children had been enslaved by Cherokee citizens or free African Americans in the Cherokee Nation. None of their names were found on the 1880 Cherokee tribal roll, and the father of her children claimed to be a Choctaw Freedmen. It was concluded that Ruthie and her children were not entitled to citizenship in the Cherokee Nation, under provisions specified within the Curtis Act, approved by Congress on June 28, 1898."
+        },
+        {
+            "label": "spatial",
+            "value": [
+                "Arkansas",
+                "Oklahoma--Muskogee (Indian Territory)",
+                "Cherokee Nation, Oklahoma"
+            ]
+        },
+        {
+            "label": "type",
+            "value": "Text"
+        },
+        {
+            "label": "context",
+            "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/177"
+        },
+        {
+            "label": "Title",
+            "value": "Decision: in the matter of the application of Ruthie Wright for the enrollment of herself and minor children, Henry, Nora, Minnie and Anna Wright, as Cherokee Freedmen"
+        },
+        {
+            "label": "Description",
+            "value": "The official decision of the  Commission to the Five Civilized Tribes  to deny the application of Ruthie Wright and her minor children (Henry, Nora, Minnie and Anna) for enrollment as Cherokee Freedmen. The evidence cited includes the finding that Ruthie was formerly enslaved by Mary Bright, in Arkansas, and that neither she nor her children had been enslaved by Cherokee citizens or free African Americans in the Cherokee Nation. None of their names were found on the 1880 Cherokee tribal roll, and the father of her children claimed to be a Choctaw Freedmen. It was concluded that Ruthie and her children were not entitled to citizenship in the Cherokee Nation, under provisions specified within the Curtis Act, approved by Congress on June 28, 1898.\n<br /><br />\n"
+        },
+        {
+            "label": "Created On",
+            "value": "2025-04-29 20:38:22 UTC"
+        },
+        {
+            "label": "In Scope",
+            "value": "true"
+        }
+    ],
+    "description": "This is an annotated version of the original manifest produced by FromThePage",
+    "within": {
+        "@type": "sc:Collection",
+        "label": "Cherokee Freedmen",
+        "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+    },
+    "related": [
+        {
+            "format": "text/html",
+            "label": "Read Decision: in the matter of the application of Ruthie Wright for the enrollment of herself and minor children, Henry, Nora, Minnie and Anna Wright, as Cherokee Freedmen",
+            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/decision-in-the-matter-of-the-application-of-ruthie-wright-for-the-enrollment-of-herself-and-minor-children-henry-nora-minnie-and-anna-wright-as-cherokee-freedmen"
+        },
+        {
+            "format": "text/html",
+            "label": "Table of Contents for Decision: in the matter of the application of Ruthie Wright for the enrollment of herself and minor children, Henry, Nora, Minnie and Anna Wright, as Cherokee Freedmen",
+            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/decision-in-the-matter-of-the-application-of-ruthie-wright-for-the-enrollment-of-herself-and-minor-children-henry-nora-minnie-and-anna-wright-as-cherokee-freedmen/contents"
+        }
+    ],
+    "seeAlso": [
+        {
+            "label": "Verbatim Plaintext",
+            "format": "text/plain",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
+            "@id": "https://fromthepage.com/iiif/32196132/export/plaintext/verbatim"
+        },
+        {
+            "label": "Emended Plaintext",
+            "format": "text/plain",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
+            "@id": "https://fromthepage.com/iiif/32196132/export/plaintext/emended"
+        },
+        {
+            "label": "Searchable Plaintext",
+            "format": "text/plain",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
+            "@id": "https://fromthepage.com/iiif/32196132/export/plaintext/searchable"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196132/status",
+            "label": "Work Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
+            "pctComplete": 100.0,
+            "pctTranscribed": 100.0,
+            "pctOcrCorrected": 0.0,
+            "pctIndexed": 0,
+            "pctMarkedBlank": 0,
+            "pctNeedsReview": 0,
+            "pctTranslationComplete": 0,
+            "pctTranslated": 0,
+            "pctTranslationNeedsReview": 0,
+            "pctTranslationIndexed": 0,
+            "pctTranslationMarkedBlank": 0,
+            "metadataStatus": "undescribed",
+            "lastUpdated": "2025-04-30 21:56:13 UTC"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://fromthepage.com/iiif/32196132/sequence/default",
+            "@type": "sc:Sequence",
+            "label": "Pages",
+            "rendering": [
+                {
+                    "label": "Verbatim Plaintext",
+                    "format": "text/plain",
+                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
+                    "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32196132/export/plaintext/verbatim"
+                },
+                {
+                    "@id": "https://fromthepage.com/iiif/32196132/export/html",
+                    "label": "XHTML Export",
+                    "format": "text/html",
+                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
+                },
+                {
+                    "@id": "https://fromthepage.com/iiif/32196132/export/tei",
+                    "label": "TEI Export",
+                    "format": "application/tei+xml",
+                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
+                }
+            ],
+            "canvases": [
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/177/pages/page_0",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/177/pages/page_0",
+                    "width": 2939,
+                    "height": 4651,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/08f03a8b-4cdb-3a25-a655-3cb9449c8cdd",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/08f03a8b-4cdb-3a25-a655-3cb9449c8cdd/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2939,
+                                "height": 4651,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/08f03a8b-4cdb-3a25-a655-3cb9449c8cdd",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/177/pages/page_0"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987560"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987560"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/decision-in-the-matter-of-the-application-of-ruthie-wright-for-the-enrollment-of-herself-and-minor-children-henry-nora-minnie-and-anna-wright-as-cherokee-freedmen/annotation/34987560/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196132/export/34987560/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196132/export/34987560/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196132/export/34987560/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196132/34987560/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987560/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "otherContent": [
+        {
+            "@id": "https://fromthepage.com/iiif/32196132/layer/transcription",
+            "@type": "sc:Layer",
+            "label": "transcription layer"
+        },
+        {
+            "@id": "https://fromthepage.com/iiif/32196132/layer/notes",
+            "@type": "sc:Layer",
+            "label": "notes layer"
+        }
+    ]
+}

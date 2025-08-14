@@ -1,0 +1,286 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/156.json",
+    "@type": "sc:Manifest",
+    "label": "Decision: in the matter of the application for the enrollment of Fannie Vann as a Cherokee Freedman",
+    "metadata": [
+        {
+            "label": "dc:source",
+            "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/156"
+        },
+        {
+            "label": "creator",
+            "value": "United States. Commission to the Five Civilized Tribes"
+        },
+        {
+            "label": "contributor",
+            "value": [
+                "Bixby, Tams, 1854-1922",
+                "Needles, T. B. (Thomas. B.), 1835-1914",
+                "Breckinridge, Clifton Rodes, 1846-1932"
+            ]
+        },
+        {
+            "label": "subject",
+            "value": [
+                "Freed persons",
+                "African Americans",
+                "Cherokee Indians--Tribal citizenship",
+                "Governmental investigations",
+                "United States. Curtis Act",
+                "Cherokee Indians--Census, 1880",
+                "Indian slaveholders",
+                "Enslaved persons",
+                "African American women",
+                "Migration, Internal--Southern States",
+                "Vann, Fannie",
+                "American Civil War (United States : 1861-1865)",
+                "Cherokee Indians--Legal status, laws, etc."
+            ]
+        },
+        {
+            "label": "rights",
+            "value": "No Copyright - United States; For more information, see: http://rightsstatements.org/vocab/NoC-US/1.0/"
+        },
+        {
+            "label": "format",
+            "value": "reformatted digital"
+        },
+        {
+            "label": "language",
+            "value": "eng"
+        },
+        {
+            "label": "title",
+            "value": "Decision: in the matter of the application for the enrollment of Fannie Vann as a Cherokee Freedman"
+        },
+        {
+            "label": "type",
+            "value": "Correspondence"
+        },
+        {
+            "label": "extent",
+            "value": "1 page"
+        },
+        {
+            "label": "created",
+            "value": "1904-04-20"
+        },
+        {
+            "label": "abstract",
+            "value": "The official decision of the Commission to the Five Civilized Tribes to deny the application of Fannie Vann, a formerly enslaved African American, for citizenship in the Cherokee Nation. Based on evidence that was presented during a hearing in Fort Gibson, Indian Territory, it is found that she had been enslaved by a Cherokee citizen, was taken out of the Cherokee Nation during the Civil War, and did not return until 1888. Her name was also not found in the 1880 authenticated Cherokee tribal roll. Her case was denied based on provisions in the Curtis Act, passed by Congress on June 28, 1898."
+        },
+        {
+            "label": "type",
+            "value": "Text"
+        },
+        {
+            "label": "spatial",
+            "value": [
+                "Oklahoma--Muskogee (Indian Territory)",
+                "Cherokee Nation, Oklahoma"
+            ]
+        },
+        {
+            "label": "context",
+            "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/156"
+        },
+        {
+            "label": "Title",
+            "value": "Decision: in the matter of the application for the enrollment of Fannie Vann as a Cherokee Freedman"
+        },
+        {
+            "label": "Description",
+            "value": "The official decision of the Commission to the Five Civilized Tribes to deny the application of Fannie Vann, a formerly enslaved African American, for citizenship in the Cherokee Nation. Based on evidence that was presented during a hearing in Fort Gibson, Indian Territory, it is found that she had been enslaved by a Cherokee citizen, was taken out of the Cherokee Nation during the Civil War, and did not return until 1888. Her name was also not found in the 1880 authenticated Cherokee tribal roll. Her case was denied based on provisions in the Curtis Act, passed by Congress on June 28, 1898.\n<br /><br />\n"
+        },
+        {
+            "label": "Created On",
+            "value": "2025-04-29 19:59:27 UTC"
+        },
+        {
+            "label": "In Scope",
+            "value": "true"
+        }
+    ],
+    "description": "This is an annotated version of the original manifest produced by FromThePage",
+    "within": {
+        "@type": "sc:Collection",
+        "label": "Cherokee Freedmen",
+        "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+    },
+    "related": [
+        {
+            "format": "text/html",
+            "label": "Read Decision: in the matter of the application for the enrollment of Fannie Vann as a Cherokee Freedman",
+            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/decision-in-the-matter-of-the-application-for-the-enrollment-of-fannie-vann-as-a-cherokee-freedman"
+        },
+        {
+            "format": "text/html",
+            "label": "Table of Contents for Decision: in the matter of the application for the enrollment of Fannie Vann as a Cherokee Freedman",
+            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/decision-in-the-matter-of-the-application-for-the-enrollment-of-fannie-vann-as-a-cherokee-freedman/contents"
+        }
+    ],
+    "seeAlso": [
+        {
+            "label": "Verbatim Plaintext",
+            "format": "text/plain",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
+            "@id": "https://fromthepage.com/iiif/32196004/export/plaintext/verbatim"
+        },
+        {
+            "label": "Emended Plaintext",
+            "format": "text/plain",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
+            "@id": "https://fromthepage.com/iiif/32196004/export/plaintext/emended"
+        },
+        {
+            "label": "Searchable Plaintext",
+            "format": "text/plain",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
+            "@id": "https://fromthepage.com/iiif/32196004/export/plaintext/searchable"
+        }
+    ],
+    "service": [
+        {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196004/status",
+            "label": "Work Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
+            "pctComplete": 100.0,
+            "pctTranscribed": 100.0,
+            "pctOcrCorrected": 0.0,
+            "pctIndexed": 0,
+            "pctMarkedBlank": 0,
+            "pctNeedsReview": 0,
+            "pctTranslationComplete": 0,
+            "pctTranslated": 0,
+            "pctTranslationNeedsReview": 0,
+            "pctTranslationIndexed": 0,
+            "pctTranslationMarkedBlank": 0,
+            "metadataStatus": "undescribed",
+            "lastUpdated": "2025-04-30 21:13:20 UTC"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://fromthepage.com/iiif/32196004/sequence/default",
+            "@type": "sc:Sequence",
+            "label": "Pages",
+            "rendering": [
+                {
+                    "label": "Verbatim Plaintext",
+                    "format": "text/plain",
+                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
+                    "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32196004/export/plaintext/verbatim"
+                },
+                {
+                    "@id": "https://fromthepage.com/iiif/32196004/export/html",
+                    "label": "XHTML Export",
+                    "format": "text/html",
+                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
+                },
+                {
+                    "@id": "https://fromthepage.com/iiif/32196004/export/tei",
+                    "label": "TEI Export",
+                    "format": "application/tei+xml",
+                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
+                }
+            ],
+            "canvases": [
+                {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/156/pages/page_0",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/156/pages/page_0",
+                    "width": 2947,
+                    "height": 4422,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/5c5884df-8ca6-3085-98dd-8692f37737c4",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/5c5884df-8ca6-3085-98dd-8692f37737c4/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2947,
+                                "height": 4422,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/5c5884df-8ca6-3085-98dd-8692f37737c4",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/156/pages/page_0"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987195"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987195"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/decision-in-the-matter-of-the-application-for-the-enrollment-of-fannie-vann-as-a-cherokee-freedman/annotation/34987195/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196004/export/34987195/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196004/export/34987195/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196004/export/34987195/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196004/34987195/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987195/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "otherContent": [
+        {
+            "@id": "https://fromthepage.com/iiif/32196004/layer/transcription",
+            "@type": "sc:Layer",
+            "label": "transcription layer"
+        },
+        {
+            "@id": "https://fromthepage.com/iiif/32196004/layer/notes",
+            "@type": "sc:Layer",
+            "label": "notes layer"
+        }
+    ]
+}

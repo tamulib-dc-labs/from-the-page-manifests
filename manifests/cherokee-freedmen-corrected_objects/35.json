@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/35.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/35.json",
     "@type": "sc:Manifest",
     "label": "[Multiple denied cases for Cherokee Freedmen enrollment]]: Letter from Tam Bixby, the Commissioner to the Five Civilized Tribes, to the Secretary of the Interior, July 24, 1905",
     "metadata": [

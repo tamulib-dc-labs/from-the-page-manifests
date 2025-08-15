@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/20.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/20.json",
     "@type": "sc:Manifest",
     "label": "[George Alberty case]: Letter from William O. Beall, Acting Commissioner to the Five Civilized Tribes to Bell, Hastings & Davenport, Attorneys for the Cherokee Nation in the Case of George Alberty, August 16, 1905",
     "metadata": [

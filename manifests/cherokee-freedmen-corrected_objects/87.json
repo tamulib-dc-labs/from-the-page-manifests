@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/87.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/87.json",
     "@type": "sc:Manifest",
     "label": "[Robert Barnes and Martha Albert et al. testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., April 18, 1901",
     "metadata": [
@@ -146,8 +146,8 @@
             "@id": "https://fromthepage.com/iiif/32196081/status",
             "label": "Work Status",
             "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
-            "pctComplete": 71.43,
-            "pctTranscribed": 71.43,
+            "pctComplete": 100.0,
+            "pctTranscribed": 100.0,
             "pctOcrCorrected": 0.0,
             "pctIndexed": 0,
             "pctMarkedBlank": 0,
@@ -158,7 +158,7 @@
             "pctTranslationIndexed": 0,
             "pctTranslationMarkedBlank": 0,
             "metadataStatus": "undescribed",
-            "lastUpdated": "2025-05-22 21:10:30 UTC"
+            "lastUpdated": "2025-08-14 20:14:39 UTC"
         }
     ],
     "sequences": [
@@ -498,7 +498,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196081/34987416/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -576,7 +579,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196081/34987417/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {

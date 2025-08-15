@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/43.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/43.json",
     "@type": "sc:Manifest",
     "label": "Decision: in the matter of the application of George Bell et al. for enrollment as Cherokee Freedmen, consolidating the applications of George Bell, Cherokee Freedmen D 706 [and] July Bell, Cherokee Freedman D 1021.",
     "metadata": [

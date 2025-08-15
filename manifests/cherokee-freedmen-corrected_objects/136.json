@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/136.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/136.json",
     "@type": "sc:Manifest",
     "label": "In the matter of the application of Peggy A. Rowe, et al. for enrollment as Cherokee Freedmen: Testimony introduced on behalf of the Cherokee Nation [October 8, 1901]",
     "metadata": [

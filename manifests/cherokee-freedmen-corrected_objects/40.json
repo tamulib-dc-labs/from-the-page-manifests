@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/40.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/40.json",
     "@type": "sc:Manifest",
     "label": "[George Bell et al. case]: Letter from E. A. Hitchcock, the Secretary of the Interior, to the Commission to the Five Civilized Tribes, Washington, June 21, 1904 [3 copies]",
     "metadata": [

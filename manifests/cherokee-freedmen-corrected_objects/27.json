@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/27.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/27.json",
     "@type": "sc:Manifest",
     "label": "[Martha Albert et al. case testimonies]: Supplemental Testimony F.-D.#42: Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., May 21, 1901 [2 copies]",
     "metadata": [

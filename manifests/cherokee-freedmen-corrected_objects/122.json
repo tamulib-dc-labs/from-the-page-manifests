@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/122.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/122.json",
     "@type": "sc:Manifest",
     "label": "[Peter Ross case]: Letter from E.A. Hitchcock, Secretary of the Interior, to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, June 9, 1904 [2 copies]",
     "metadata": [

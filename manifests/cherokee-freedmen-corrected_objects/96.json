@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/96.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/96.json",
     "@type": "sc:Manifest",
     "label": "Decision: in the matter of the application for the  enrollment of Sallie Mayfield et al., as Cherokee Freedmen, consolidating the applications of Sallie Mayfield (Cherokee Freedmen D-91), Thomas Mayfield et al. (Cherokee Freedmen D-124), Emberry Mayfield,",
     "metadata": [

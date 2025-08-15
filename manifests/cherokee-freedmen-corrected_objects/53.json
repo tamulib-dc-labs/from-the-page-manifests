@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/53.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/53.json",
     "@type": "sc:Manifest",
     "label": "[John H. Brown case} : Letter from C.R. Breckinridge, Commissioner to the Five Civilized Tribes, to John H. Brown, Alluwe, Indian Territory, March 16, 1904",
     "metadata": [

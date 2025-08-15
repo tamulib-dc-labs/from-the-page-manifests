@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/18.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/18.json",
     "@type": "sc:Manifest",
     "label": "[George Alberty case]: Letter from C.F. Larrabee from the Office of Indian Affairs to the Secretary of the Interior, Washington, April 5, 1905 [2 copies]",
     "metadata": [

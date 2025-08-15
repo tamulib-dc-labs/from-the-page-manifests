@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/153.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/153.json",
     "@type": "sc:Manifest",
     "label": "[Dollie Umphuris case]: Letter from A. C. Tonner, Acting Secretary of the Office of Indian Affairs to the Secretary of the Interior, Washington, June 1, 1904",
     "metadata": [

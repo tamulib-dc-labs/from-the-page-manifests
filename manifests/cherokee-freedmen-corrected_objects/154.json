@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/154.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/154.json",
     "@type": "sc:Manifest",
     "label": "[Dollie Umphuris case]: Letter from \"Dollie Humphrey\" [Dollie  Umphuris]  to a \"Mr. Hiscox\" [most likely E. A. Hitchcock], Fort Gibson, Indian Territory, June 23, 1906 [4 copies]",
     "metadata": [

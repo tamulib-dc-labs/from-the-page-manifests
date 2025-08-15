@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/170.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/170.json",
     "@type": "sc:Manifest",
     "label": "[Ed Williams case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs, to the Secretary of the Interior, Washington, May 23, 1904",
     "metadata": [

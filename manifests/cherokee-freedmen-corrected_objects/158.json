@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/158.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/158.json",
     "@type": "sc:Manifest",
     "label": "[Fannie Vann case]:  Letter from Thos Ryan, Acting Secretary of the Interior, to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, May 20, 1904",
     "metadata": [

@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/161.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/161.json",
     "@type": "sc:Manifest",
     "label": "[Katie Vann et al. case]: Letter from the Commission to the Five Civilized Tribes to W. W. Hastings, Muskogee, Indian Territory, February 28, 1907",
     "metadata": [

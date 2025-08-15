@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/162.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/162.json",
     "@type": "sc:Manifest",
     "label": "Decision: in the matter of the applications for the enrollment of Katie Vann, et al., as Cherokee Freedmen",
     "metadata": [

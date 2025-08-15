@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/138.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/138.json",
     "@type": "sc:Manifest",
     "label": "[Testimony] in the matter of the application for enrollment as a Cherokee Freedman by Cullie Rowe: Department of the Interior, Commission to the Five Civilized Tribes, Muskogee, May 11th, 1900",
     "metadata": [

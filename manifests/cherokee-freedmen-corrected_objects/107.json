@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/107.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/107.json",
     "@type": "sc:Manifest",
     "label": "[Sallie Mayfield et al. case]: Letter from T. B. Needles, Commissioner to the Five Civilized Tribes to A.S. McRea, representing J. F. Faulds, Attorney for Salle Mayfield et al., Muskogee, Indian Territory, May 5, 1904",
     "metadata": [

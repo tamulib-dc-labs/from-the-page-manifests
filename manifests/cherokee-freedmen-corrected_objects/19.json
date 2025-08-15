@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/19.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/19.json",
     "@type": "sc:Manifest",
     "label": "[George Alberty case]: Letter from Thomas Ryan, Acting Secretary of the Interior, to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, August 5, 1905 [2 copies]",
     "metadata": [

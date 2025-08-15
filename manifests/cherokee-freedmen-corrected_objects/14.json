@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/14.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/14.json",
     "@type": "sc:Manifest",
     "label": "[Henry Albert et al. case]: Letter from Tams Bixby, Chairman to the Commission to the Five Civilized Tribes, to Henry Albert, July 24, 1905",
     "metadata": [

@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/101.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/101.json",
     "@type": "sc:Manifest",
     "label": "[Sallie and Thomas Mayfield cases]: Letter from A. C. Tonner, Acting Commissioner to the Office of Indian Affairs to the Secretary of the Interior, Washington, June 13, 1904 [2 copies]",
     "metadata": [

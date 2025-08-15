@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/51.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/51.json",
     "@type": "sc:Manifest",
     "label": "[Charles Brown et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., April 11, 1903 [2 copies]",
     "metadata": [

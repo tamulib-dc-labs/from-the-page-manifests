@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/36.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/36.json",
     "@type": "sc:Manifest",
     "label": "[John Barnes et al. case]: Letter from Tams Bixby, the Commissioner to the Five Civilized Tribes, to John Barnes, Gans, Indian Territory, July 24, 1905",
     "metadata": [

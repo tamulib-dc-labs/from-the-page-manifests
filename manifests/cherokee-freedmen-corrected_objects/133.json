@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/133.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/133.json",
     "@type": "sc:Manifest",
     "label": "Supplemental testimony and proceedings in the matter of the application for the enrollment of Joseph Rowe et al., as Cherokee Freedmen: Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., November 17, 1903",
     "metadata": [

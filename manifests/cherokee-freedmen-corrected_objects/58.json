@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/58.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/58.json",
     "@type": "sc:Manifest",
     "label": "[Susan Harlin et al. case]: Letter from A. C. Tonner, the Acting Commissioner to the U.S. Office of Indian Affairs, to the Secretary of the Interior, Washington, May 18, 1904",
     "metadata": [

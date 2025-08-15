@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/148.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/148.json",
     "@type": "sc:Manifest",
     "label": "[Katie Thornton et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Chelsea, I. T., June 7, 1901",
     "metadata": [

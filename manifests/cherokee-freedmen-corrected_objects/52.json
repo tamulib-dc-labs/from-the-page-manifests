@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/52.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/52.json",
     "@type": "sc:Manifest",
     "label": "[John H. Brown case]: Letter from the Commissioner to the Five Civilized Tribes to John H. Brown, Alluwe, Indian Territory, May 28, 1906",
     "metadata": [

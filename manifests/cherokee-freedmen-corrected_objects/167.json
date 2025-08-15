@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/167.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/167.json",
     "@type": "sc:Manifest",
     "label": "[Phyllis Whitmire case]: Letter from Thos Ryan, Acting Secretary of the Department of the Interior to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, May 23, 1904",
     "metadata": [

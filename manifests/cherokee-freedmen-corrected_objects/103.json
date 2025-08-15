@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/103.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/103.json",
     "@type": "sc:Manifest",
     "label": "Supplemental [testimony], D. 91, Sallie Mayfield: Department of the Interior, Commission to the Five Civilized Tribes, Ft. Gibson, I.T., April 20, 1901",
     "metadata": [

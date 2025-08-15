@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/78.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/78.json",
     "@type": "sc:Manifest",
     "label": "[Hartwell H. Houston case]: Letter from C. F. Larrabee, Acting Commissioner to the Office of Indian Affairs to the Secretary of the Interior, Washington, November 1, 1906",
     "metadata": [

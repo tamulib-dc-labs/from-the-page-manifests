@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/130.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/130.json",
     "@type": "sc:Manifest",
     "label": "[Pamela Rowe et al. case]: Letter from T.B. Needles, Commissioner to the Five Civilized Tribes, Muskogee, Indian Territory, to Edgar Smith, Attorney for Parmelia Rowe et al., Vinita, Indian Territory, May 5, 1905",
     "metadata": [

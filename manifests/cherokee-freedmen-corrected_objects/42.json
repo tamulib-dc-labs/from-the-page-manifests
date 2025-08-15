@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/42.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/42.json",
     "@type": "sc:Manifest",
     "label": "[George Bell et al. case]: Letter from A. C. Tonner, Acting Commissioner to the Office of Indian Affairs, to the Secretary of the Interior, Washington, May 24, 1904 [2 copies]",
     "metadata": [

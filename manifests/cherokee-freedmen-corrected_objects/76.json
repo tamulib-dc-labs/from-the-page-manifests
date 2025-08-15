@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/76.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/76.json",
     "@type": "sc:Manifest",
     "label": "[Hartwell H. Houston et al. case]: Letter from Tams Bixby, Commissioner of Indian Affairs, to the Secretary of the Interior, Muskogee, Indian Territory, October 3, 1905",
     "metadata": [

@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/97.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/97.json",
     "@type": "sc:Manifest",
     "label": "Supplemental testimony in the matter of the application of Emberry Mayfield et al., C. F. D., 131 [September 11, 1901]",
     "metadata": [

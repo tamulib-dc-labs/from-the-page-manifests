@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/32.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/32.json",
     "@type": "sc:Manifest",
     "label": "[Martha et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Muskogee, Indian Territory, April 27, 1905",
     "metadata": [
@@ -153,8 +153,8 @@
             "@id": "https://fromthepage.com/iiif/32196149/status",
             "label": "Work Status",
             "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
-            "pctComplete": 4.55,
-            "pctTranscribed": 4.55,
+            "pctComplete": 100.0,
+            "pctTranscribed": 100.0,
             "pctOcrCorrected": 0.0,
             "pctIndexed": 0,
             "pctMarkedBlank": 0,
@@ -165,7 +165,7 @@
             "pctTranslationIndexed": 0,
             "pctTranslationMarkedBlank": 0,
             "metadataStatus": "undescribed",
-            "lastUpdated": "2025-05-10 22:48:43 UTC"
+            "lastUpdated": "2025-08-14 20:48:31 UTC"
         }
     ],
     "sequences": [
@@ -343,7 +343,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987618/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -421,7 +424,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987620/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -499,7 +505,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987621/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -577,7 +586,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987622/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -655,7 +667,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987623/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -733,7 +748,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987624/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -811,7 +829,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987625/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -889,7 +910,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987626/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -967,7 +991,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987627/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -1045,7 +1072,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987628/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -1123,7 +1153,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987629/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -1201,7 +1234,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987630/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -1279,7 +1315,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987631/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -1357,7 +1396,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987632/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -1435,7 +1477,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987633/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -1513,7 +1558,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987634/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -1591,7 +1639,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987635/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -1669,7 +1720,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987636/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -1747,7 +1801,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987637/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -1825,7 +1882,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987638/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {
@@ -1903,7 +1963,10 @@
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
                         "@id": "https://fromthepage.com/iiif/32196149/34987639/status",
                         "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1"
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
                     },
                     "otherContent": [
                         {

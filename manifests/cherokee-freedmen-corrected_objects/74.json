@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/74.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/74.json",
     "@type": "sc:Manifest",
     "label": "[Hartwell H. Houston et al. case]: Letter from Thos Ryan, Acting Secretary of the Interior, to the Commissioner to the Five Civilized Tribes, Muskogee, Indian Territory, August 23, 1905",
     "metadata": [

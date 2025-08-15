@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/64.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/64.json",
     "@type": "sc:Manifest",
     "label": "[Jesse Hicks et al. case]: Letter from the Commissioner to the Five Civilized Tribes, Muskogee, Indian Territory, to Jesse Hicks, May 28, 1906",
     "metadata": [

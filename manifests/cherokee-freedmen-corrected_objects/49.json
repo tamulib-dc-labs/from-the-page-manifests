@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/49.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/49.json",
     "@type": "sc:Manifest",
     "label": "[Charles Brown et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Muskogee, I. T., February 18, 1902 [2 copies]",
     "metadata": [

@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/70.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/70.json",
     "@type": "sc:Manifest",
     "label": "Hartwell H. Houston: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]",
     "metadata": [

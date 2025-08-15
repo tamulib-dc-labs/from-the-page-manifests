@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/12.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/12.json",
     "@type": "sc:Manifest",
     "label": "[Martha Albert et al. case]: Letter from T. B. Needles, Commissioner to the Five Civilized Tribes, to Neal & London, Attorneys for Martha Albert et al., Fort Smith, Arkansas, April 8, 1905",
     "metadata": [

@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/164.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/164.json",
     "@type": "sc:Manifest",
     "label": "[Katie Vann et al. and other denied cases for Cherokee Freedmen enrollment]: Letter from Jesse E. Wilson, Assistant Secretary to the Department of the Interior to the Commissioner of Indian Affairs, Washington, March 9, 1907",
     "metadata": [

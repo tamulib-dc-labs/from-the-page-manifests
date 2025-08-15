@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/54.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/54.json",
     "@type": "sc:Manifest",
     "label": "Supplemental testimony in the matter of the enrollment of Katie Thornton et al., as Cherokee Freedmen, introduced on part of the Cherokee Nation [Commission to the Five Civilized Tribes, Vinita, I. T., October 26, 1901]",
     "metadata": [

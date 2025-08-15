@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/163.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/163.json",
     "@type": "sc:Manifest",
     "label": "[Katie Vann et al. and other denied cases for Cherokee Freedmen enrollment]: Letter from C. F. Larrabee, Acting Commissioner to the Office of Indian Affairs to the Secretary of the Interior, Washington, March 4, 1907",
     "metadata": [

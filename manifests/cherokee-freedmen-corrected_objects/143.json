@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/143.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/143.json",
     "@type": "sc:Manifest",
     "label": "[Caroline Starr et al. case]: Letter from E.A. Hitchcock, the Secretary of the Interior, to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, June 24, 1905 [2 copies]",
     "metadata": [

@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/144.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/144.json",
     "@type": "sc:Manifest",
     "label": "[Caroline Starr et al. case]: Letter from Thos Ryan, Acting Secretary to the Department of the Interior, to the Commission to the Five Civilized Tribes, July 28, 1904",
     "metadata": [

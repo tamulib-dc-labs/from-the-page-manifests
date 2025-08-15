@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/118.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/118.json",
     "@type": "sc:Manifest",
     "label": "[Betsy Reed et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., October 29, 1901",
     "metadata": [

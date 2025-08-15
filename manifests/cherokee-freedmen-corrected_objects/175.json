@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/175.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/175.json",
     "@type": "sc:Manifest",
     "label": "[Ruthie Wright et al. case]: Letter from Thos Ryan, First Assistant Secretary to the Interior, to the Commissioner to the Five Civilized Tribes, Muskogee, Indian Territory, December 16, 1905 [4 copies]",
     "metadata": [

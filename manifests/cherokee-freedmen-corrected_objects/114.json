@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/114.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/114.json",
     "@type": "sc:Manifest",
     "label": "Supplemental proceedings in the matter of the application for the enrollment of  Charlotte Potts, et al., as Cherokee Freedmen [November 22, 1904]",
     "metadata": [

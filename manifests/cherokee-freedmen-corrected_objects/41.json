@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/41.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/41.json",
     "@type": "sc:Manifest",
     "label": "Letter from the Commissioner to the Five Civilized Tribes to the U.S. Secretary of the Interior, Muskogee, Indian Territory, March 2, 1907",
     "metadata": [

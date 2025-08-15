@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/172.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/172.json",
     "@type": "sc:Manifest",
     "label": "[Ruthie Wright et al. case]: Letter from C. R. Breckinridge, Commissioner in  Charge to the Five Civilized Tribes, to Ruthie Wright, Vian, Indian Territory, March 16, 1904",
     "metadata": [

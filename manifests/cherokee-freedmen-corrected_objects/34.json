@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/34.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/34.json",
     "@type": "sc:Manifest",
     "label": "[Multiple denied cases for Cherokee Freedmen enrollment]t]: Letter from Tams Bixby, Commissioner to the Five Civilized Tribes, to Neal and London, the Attorneys for Martha Albert et al., July 24, 1905",
     "metadata": [

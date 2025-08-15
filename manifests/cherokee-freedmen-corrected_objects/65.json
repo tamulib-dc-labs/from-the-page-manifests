@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/65.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/65.json",
     "@type": "sc:Manifest",
     "label": "[Jesse Hicks et al. case]: Letter from A. C. Tonner, Acting Commissioner to the Office of Indian Affairs to the Secretary of the Interior, Washington, June 10, 1904",
     "metadata": [

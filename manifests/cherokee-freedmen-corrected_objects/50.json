@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee_freedmen_objects/50.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/50.json",
     "@type": "sc:Manifest",
     "label": "[Perry Adams case]: Department of the Interior, Commission to the Five Civilized Tribes, Muskogee, I. T., May 31, 1902",
     "metadata": [

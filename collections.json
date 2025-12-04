@@ -1,0 +1,1578 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/collection.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "Cherokee Freedmen"
+        ]
+    },
+    "items": [
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/115.json",
+            "label": {
+                "none": [
+                    "Sarah Hines et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/142.json",
+            "label": {
+                "none": [
+                    "Caroline Starr et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/154.json",
+            "label": {
+                "none": [
+                    "[Dollie Umphuris case]: Letter from \"Dollie Humphrey\" [Dollie  Umphuris]  to a \"Mr. Hiscox\" [most likely E. A. Hitchcock], Fort Gibson, Indian Territory, June 23, 1906 [4 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/103.json",
+            "label": {
+                "none": [
+                    "Supplemental [testimony], D. 91, Sallie Mayfield: Department of the Interior, Commission to the Five Civilized Tribes, Ft. Gibson, I.T., April 20, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/20.json",
+            "label": {
+                "none": [
+                    "[George Alberty case]: Letter from William O. Beall, Acting Commissioner to the Five Civilized Tribes to Bell, Hastings & Davenport, Attorneys for the Cherokee Nation in the Case of George Alberty, August 16, 1905"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/98.json",
+            "label": {
+                "none": [
+                    "[Sallie Mayfield et al. case]: Letter from E. A. Hitchcock, Secretary of the Interior, to the Commission to the Five Civilized Tribes, Washington, June 21, 1904 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/77.json",
+            "label": {
+                "none": [
+                    "[Hartwell H. Houston case]: Letter from E. A. Hitchcock, Secretary of the Interior to the Commissioner to the Five Civilized Tribes, Muskogee, Indian Territory, November 8, 1906"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/139.json",
+            "label": {
+                "none": [
+                    "[Testimony] in the matter of the application of Cully Rowe for enrollment as a Cherokee Freedman: Department of the Interior, Commission to the Five Civilized Tribes, Nowata, I. T., June 27, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/36.json",
+            "label": {
+                "none": [
+                    "[John Barnes et al. case]: Letter from Tams Bixby, the Commissioner to the Five Civilized Tribes, to John Barnes, Gans, Indian Territory, July 24, 1905"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/119.json",
+            "label": {
+                "none": [
+                    "[Betsy Reed et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., October 26th, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/41.json",
+            "label": {
+                "none": [
+                    "Letter from the Commissioner to the Five Civilized Tribes to the U.S. Secretary of the Interior, Muskogee, Indian Territory, March 2, 1907"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/16.json",
+            "label": {
+                "none": [
+                    "George Alberty: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/158.json",
+            "label": {
+                "none": [
+                    "[Fannie Vann case]:  Letter from Thos Ryan, Acting Secretary of the Interior, to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, May 20, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/57.json",
+            "label": {
+                "none": [
+                    "[Susan Harlin et al. case]: Letter from Thos Ryan, the Acting Secretary of the Interior, to the Commission to the Five Civilized Tribes, Washington, May 23, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/174.json",
+            "label": {
+                "none": [
+                    "[Ruthie Wright et al. case]: Letter from E. A. Hitchcock, Secretary of the Interior, to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, June 23, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/94.json",
+            "label": {
+                "none": [
+                    "Thomas Mayfield et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/123.json",
+            "label": {
+                "none": [
+                    "[Peter Ross case]: Letter from A.C. Tonner, Acting Commissioner of Indian Affairs, to the Secretary of the Interior, Washington, June 6, 1904 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/82.json",
+            "label": {
+                "none": [
+                    "[Lula Knalls et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., April 18, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/6.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Supplemental Testimony F.-D.#42: Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., May 21, 1901 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/135.json",
+            "label": {
+                "none": [
+                    "[Freeman Rowe case]: Letter from T.B. Needles, Commissioner in Charge, to the Cherokee Enrollment Division, Commission to the Five Civilized Tribes, Muskogee, Indian Territory, August 19, 1901 [4 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/162.json",
+            "label": {
+                "none": [
+                    "Decision: in the matter of the applications for the enrollment of Katie Vann, et al., as Cherokee Freedmen"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/163.json",
+            "label": {
+                "none": [
+                    "[Katie Vann et al. and other denied cases for Cherokee Freedmen enrollment]: Letter from C. F. Larrabee, Acting Commissioner to the Office of Indian Affairs to the Secretary of the Interior, Washington, March 4, 1907"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/7.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., September 4, 1901 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/83.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., September 11, 1901 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/134.json",
+            "label": {
+                "none": [
+                    "Cully Rowe: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/95.json",
+            "label": {
+                "none": [
+                    "Emberry Mayfield et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/122.json",
+            "label": {
+                "none": [
+                    "[Peter Ross case]: Letter from E.A. Hitchcock, Secretary of the Interior, to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, June 9, 1904 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/175.json",
+            "label": {
+                "none": [
+                    "[Ruthie Wright et al. case]: Letter from Thos Ryan, First Assistant Secretary to the Interior, to the Commissioner to the Five Civilized Tribes, Muskogee, Indian Territory, December 16, 1905 [4 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/56.json",
+            "label": {
+                "none": [
+                    "Susan Harlin et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/159.json",
+            "label": {
+                "none": [
+                    "Katie Vann et al.: [Envelope for copy of a testimony in a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/17.json",
+            "label": {
+                "none": [
+                    "[George Alberty case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Muskogee, Indian Territory, October 21, 1902"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/118.json",
+            "label": {
+                "none": [
+                    "[Betsy Reed et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., October 29, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/40.json",
+            "label": {
+                "none": [
+                    "[George Bell et al. case]: Letter from E. A. Hitchcock, the Secretary of the Interior, to the Commission to the Five Civilized Tribes, Washington, June 21, 1904 [3 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/37.json",
+            "label": {
+                "none": [
+                    "[A testimony] in the matter of the application for the enrollment of Martha Albert et al. as Cherokee Freedmen [May 11, 1905]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/138.json",
+            "label": {
+                "none": [
+                    "[Testimony] in the matter of the application for enrollment as a Cherokee Freedman by Cullie Rowe: Department of the Interior, Commission to the Five Civilized Tribes, Muskogee, May 11th, 1900"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/60.json",
+            "label": {
+                "none": [
+                    "[Susan Harlin et al. case testimonies]: Supplemental: C.F. D-149, Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., September 13, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/99.json",
+            "label": {
+                "none": [
+                    "[Sallie Mayfield et al. case]: Letter from T. B. Needles, Commissioner to the Five Civilized Tribes, to W. W. Hastings, Attorney for the Cherokee Nation, Tahlequah, Indian Territory, May 5, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/76.json",
+            "label": {
+                "none": [
+                    "[Hartwell H. Houston et al. case]: Letter from Tams Bixby, Commissioner of Indian Affairs, to the Secretary of the Interior, Muskogee, Indian Territory, October 3, 1905"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/21.json",
+            "label": {
+                "none": [
+                    "John Barnes et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/102.json",
+            "label": {
+                "none": [
+                    "[Hannah West case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., September 4, 1901 [4 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/155.json",
+            "label": {
+                "none": [
+                    "Fannie Vann: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/143.json",
+            "label": {
+                "none": [
+                    "[Caroline Starr et al. case]: Letter from E.A. Hitchcock, the Secretary of the Interior, to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, June 24, 1905 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/114.json",
+            "label": {
+                "none": [
+                    "Supplemental proceedings in the matter of the application for the enrollment of  Charlotte Potts, et al., as Cherokee Freedmen [November 22, 1904]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/47.json",
+            "label": {
+                "none": [
+                    "John H. Brown: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/148.json",
+            "label": {
+                "none": [
+                    "[Katie Thornton et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Chelsea, I. T., June 7, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/10.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., September 17, 1901 [Supplemental Testimony-2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/109.json",
+            "label": {
+                "none": [
+                    "[Robert Mayfield case]: Letter from the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, to Robert Mayfield, June 1, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/51.json",
+            "label": {
+                "none": [
+                    "[Charles Brown et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., April 11, 1903 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/172.json",
+            "label": {
+                "none": [
+                    "[Ruthie Wright et al. case]: Letter from C. R. Breckinridge, Commissioner in  Charge to the Five Civilized Tribes, to Ruthie Wright, Vian, Indian Territory, March 16, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/92.json",
+            "label": {
+                "none": [
+                    "Decision : in the matter of the application for the enrollment of John May and his minor children, Sophia, Ettie, Minnie, Elmer, Idella and Nellie May, as Cherokee Freedmen"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/125.json",
+            "label": {
+                "none": [
+                    "Joseph Rowe et al: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/84.json",
+            "label": {
+                "none": [
+                    "[A testimony] in the matter of the application for the enrollment of Martha Albert et al. as Cherokee Freedmen [May 11, 1905]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/133.json",
+            "label": {
+                "none": [
+                    "Supplemental testimony and proceedings in the matter of the application for the enrollment of Joseph Rowe et al., as Cherokee Freedmen: Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., November 17, 1903"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/164.json",
+            "label": {
+                "none": [
+                    "[Katie Vann et al. and other denied cases for Cherokee Freedmen enrollment]: Letter from Jesse E. Wilson, Assistant Secretary to the Department of the Interior to the Commissioner of Indian Affairs, Washington, March 9, 1907"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/113.json",
+            "label": {
+                "none": [
+                    "[Robert Mayfield case]: Letter from A.C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, May 18, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/144.json",
+            "label": {
+                "none": [
+                    "[Caroline Starr et al. case]: Letter from Thos Ryan, Acting Secretary to the Department of the Interior, to the Commission to the Five Civilized Tribes, July 28, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/152.json",
+            "label": {
+                "none": [
+                    "[Dollie Umphuris case]: Letter from E.A. Hitchcock, Secretary of the Interior to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, June 11, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/105.json",
+            "label": {
+                "none": [
+                    "[Emberry et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., April 20, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/26.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., April 18, 1901 [Supplemental Testimony B]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/129.json",
+            "label": {
+                "none": [
+                    "[Pamela Rowe et al. case]: Letter from T.B. Needles, Commissioner in Charge to the Five Civilized Tribes, Muskogee, Indian Territory, to W.W. Hastings, Attorney for Cherokee Nation, Tahlequah, Indian Territory, May 5, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/71.json",
+            "label": {
+                "none": [
+                    "[Hartwell H. Houston et al. case]: Letter from Thos Ryan, Acting Secretary of the Interior to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, Washington, May 23, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/88.json",
+            "label": {
+                "none": [
+                    "[Martha Albert case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., April 18, 1901 [Supplemental Testimony A]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/67.json",
+            "label": {
+                "none": [
+                    "[William Holt case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Chelsea, I. T., June 20, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/168.json",
+            "label": {
+                "none": [
+                    "Ed Williams: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/30.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., September 17, 1901 [Supplemental Testimony-2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/169.json",
+            "label": {
+                "none": [
+                    "[Ed Williams case]: Letter from Thos Ryan, Acting Secretary of the Interior to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, May 27, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/31.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case]: Letter from E.A. Hitchcock, Secretary of the Interior to the Commission to the Five Civilized Tribes about Martha Albert's Cherokee Freedmen case, Washington, March 25, 1905"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/89.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., April 18, 1901 [Supplemental Testimony B]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/66.json",
+            "label": {
+                "none": [
+                    "William Holt: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/128.json",
+            "label": {
+                "none": [
+                    "[Pamela Rowe et al. case]: Letter from T.B. Needles, Commissioner to the Five Civilized Tribes, Muskogee, Indian Territory, to the Secretary of the Interior, May 5, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/70.json",
+            "label": {
+                "none": [
+                    "Hartwell H. Houston: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/27.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Supplemental Testimony F.-D.#42: Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., May 21, 1901 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/104.json",
+            "label": {
+                "none": [
+                    "[Houston West case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Ft. Gibson, September 4, 1901 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/153.json",
+            "label": {
+                "none": [
+                    "[Dollie Umphuris case]: Letter from A. C. Tonner, Acting Secretary of the Office of Indian Affairs to the Secretary of the Interior, Washington, June 1, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/145.json",
+            "label": {
+                "none": [
+                    "[Carline Starr et al. case]: Letter from Thos Ryan, Acting Secretary to the Department of the Interior to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, May 24, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/112.json",
+            "label": {
+                "none": [
+                    "Decision: in the matter of the application of Robert Mayfield for enrollment as a Cherokee Freedman"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/165.json",
+            "label": {
+                "none": [
+                    "Phyllis Whitmire: [Envelope for copy of a testimony in a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/85.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., September 17, 1901 [Supplemental Testimony-2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/132.json",
+            "label": {
+                "none": [
+                    "In the matter of the application of Parmelia Rowe, C. F. D. 681: Supplemental testimony, Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., October 15th, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/93.json",
+            "label": {
+                "none": [
+                    "Sallie Mayfield: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/124.json",
+            "label": {
+                "none": [
+                    "Decision: in the matter of the application for the enrollment of Peter Ross as a Cherokee Freedman"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/173.json",
+            "label": {
+                "none": [
+                    "[Ruthie Wright et al. case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs, to the Secretary of the Interior, Washington, June 18, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/108.json",
+            "label": {
+                "none": [
+                    "Robert Mayfield: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/50.json",
+            "label": {
+                "none": [
+                    "[Perry Adams case]: Department of the Interior, Commission to the Five Civilized Tribes, Muskogee, I. T., May 31, 1902"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/149.json",
+            "label": {
+                "none": [
+                    "[Katie Thornton et al. case]: [Incomplete copy of testimonies], Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., October 26, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/11.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case]: Letter from E.A. Hitchcock, Secretary of the Interior, to the Commission to the Five Civilized Tribes about Martha Albert's Cherokee Freedmen case, Washington, March 25, 1905"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/46.json",
+            "label": {
+                "none": [
+                    "Charles Brown Jr.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/166.json",
+            "label": {
+                "none": [
+                    "[Phyllis Whitmire case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, February 6, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/69.json",
+            "label": {
+                "none": [
+                    "[William Holt and Tecumseh Holt case]: Incomplete letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, June 17, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/131.json",
+            "label": {
+                "none": [
+                    "[Jesse Rowe et al. case testimony]: Department of the Interior, Commission to the Five Civilized Tribes, Nowata, I. T., June 29th, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/2.json",
+            "label": {
+                "none": [
+                    "Henry Albert et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/86.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., September 4, 1901 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/127.json",
+            "label": {
+                "none": [
+                    "[Parmelia Rowe at al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Chelsea, I. T., June 11, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/90.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Supplemental Testimony F.-D.#42: Department of the Interior, Commission to the Five Civilized Tribes, Vinita, I. T., May 21, 1901 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/28.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., September 4, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/170.json",
+            "label": {
+                "none": [
+                    "[Ed Williams case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs, to the Secretary of the Interior, Washington, May 23, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/53.json",
+            "label": {
+                "none": [
+                    "[John H. Brown case} : Letter from C.R. Breckinridge, Commissioner to the Five Civilized Tribes, to John H. Brown, Alluwe, Indian Territory, March 16, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/12.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case]: Letter from T. B. Needles, Commissioner to the Five Civilized Tribes, to Neal & London, Attorneys for Martha Albert et al., Fort Smith, Arkansas, April 8, 1905"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/45.json",
+            "label": {
+                "none": [
+                    "Charles Brown et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/32.json",
+            "label": {
+                "none": [
+                    "[Martha et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Muskogee, Indian Territory, April 27, 1905"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/65.json",
+            "label": {
+                "none": [
+                    "[Jesse Hicks et al. case]: Letter from A. C. Tonner, Acting Commissioner to the Office of Indian Affairs to the Secretary of the Interior, Washington, June 10, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/73.json",
+            "label": {
+                "none": [
+                    "[Hartwell H. Houston et al. case]: Letter from C. F. Larrabee, Acting Commissioner to the Office of Indian Affairs, to the Secretary of the Interior, Washington, August 10, 1905"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/24.json",
+            "label": {
+                "none": [
+                    "[Robert Barnes and Martha Albert et al. testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., April 18, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/107.json",
+            "label": {
+                "none": [
+                    "[Sallie Mayfield et al. case]: Letter from T. B. Needles, Commissioner to the Five Civilized Tribes to A.S. McRea, representing J. F. Faulds, Attorney for Salle Mayfield et al., Muskogee, Indian Territory, May 5, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/150.json",
+            "label": {
+                "none": [
+                    "Dollie Umphuris: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/146.json",
+            "label": {
+                "none": [
+                    "[Caroline Starr et al. case]: Letter from A. C. Tonner, Acting Commissioner to the Office of Indian Affairs to the Secretary of the Interior, Washington, May 17, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/49.json",
+            "label": {
+                "none": [
+                    "[Charles Brown et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Muskogee, I. T., February 18, 1902 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/111.json",
+            "label": {
+                "none": [
+                    "[Robert Mayfield case]: Letter from Thos Ryan, Acting Secretary of the Interior to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, May 23, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/48.json",
+            "label": {
+                "none": [
+                    "[Charles Brown et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Nowata, I.T., June 29th 1901 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/110.json",
+            "label": {
+                "none": [
+                    "[Robert Mayfield case:]: Affidavit from J.M. Fisher, Illinois District, Cherokee Nation, for the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, Jan. 31, 1903"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/147.json",
+            "label": {
+                "none": [
+                    "Decision: in the matter of the application of Caroline Starr for the enrollment of herself and her minor child,  John W. McClure, as Cherokee Freedmen"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/151.json",
+            "label": {
+                "none": [
+                    "Decision: in the matter of the application of Dollie Umphuris for enrollment as a Cherokee Freedman"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/106.json",
+            "label": {
+                "none": [
+                    "[Sallie Mayfield et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., April 12, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/25.json",
+            "label": {
+                "none": [
+                    "[Martha Albert case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., April 18, 1901 [Supplemental Testimony A]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/72.json",
+            "label": {
+                "none": [
+                    "[Hartwell H. Houston et al. case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, May 17, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/64.json",
+            "label": {
+                "none": [
+                    "[Jesse Hicks et al. case]: Letter from the Commissioner to the Five Civilized Tribes, Muskogee, Indian Territory, to Jesse Hicks, May 28, 1906"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/33.json",
+            "label": {
+                "none": [
+                    "[Multiple denied cases for Cherokee Freedmen enrollment]: Letter from Tams Bixby, Commissioner to the Five Civilized Tribes, to Bell, Hastings & Davenport, the Attorneys for the Cherokee Nation, July 24, 1905"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/44.json",
+            "label": {
+                "none": [
+                    "Mary A. Suagee: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/13.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case]: Letter from T. B. Needles, Commissioner to the Five Civilized Tribes to Bell, Hastings & Davenport, Attorneys for the Cherokee Nation about Martha Albert's Cherokee Freedmen case, April 8, 1905"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/52.json",
+            "label": {
+                "none": [
+                    "[John H. Brown case]: Letter from the Commissioner to the Five Civilized Tribes to John H. Brown, Alluwe, Indian Territory, May 28, 1906"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/29.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., September 11, 1901 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/171.json",
+            "label": {
+                "none": [
+                    "Ruthie Wright et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/126.json",
+            "label": {
+                "none": [
+                    "Parmelia Rowe et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/91.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., April 10, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/130.json",
+            "label": {
+                "none": [
+                    "[Pamela Rowe et al. case]: Letter from T.B. Needles, Commissioner to the Five Civilized Tribes, Muskogee, Indian Territory, to Edgar Smith, Attorney for Parmelia Rowe et al., Vinita, Indian Territory, May 5, 1905"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/87.json",
+            "label": {
+                "none": [
+                    "[Robert Barnes and Martha Albert et al. testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., April 18, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/3.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., April 10, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/167.json",
+            "label": {
+                "none": [
+                    "[Phyllis Whitmire case]: Letter from Thos Ryan, Acting Secretary of the Department of the Interior to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, May 23, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/34.json",
+            "label": {
+                "none": [
+                    "[Multiple denied cases for Cherokee Freedmen enrollment]t]: Letter from Tams Bixby, Commissioner to the Five Civilized Tribes, to Neal and London, the Attorneys for Martha Albert et al., July 24, 1905"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/63.json",
+            "label": {
+                "none": [
+                    "[Jesse Hicks et al. case]: Letter from E. A. Hitchcock, the Secretary of the Interior, to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, June 20, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/8.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., September 11, 1901 [2copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/75.json",
+            "label": {
+                "none": [
+                    "[Hartwell H. Houston case]: Letter from Jesse E. Wilson, Assistant Secretary of the Interior to the Commissioner to the Five Civilized Tribes, Muskogee, Indian Territory, August 29, 1906"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/22.json",
+            "label": {
+                "none": [
+                    "Robert Barnes: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/59.json",
+            "label": {
+                "none": [
+                    "[Susan Harlin et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Ft. Gibson, I. T., April 23, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/101.json",
+            "label": {
+                "none": [
+                    "[Sallie and Thomas Mayfield cases]: Letter from A. C. Tonner, Acting Commissioner to the Office of Indian Affairs to the Secretary of the Interior, Washington, June 13, 1904 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/156.json",
+            "label": {
+                "none": [
+                    "Decision: in the matter of the application for the enrollment of Fannie Vann as a Cherokee Freedman"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/18.json",
+            "label": {
+                "none": [
+                    "[George Alberty case]: Letter from C.F. Larrabee from the Office of Indian Affairs to the Secretary of the Interior, Washington, April 5, 1905 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/140.json",
+            "label": {
+                "none": [
+                    "Freeman Rowe: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/117.json",
+            "label": {
+                "none": [
+                    "In the matter of the application of Betsy Reed, C.F.D. 1093--Supplemental testimony [from the Commission to the Five Civilized Tribes, Vinita, I.T., October 29th, 1901]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/38.json",
+            "label": {
+                "none": [
+                    "George Bell: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/160.json",
+            "label": {
+                "none": [
+                    "[Katie Vann et al. case testimony]: Department of the Interior, Commission to the Five Civilized Tribes, Muskogee, Indian Territory, August 30, 1902"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/137.json",
+            "label": {
+                "none": [
+                    "[Peggy A. Rowe et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Chelsea, I. T., June 10, 1901 [3 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/4.json",
+            "label": {
+                "none": [
+                    "[Martha Albert case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., April 18, 1901 [Supplemental Testimony A]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/80.json",
+            "label": {
+                "none": [
+                    "Lula Knalls et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/79.json",
+            "label": {
+                "none": [
+                    "[Hartwell H. Houston et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Ft. Gibson, I.T., April 30, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/121.json",
+            "label": {
+                "none": [
+                    "Peter Ross: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/96.json",
+            "label": {
+                "none": [
+                    "Decision: in the matter of the application for the  enrollment of Sallie Mayfield et al., as Cherokee Freedmen, consolidating the applications of Sallie Mayfield (Cherokee Freedmen D-91), Thomas Mayfield et al. (Cherokee Freedmen D-124), Emberry Mayfield,"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/176.json",
+            "label": {
+                "none": [
+                    "[Ruthie Wright et al. case]: Letter from Thos Ryan, First Assistant Secretary of the Interior to the Commissioner to the Five Civilized Tribes, Muskogee, Indian Territory, January 26, 1906 [5 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/55.json",
+            "label": {
+                "none": [
+                    "[Perry Adams case]: Department of the Interior, Commission to the Five Civilized Tribes, Muskogee, I. T., May 31, 1902"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/14.json",
+            "label": {
+                "none": [
+                    "[Henry Albert et al. case]: Letter from Tams Bixby, Chairman to the Commission to the Five Civilized Tribes, to Henry Albert, July 24, 1905"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/43.json",
+            "label": {
+                "none": [
+                    "Decision: in the matter of the application of George Bell et al. for enrollment as Cherokee Freedmen, consolidating the applications of George Bell, Cherokee Freedmen D 706 [and] July Bell, Cherokee Freedman D 1021."
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/42.json",
+            "label": {
+                "none": [
+                    "[George Bell et al. case]: Letter from A. C. Tonner, Acting Commissioner to the Office of Indian Affairs, to the Secretary of the Interior, Washington, May 24, 1904 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/15.json",
+            "label": {
+                "none": [
+                    "[Robert Barnes and Martha Albert et al. testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., April 18, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/54.json",
+            "label": {
+                "none": [
+                    "Supplemental testimony in the matter of the enrollment of Katie Thornton et al., as Cherokee Freedmen, introduced on part of the Cherokee Nation [Commission to the Five Civilized Tribes, Vinita, I. T., October 26, 1901]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/177.json",
+            "label": {
+                "none": [
+                    "Decision: in the matter of the application of Ruthie Wright for the enrollment of herself and minor children, Henry, Nora, Minnie and Anna Wright, as Cherokee Freedmen"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/78.json",
+            "label": {
+                "none": [
+                    "[Hartwell H. Houston case]: Letter from C. F. Larrabee, Acting Commissioner to the Office of Indian Affairs to the Secretary of the Interior, Washington, November 1, 1906"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/120.json",
+            "label": {
+                "none": [
+                    "Jennie Dave Rogers et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/97.json",
+            "label": {
+                "none": [
+                    "Supplemental testimony in the matter of the application of Emberry Mayfield et al., C. F. D., 131 [September 11, 1901]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/136.json",
+            "label": {
+                "none": [
+                    "In the matter of the application of Peggy A. Rowe, et al. for enrollment as Cherokee Freedmen: Testimony introduced on behalf of the Cherokee Nation [October 8, 1901]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/81.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case]: Letter from E.A. Hitchcock, Secretary of the Interior to the Commission to the Five Civilized Tribes about Martha Albert's Cherokee Freedmen case, Washington, March 25, 1905"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/5.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., April 18, 1901 [Supplemental Testimony B]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/39.json",
+            "label": {
+                "none": [
+                    "July Bell: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/161.json",
+            "label": {
+                "none": [
+                    "[Katie Vann et al. case]: Letter from the Commission to the Five Civilized Tribes to W. W. Hastings, Muskogee, Indian Territory, February 28, 1907"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/116.json",
+            "label": {
+                "none": [
+                    "Betsy Reed et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/19.json",
+            "label": {
+                "none": [
+                    "[George Alberty case]: Letter from Thomas Ryan, Acting Secretary of the Interior, to the Commission to the Five Civilized Tribes, Muskogee, Indian Territory, August 5, 1905 [2 copies]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/141.json",
+            "label": {
+                "none": [
+                    "Decision: in the matter of the application for the enrollment of Peggy A. Rowe et al., as Cherokee Freedmen, consolidating the applications of-- Peggy A. Rowe et al., Cherokee Freedmen D 646, Cully Rowe, Cherokee Freedmen D-896, Freeman Rowe, Cherokee"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/157.json",
+            "label": {
+                "none": [
+                    "[Fannie Vann case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, May 14, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/58.json",
+            "label": {
+                "none": [
+                    "[Susan Harlin et al. case]: Letter from A. C. Tonner, the Acting Commissioner to the U.S. Office of Indian Affairs, to the Secretary of the Interior, Washington, May 18, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/100.json",
+            "label": {
+                "none": [
+                    "[Sallie Mayfield et al. case]: Letter from T. B. Needles, Commissioner to the Five Civilized Tribes, to the Secretary of the Interior, May 5, 1904"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/23.json",
+            "label": {
+                "none": [
+                    "[Martha Albert et al. case testimonies]: Department of the Interior, Commission to the Five Civilized Tribes, Fort Gibson, I. T., April 10, 1901"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/74.json",
+            "label": {
+                "none": [
+                    "[Hartwell H. Houston et al. case]: Letter from Thos Ryan, Acting Secretary of the Interior, to the Commissioner to the Five Civilized Tribes, Muskogee, Indian Territory, August 23, 1905"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/62.json",
+            "label": {
+                "none": [
+                    "Jesse Hicks et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/9.json",
+            "label": {
+                "none": [
+                    "[A testimony] in the matter of the application for the enrollment of Martha Albert et al. as Cherokee Freedmen [May 11, 1905]"
+                ]
+            },
+            "type": "Manifest"
+        },
+        {
+            "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/35.json",
+            "label": {
+                "none": [
+                    "[Multiple denied cases for Cherokee Freedmen enrollment]]: Letter from Tam Bixby, the Commissioner to the Five Civilized Tribes, to the Secretary of the Interior, July 24, 1905"
+                ]
+            },
+            "type": "Manifest"
+        }
+    ]
+}

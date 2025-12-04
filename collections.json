@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/collection.json",
+    "id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/collections.json",
     "type": "Collection",
     "label": {
         "none": [

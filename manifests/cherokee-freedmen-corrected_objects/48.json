@@ -46,7 +46,7 @@
         },
         {
             "label": "rights",
-            "value": "No Copyright - United States; For more information, see: http://rightsstatements.org/vocab/NoC-US/1.0/"
+            "value": "http://rightsstatements.org/vocab/NoC-US/1.0/"
         },
         {
             "label": "format",

@@ -189,6 +189,87 @@
             ],
             "canvases": [
                 {
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/92/pages/page_2",
+                    "@type": "sc:Canvas",
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/92/pages/page_2",
+                    "width": 2987,
+                    "height": 4871,
+                    "images": [
+                        {
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/c67b5e66-d3da-3319-ac97-2d974202cb30",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/c67b5e66-d3da-3319-ac97-2d974202cb30/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "width": 2987,
+                                "height": 4871,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/c67b5e66-d3da-3319-ac97-2d974202cb30",
+                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                                }
+                            },
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/92/pages/page_2"
+                        }
+                    ],
+                    "related": [
+                        {
+                            "label": "Read this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987363"
+                        },
+                        {
+                            "label": "Transcribe this page",
+                            "format": "text/html",
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987363"
+                        }
+                    ],
+                    "seeAlso": [
+                        {
+                            "label": "HTML Transcription",
+                            "format": "text/html",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/decision-in-the-matter-of-the-application-for-the-enrollment-of-john-may-and-his-minor-children-sophia-ettie-minnie-elmer-idella-and-nellie-may-as-cherokee-freedmen/annotation/34987363/html/transcription"
+                        },
+                        {
+                            "label": "Searchable Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+                            "@id": "https://fromthepage.com/iiif/32196066/export/34987363/plaintext/searchable"
+                        },
+                        {
+                            "label": "Verbatim Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+                            "@id": "https://fromthepage.com/iiif/32196066/export/34987363/plaintext/verbatim"
+                        },
+                        {
+                            "label": "Emended Plaintext",
+                            "format": "text/plain",
+                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+                            "@id": "https://fromthepage.com/iiif/32196066/export/34987363/plaintext/emended"
+                        }
+                    ],
+                    "service": {
+                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+                        "@id": "https://fromthepage.com/iiif/32196066/34987363/status",
+                        "label": "Page Status",
+                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+                        "pageStatus": [
+                            "hasTranscript"
+                        ]
+                    },
+                    "otherContent": [
+                        {
+                            "@id": "https://fromthepage.com/iiif/34987363/list/transcription",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcription"
+                        }
+                    ]
+                },
+                {
                     "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/92/pages/page_0",
                     "@type": "sc:Canvas",
                     "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/92/pages/page_0",
@@ -345,87 +426,6 @@
                     "otherContent": [
                         {
                             "@id": "https://fromthepage.com/iiif/34987362/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/92/pages/page_2",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/92/pages/page_2",
-                    "width": 2987,
-                    "height": 4871,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/c67b5e66-d3da-3319-ac97-2d974202cb30",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/c67b5e66-d3da-3319-ac97-2d974202cb30/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 2987,
-                                "height": 4871,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/c67b5e66-d3da-3319-ac97-2d974202cb30",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/92/pages/page_2"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987363"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987363"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/decision-in-the-matter-of-the-application-for-the-enrollment-of-john-may-and-his-minor-children-sophia-ettie-minnie-elmer-idella-and-nellie-may-as-cherokee-freedmen/annotation/34987363/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196066/export/34987363/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196066/export/34987363/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196066/export/34987363/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196066/34987363/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987363/list/transcription",
                             "@type": "sc:AnnotationList",
                             "label": "Transcription"
                         }

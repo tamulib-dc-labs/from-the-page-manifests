@@ -1,34 +1,39 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/2.json",
+    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/43.json",
     "@type": "sc:Manifest",
-    "label": "Henry Albert et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]",
+    "label": "Decision: in the matter of the application of George Bell et al. for enrollment as Cherokee Freedmen, consolidating the applications of George Bell, Cherokee Freedmen D 706 [and] July Bell, Cherokee Freedman D 1021.",
     "metadata": [
         {
             "label": "dc:source",
-            "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/2"
+            "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/43"
         },
         {
             "label": "creator",
-            "value": "United States. Department of the Interior"
-        },
-        {
-            "label": "contributor",
             "value": "United States. Commission to the Five Civilized Tribes"
         },
         {
             "label": "subject",
             "value": [
-                "Albert, Henry",
-                "African Americans",
                 "Freed persons",
+                "Enslaved persons",
+                "Migration, Internal--Southern States",
+                "Bell, July",
+                "Cherokee Indians--Census, 1880",
+                "Cherokee Indians--Legal status, laws, etc.",
                 "Cherokee Indians--Tribal citizenship",
-                "Governmental investigations"
+                "Bell, George",
+                "Indian slaveholders",
+                "African Americans",
+                "American Civil War (United States : 1861-1865)",
+                "Governmental investigations",
+                "Treaty with the Cherokee (1866 July 19)",
+                "United States. Curtis Act"
             ]
         },
         {
             "label": "rights",
-            "value": "http://rightsstatements.org/vocab/NoC-US/1.0/"
+            "value": "No Copyright - United States; For more information, see: http://rightsstatements.org/vocab/NoC-US/1.0/"
         },
         {
             "label": "format",
@@ -40,50 +45,46 @@
         },
         {
             "label": "title",
-            "value": "Henry Albert et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
-        },
-        {
-            "label": "type",
-            "value": "Correspondence"
+            "value": "Decision: in the matter of the application of George Bell et al. for enrollment as Cherokee Freedmen, consolidating the applications of George Bell, Cherokee Freedmen D 706 [and] July Bell, Cherokee Freedman D 1021."
         },
         {
             "label": "extent",
-            "value": "1 envelope"
+            "value": "1 page"
         },
         {
             "label": "created",
-            "value": "1904-06-21"
+            "value": "1904-03-05"
         },
         {
             "label": "abstract",
-            "value": "Envelope that contained documents relating to the denial of the \"Henry Albert et al.\" application for citizenship in the Cherokee Nation by the Commission to the Five Civilized Tribes The envelope is stamped: \"Refused. Action approved by Secretary of Interior. Jun 21, 1904.\""
-        },
-        {
-            "label": "spatial",
-            "value": [
-                "Washington (D. C.)",
-                "Cherokee Nation, Oklahoma"
-            ]
+            "value": "Official decision of the Commission to the Five Civilized Tribes to reject the application of George and July Bell. They were enslaved by a Cherokee man by the name of L.B. Bell and were taken south after the Civil War began. However, the Bells did not return to the Cherokee Nation until May 1867, after the timeframe specified in the Treaty of 1866 and were not on the 1880 authenticated roll of the Cherokee Nation. It was decided to deny this case under provisions of the Curtis Act, approved by Congress on June 28, 1898."
         },
         {
             "label": "type",
             "value": "Text"
         },
         {
+            "label": "spatial",
+            "value": [
+                "Oklahoma--Muskogee (Indian Territory)",
+                "Cherokee Nation, Oklahoma"
+            ]
+        },
+        {
             "label": "context",
-            "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/2"
+            "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/43"
         },
         {
             "label": "Title",
-            "value": "Henry Albert et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]"
+            "value": "Decision: in the matter of the application of George Bell et al. for enrollment as Cherokee Freedmen, consolidating the applications of George Bell, Cherokee Freedmen D 706 [and] July Bell, Cherokee Freedman D 1021."
         },
         {
             "label": "Description",
-            "value": "Envelope that contained documents relating to the denial of the \"Henry Albert et al.\" application for citizenship in the Cherokee Nation by the Commission to the Five Civilized Tribes The envelope is stamped: \"Refused. Action approved by Secretary of Interior. Jun 21, 1904.\"\n<br /><br />\n"
+            "value": "Official decision of the Commission to the Five Civilized Tribes to reject the application of George and July Bell. They were enslaved by a Cherokee man by the name of L.B. Bell and were taken south after the Civil War began. However, the Bells did not return to the Cherokee Nation until May 1867, after the timeframe specified in the Treaty of 1866 and were not on the 1880 authenticated roll of the Cherokee Nation. It was decided to deny this case under provisions of the Curtis Act, approved by Congress on June 28, 1898.\n<br /><br />\n"
         },
         {
             "label": "Created On",
-            "value": "2025-04-29 20:48:02 UTC"
+            "value": "2025-04-29 19:53:35 UTC"
         },
         {
             "label": "In Scope",
@@ -99,13 +100,13 @@
     "related": [
         {
             "format": "text/html",
-            "label": "Read Henry Albert et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]",
-            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/henry-albert-et-al-envelope-for-documents-of-a-denied-case-for-cherokee-freedmen-enrollment"
+            "label": "Read Decision: in the matter of the application of George Bell et al. for enrollment as Cherokee Freedmen, consolidating the applications of George Bell, Cherokee Freedmen D 706 [and] July Bell, Cherokee Freedman D 1021.",
+            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/decision-in-the-matter-of-the-application-of-george-bell-et-al-for-enrollment-as-cherokee-freedmen-consolidating-the-applications-of-george-bell-cherokee-freedmen-d-706-and-july-bell-cherokee-freedman-d-1021"
         },
         {
             "format": "text/html",
-            "label": "Table of Contents for Henry Albert et al.: [Envelope for documents of a denied case for Cherokee Freedmen enrollment]",
-            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/henry-albert-et-al-envelope-for-documents-of-a-denied-case-for-cherokee-freedmen-enrollment/contents"
+            "label": "Table of Contents for Decision: in the matter of the application of George Bell et al. for enrollment as Cherokee Freedmen, consolidating the applications of George Bell, Cherokee Freedmen D 706 [and] July Bell, Cherokee Freedman D 1021.",
+            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/decision-in-the-matter-of-the-application-of-george-bell-et-al-for-enrollment-as-cherokee-freedmen-consolidating-the-applications-of-george-bell-cherokee-freedmen-d-706-and-july-bell-cherokee-freedman-d-1021/contents"
         }
     ],
     "seeAlso": [
@@ -113,25 +114,25 @@
             "label": "Verbatim Plaintext",
             "format": "text/plain",
             "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
-            "@id": "https://fromthepage.com/iiif/32196146/export/plaintext/verbatim"
+            "@id": "https://fromthepage.com/iiif/32195972/export/plaintext/verbatim"
         },
         {
             "label": "Emended Plaintext",
             "format": "text/plain",
             "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
-            "@id": "https://fromthepage.com/iiif/32196146/export/plaintext/emended"
+            "@id": "https://fromthepage.com/iiif/32195972/export/plaintext/emended"
         },
         {
             "label": "Searchable Plaintext",
             "format": "text/plain",
             "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
-            "@id": "https://fromthepage.com/iiif/32196146/export/plaintext/searchable"
+            "@id": "https://fromthepage.com/iiif/32195972/export/plaintext/searchable"
         }
     ],
     "service": [
         {
             "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-            "@id": "https://fromthepage.com/iiif/32196146/status",
+            "@id": "https://fromthepage.com/iiif/32195972/status",
             "label": "Work Status",
             "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
             "pctComplete": 100.0,
@@ -146,22 +147,12 @@
             "pctTranslationIndexed": 0,
             "pctTranslationMarkedBlank": 0,
             "metadataStatus": "undescribed",
-            "lastUpdated": "2025-05-01 14:33:51 UTC"
-        }
-    ],
-    "thumbnail": [
-        {
-        "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/2/pages/page_0",
-        "service": {
-        "label": "IIIF Image Service",
-        "profile": "http://iiif.io/api/image/2/level0.json",
-        "@context": "http://iiif.io/api/image/2/context.json",
-        "@id": null}
+            "lastUpdated": "2025-04-30 20:55:39 UTC"
         }
     ],
     "sequences": [
         {
-            "@id": "https://fromthepage.com/iiif/32196146/sequence/default",
+            "@id": "https://fromthepage.com/iiif/32195972/sequence/default",
             "@type": "sc:Sequence",
             "label": "Pages",
             "rendering": [
@@ -169,16 +160,16 @@
                     "label": "Verbatim Plaintext",
                     "format": "text/plain",
                     "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
-                    "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32196146/export/plaintext/verbatim"
+                    "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32195972/export/plaintext/verbatim"
                 },
                 {
-                    "@id": "https://fromthepage.com/iiif/32196146/export/html",
+                    "@id": "https://fromthepage.com/iiif/32195972/export/html",
                     "label": "XHTML Export",
                     "format": "text/html",
                     "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
                 },
                 {
-                    "@id": "https://fromthepage.com/iiif/32196146/export/tei",
+                    "@id": "https://fromthepage.com/iiif/32195972/export/tei",
                     "label": "TEI Export",
                     "format": "application/tei+xml",
                     "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
@@ -186,41 +177,41 @@
             ],
             "canvases": [
                 {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/2/pages/page_0",
+                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/43/pages/page_0",
                     "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/2/pages/page_0",
-                    "width": 1832,
-                    "height": 3753,
+                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/43/pages/page_0",
+                    "width": 3095,
+                    "height": 4931,
                     "images": [
                         {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/5e190c52-c05f-38a1-b358-dbce6429b4a0",
+                            "@id": "https://api-pre.library.tamu.edu/iiif/2/3a43a25b-0646-3ef5-bcae-00623534a1bc",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/5e190c52-c05f-38a1-b358-dbce6429b4a0/full/full/0/default.jpg",
+                                "@id": "https://api-pre.library.tamu.edu/iiif/2/3a43a25b-0646-3ef5-bcae-00623534a1bc/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
-                                "width": 1832,
-                                "height": 3753,
+                                "width": 3095,
+                                "height": 4931,
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/5e190c52-c05f-38a1-b358-dbce6429b4a0",
+                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/3a43a25b-0646-3ef5-bcae-00623534a1bc",
                                     "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
                                 }
                             },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/2/pages/page_0"
+                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/43/pages/page_0"
                         }
                     ],
                     "related": [
                         {
                             "label": "Read this page",
                             "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987607"
+                            "@id": "https://fromthepage.com/display/display_page?page_id=34987098"
                         },
                         {
                             "label": "Transcribe this page",
                             "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987607"
+                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987098"
                         }
                     ],
                     "seeAlso": [
@@ -228,30 +219,30 @@
                             "label": "HTML Transcription",
                             "format": "text/html",
                             "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/henry-albert-et-al-envelope-for-documents-of-a-denied-case-for-cherokee-freedmen-enrollment/annotation/34987607/html/transcription"
+                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/decision-in-the-matter-of-the-application-of-george-bell-et-al-for-enrollment-as-cherokee-freedmen-consolidating-the-applications-of-george-bell-cherokee-freedmen-d-706-and-july-bell-cherokee-freedman-d-1021/annotation/34987098/html/transcription"
                         },
                         {
                             "label": "Searchable Plaintext",
                             "format": "text/plain",
                             "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196146/export/34987607/plaintext/searchable"
+                            "@id": "https://fromthepage.com/iiif/32195972/export/34987098/plaintext/searchable"
                         },
                         {
                             "label": "Verbatim Plaintext",
                             "format": "text/plain",
                             "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196146/export/34987607/plaintext/verbatim"
+                            "@id": "https://fromthepage.com/iiif/32195972/export/34987098/plaintext/verbatim"
                         },
                         {
                             "label": "Emended Plaintext",
                             "format": "text/plain",
                             "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196146/export/34987607/plaintext/emended"
+                            "@id": "https://fromthepage.com/iiif/32195972/export/34987098/plaintext/emended"
                         }
                     ],
                     "service": {
                         "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196146/34987607/status",
+                        "@id": "https://fromthepage.com/iiif/32195972/34987098/status",
                         "label": "Page Status",
                         "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
                         "pageStatus": [
@@ -260,7 +251,7 @@
                     },
                     "otherContent": [
                         {
-                            "@id": "https://fromthepage.com/iiif/34987607/list/transcription",
+                            "@id": "https://fromthepage.com/iiif/34987098/list/transcription",
                             "@type": "sc:AnnotationList",
                             "label": "Transcription"
                         }
@@ -271,12 +262,12 @@
     ],
     "otherContent": [
         {
-            "@id": "https://fromthepage.com/iiif/32196146/layer/transcription",
+            "@id": "https://fromthepage.com/iiif/32195972/layer/transcription",
             "@type": "sc:Layer",
             "label": "transcription layer"
         },
         {
-            "@id": "https://fromthepage.com/iiif/32196146/layer/notes",
+            "@id": "https://fromthepage.com/iiif/32195972/layer/notes",
             "@type": "sc:Layer",
             "label": "notes layer"
         }

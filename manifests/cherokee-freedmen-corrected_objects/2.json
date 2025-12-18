@@ -149,16 +149,6 @@
             "lastUpdated": "2025-05-01 14:33:51 UTC"
         }
     ],
-    "thumbnail": [
-        {
-        "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/2/pages/page_0",
-        "service": {
-        "label": "IIIF Image Service",
-        "profile": "http://iiif.io/api/image/2/level0.json",
-        "@context": "http://iiif.io/api/image/2/context.json",
-        "@id": null}
-        }
-    ],
     "sequences": [
         {
             "@id": "https://fromthepage.com/iiif/32196146/sequence/default",

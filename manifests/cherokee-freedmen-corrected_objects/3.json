@@ -533,5 +533,16 @@
             "@type": "sc:Layer",
             "label": "notes layer"
         }
-    ]
+    ],
+    "thumbnail": {
+        "@id": "https://api-pre.library.tamu.edu/iiif/2/5c337ba0-7132-3769-babe-e38bf05af76a/full/624,/0/default.jpg",
+        "@type": "dctypes:Image",
+        "label": "thumbnail image",
+        "service": {
+            "@id": "https://api-pre.library.tamu.edu/iiif/2/5c337ba0-7132-3769-babe-e38bf05af76a",
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "profile": "http://iiif.io/api/image/2/level0.json",
+            "label": "IIIF Image Service"
+        }
+    }
 }

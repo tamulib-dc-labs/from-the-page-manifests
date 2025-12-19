@@ -272,12 +272,14 @@
         }
     ],
     "thumbnail": {
-    "@id": "https://api-pre.library.tamu.edu/iiif/2/5e190c52-c05f-38a1-b358-dbce6429b4a0/full/full/0/default.jpg",
-    "service": {
-      "label": "IIIF Image Service",
-      "profile": "http://iiif.io/api/image/2/level0.json",
-      "@context": "http://iiif.io/api/image/2/context.json",
-      "@id": null
+        "@id": "https://api-pre.library.tamu.edu/iiif/2/5e190c52-c05f-38a1-b358-dbce6429b4a0/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "label": "thumbnail image",
+        "service": {
+            "@id": "https://api-pre.library.tamu.edu/iiif/2/5e190c52-c05f-38a1-b358-dbce6429b4a0",
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "profile": "http://iiif.io/api/image/2/level0.json",
+            "label": "IIIF Image Service"
+        }
     }
-  }
 }

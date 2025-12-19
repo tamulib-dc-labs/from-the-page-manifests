@@ -535,7 +535,7 @@
         }
     ],
     "thumbnail": {
-        "@id": "https://api-pre.library.tamu.edu/iiif/2/5c337ba0-7132-3769-babe-e38bf05af76a/full/624,/0/default.jpg",
+        "@id": "https://api-pre.library.tamu.edu/iiif/2/5c337ba0-7132-3769-babe-e38bf05af76a/full/,250/0/default.jpg",
         "@type": "dctypes:Image",
         "label": "thumbnail image",
         "service": {

@@ -1,526 +1,537 @@
 {
-    "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/166.json",
-    "@type": "sc:Manifest",
-    "label": "[Phyllis Whitmire case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, February 6, 1904",
-    "metadata": [
-        {
-            "label": "dc:source",
-            "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166"
-        },
-        {
-            "label": "creator",
-            "value": "United States. Office of Indian Affairs"
-        },
-        {
-            "label": "contributor",
-            "value": "Tonner, A. C."
-        },
-        {
-            "label": "subject",
-            "value": [
-                "Kerns-Clifton roll",
-                "Cherokee Indians--Census, 1880",
-                "Governmental investigations",
-                "African American women",
-                "Burden of proof",
-                "Cherokee Indians--Legal status, laws, etc.",
-                "Migration, Internal--United States",
-                "Treaty with the Cherokee (1866 July 19)",
-                "Cherokee Indians--Tribal citizenship",
-                "Freed persons",
-                "Wallace rolls",
-                "African Americans",
-                "American Civil War (United States : 1861-1865)",
-                "Whitmire, Phyllis"
-            ]
-        },
-        {
-            "label": "rights",
-            "value": "http://rightsstatements.org/vocab/NoC-US/1.0/"
-        },
-        {
-            "label": "format",
-            "value": "reformatted digital"
-        },
-        {
-            "label": "language",
-            "value": "eng"
-        },
-        {
-            "label": "title",
-            "value": "[Phyllis Whitmire case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, February 6, 1904"
-        },
-        {
-            "label": "type",
-            "value": "Correspondence"
-        },
-        {
-            "label": "extent",
-            "value": "4 pages"
-        },
-        {
-            "label": "created",
-            "value": "1904-02-06"
-        },
-        {
-            "label": "abstract",
-            "value": "A. C. Tonner, Acting Commissioner to the Office of Indian Affairs, informs the Secretary of the Interior that there is conflicting evidence about whether Phyllis Whitmire, a formerly enslaved African American, returned to the Cherokee Nation within the timeframe specified by the treaty of 1866 after the end of the Civil War.  Her name is also not found on the authenticated Cherokee tribal roll of 1880, but appears in the Kerns-Clifton roll and Wallace rolls. The testimonial evidence that she did not return within six months after this treaty appear to be \"largely guess-work\" on the part of witnesses who testified. Tonner also questions placing the burden of proof on the applicant. He recommends that the case be returned to the Commission to the Five Civilized Tribes and that the Commission explain the reasoning behind their decision to deny her application."
-        },
-        {
-            "label": "spatial",
-            "value": [
-                "Cherokee Nation, Oklahoma",
-                "Washington (D. C.)"
-            ]
-        },
-        {
-            "label": "type",
-            "value": "Text"
-        },
-        {
-            "label": "context",
-            "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166"
-        },
-        {
-            "label": "Title",
-            "value": "[Phyllis Whitmire case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, February 6, 1904"
-        },
-        {
-            "label": "Description",
-            "value": "A. C. Tonner, Acting Commissioner to the Office of Indian Affairs, informs the Secretary of the Interior that there is conflicting evidence about whether Phyllis Whitmire, a formerly enslaved African American, returned to the Cherokee Nation within the timeframe specified by the treaty of 1866 after the end of the Civil War.  Her name is also not found on the authenticated Cherokee tribal roll of 1880, but appears in the Kerns-Clifton roll and Wallace rolls. The testimonial evidence that she did not return within six months after this treaty appear to be \"largely guess-work\" on the part of witnesses who testified. Tonner also questions placing the burden of proof on the applicant. He recommends that the case be returned to the Commission to the Five Civilized Tribes and that the Commission explain the reasoning behind their decision to deny her application.\n<br /><br />\n"
-        },
-        {
-            "label": "Created On",
-            "value": "2025-04-29 20:55:36 UTC"
-        },
-        {
-            "label": "In Scope",
-            "value": "true"
-        }
-    ],
-    "description": "This is an annotated version of the original manifest produced by FromThePage",
-    "within": {
-        "@type": "sc:Collection",
-        "label": "Cherokee Freedmen",
-        "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/166.json",
+  "@type": "sc:Manifest",
+  "label": "[Phyllis Whitmire case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, February 6, 1904",
+  "metadata": [
+    {
+      "label": "dc:source",
+      "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166"
     },
-    "related": [
+    {
+      "label": "creator",
+      "value": "United States. Office of Indian Affairs"
+    },
+    {
+      "label": "contributor",
+      "value": "Tonner, A. C."
+    },
+    {
+      "label": "subject",
+      "value": [
+        "Kerns-Clifton roll",
+        "Cherokee Indians--Census, 1880",
+        "Governmental investigations",
+        "African American women",
+        "Burden of proof",
+        "Cherokee Indians--Legal status, laws, etc.",
+        "Migration, Internal--United States",
+        "Treaty with the Cherokee (1866 July 19)",
+        "Cherokee Indians--Tribal citizenship",
+        "Freed persons",
+        "Wallace rolls",
+        "African Americans",
+        "American Civil War (United States : 1861-1865)",
+        "Whitmire, Phyllis"
+      ]
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/NoC-US/1.0/"
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "title",
+      "value": "[Phyllis Whitmire case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, February 6, 1904"
+    },
+    {
+      "label": "type",
+      "value": "Correspondence"
+    },
+    {
+      "label": "extent",
+      "value": "4 pages"
+    },
+    {
+      "label": "created",
+      "value": "1904-02-06"
+    },
+    {
+      "label": "abstract",
+      "value": "A. C. Tonner, Acting Commissioner to the Office of Indian Affairs, informs the Secretary of the Interior that there is conflicting evidence about whether Phyllis Whitmire, a formerly enslaved African American, returned to the Cherokee Nation within the timeframe specified by the treaty of 1866 after the end of the Civil War.  Her name is also not found on the authenticated Cherokee tribal roll of 1880, but appears in the Kerns-Clifton roll and Wallace rolls. The testimonial evidence that she did not return within six months after this treaty appear to be \"largely guess-work\" on the part of witnesses who testified. Tonner also questions placing the burden of proof on the applicant. He recommends that the case be returned to the Commission to the Five Civilized Tribes and that the Commission explain the reasoning behind their decision to deny her application."
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "Cherokee Nation, Oklahoma",
+        "Washington (D. C.)"
+      ]
+    },
+    {
+      "label": "type",
+      "value": "Text"
+    },
+    {
+      "label": "context",
+      "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166"
+    },
+    {
+      "label": "Title",
+      "value": "[Phyllis Whitmire case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, February 6, 1904"
+    },
+    {
+      "label": "Description",
+      "value": "A. C. Tonner, Acting Commissioner to the Office of Indian Affairs, informs the Secretary of the Interior that there is conflicting evidence about whether Phyllis Whitmire, a formerly enslaved African American, returned to the Cherokee Nation within the timeframe specified by the treaty of 1866 after the end of the Civil War.  Her name is also not found on the authenticated Cherokee tribal roll of 1880, but appears in the Kerns-Clifton roll and Wallace rolls. The testimonial evidence that she did not return within six months after this treaty appear to be \"largely guess-work\" on the part of witnesses who testified. Tonner also questions placing the burden of proof on the applicant. He recommends that the case be returned to the Commission to the Five Civilized Tribes and that the Commission explain the reasoning behind their decision to deny her application.\n<br /><br />\n"
+    },
+    {
+      "label": "Created On",
+      "value": "2025-04-29 20:55:36 UTC"
+    },
+    {
+      "label": "In Scope",
+      "value": "true"
+    }
+  ],
+  "description": "This is an annotated version of the original manifest produced by FromThePage",
+  "within": {
+    "@type": "sc:Collection",
+    "label": "Cherokee Freedmen",
+    "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+  },
+  "related": [
+    {
+      "format": "text/html",
+      "label": "Read [Phyllis Whitmire case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, February 6, 1904",
+      "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/phyllis-whitmire-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-february-6-1904"
+    },
+    {
+      "format": "text/html",
+      "label": "Table of Contents for [Phyllis Whitmire case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, February 6, 1904",
+      "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/phyllis-whitmire-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-february-6-1904/contents"
+    }
+  ],
+  "seeAlso": [
+    {
+      "label": "Verbatim Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
+      "@id": "https://fromthepage.com/iiif/32196154/export/plaintext/verbatim"
+    },
+    {
+      "label": "Emended Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
+      "@id": "https://fromthepage.com/iiif/32196154/export/plaintext/emended"
+    },
+    {
+      "label": "Searchable Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
+      "@id": "https://fromthepage.com/iiif/32196154/export/plaintext/searchable"
+    }
+  ],
+  "service": [
+    {
+      "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+      "@id": "https://fromthepage.com/iiif/32196154/status",
+      "label": "Work Status",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
+      "pctComplete": 100.0,
+      "pctTranscribed": 100.0,
+      "pctOcrCorrected": 0.0,
+      "pctIndexed": 0,
+      "pctMarkedBlank": 0,
+      "pctNeedsReview": 0,
+      "pctTranslationComplete": 0,
+      "pctTranslated": 0,
+      "pctTranslationNeedsReview": 0,
+      "pctTranslationIndexed": 0,
+      "pctTranslationMarkedBlank": 0,
+      "metadataStatus": "undescribed",
+      "lastUpdated": "2025-05-12 01:27:02 UTC"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://fromthepage.com/iiif/32196154/sequence/default",
+      "@type": "sc:Sequence",
+      "label": "Pages",
+      "rendering": [
         {
-            "format": "text/html",
-            "label": "Read [Phyllis Whitmire case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, February 6, 1904",
-            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/phyllis-whitmire-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-february-6-1904"
+          "label": "Verbatim Plaintext",
+          "format": "text/plain",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
+          "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32196154/export/plaintext/verbatim"
         },
         {
-            "format": "text/html",
-            "label": "Table of Contents for [Phyllis Whitmire case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, February 6, 1904",
-            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/phyllis-whitmire-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-february-6-1904/contents"
+          "@id": "https://fromthepage.com/iiif/32196154/export/html",
+          "label": "XHTML Export",
+          "format": "text/html",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
+        },
+        {
+          "@id": "https://fromthepage.com/iiif/32196154/export/tei",
+          "label": "TEI Export",
+          "format": "application/tei+xml",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
         }
-    ],
-    "seeAlso": [
+      ],
+      "canvases": [
         {
-            "label": "Verbatim Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
-            "@id": "https://fromthepage.com/iiif/32196154/export/plaintext/verbatim"
-        },
-        {
-            "label": "Emended Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
-            "@id": "https://fromthepage.com/iiif/32196154/export/plaintext/emended"
-        },
-        {
-            "label": "Searchable Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
-            "@id": "https://fromthepage.com/iiif/32196154/export/plaintext/searchable"
-        }
-    ],
-    "service": [
-        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_0",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_0",
+          "width": 3007,
+          "height": 4053,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/9816d439-32c5-37dd-86d1-565213af4841",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/9816d439-32c5-37dd-86d1-565213af4841/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3007,
+                "height": 4053,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/9816d439-32c5-37dd-86d1-565213af4841",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_0"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987647"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987647"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/phyllis-whitmire-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-february-6-1904/annotation/34987647/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196154/export/34987647/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196154/export/34987647/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196154/export/34987647/plaintext/emended"
+            }
+          ],
+          "service": {
             "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-            "@id": "https://fromthepage.com/iiif/32196154/status",
-            "label": "Work Status",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
-            "pctComplete": 100.0,
-            "pctTranscribed": 100.0,
-            "pctOcrCorrected": 0.0,
-            "pctIndexed": 0,
-            "pctMarkedBlank": 0,
-            "pctNeedsReview": 0,
-            "pctTranslationComplete": 0,
-            "pctTranslated": 0,
-            "pctTranslationNeedsReview": 0,
-            "pctTranslationIndexed": 0,
-            "pctTranslationMarkedBlank": 0,
-            "metadataStatus": "undescribed",
-            "lastUpdated": "2025-05-12 01:27:02 UTC"
-        }
-    ],
-    "sequences": [
-        {
-            "@id": "https://fromthepage.com/iiif/32196154/sequence/default",
-            "@type": "sc:Sequence",
-            "label": "Pages",
-            "rendering": [
-                {
-                    "label": "Verbatim Plaintext",
-                    "format": "text/plain",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
-                    "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32196154/export/plaintext/verbatim"
-                },
-                {
-                    "@id": "https://fromthepage.com/iiif/32196154/export/html",
-                    "label": "XHTML Export",
-                    "format": "text/html",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
-                },
-                {
-                    "@id": "https://fromthepage.com/iiif/32196154/export/tei",
-                    "label": "TEI Export",
-                    "format": "application/tei+xml",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
-                }
-            ],
-            "canvases": [
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_0",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_0",
-                    "width": 3007,
-                    "height": 4053,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/9816d439-32c5-37dd-86d1-565213af4841",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/9816d439-32c5-37dd-86d1-565213af4841/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3007,
-                                "height": 4053,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/9816d439-32c5-37dd-86d1-565213af4841",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_0"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987647"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987647"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/phyllis-whitmire-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-february-6-1904/annotation/34987647/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196154/export/34987647/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196154/export/34987647/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196154/export/34987647/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196154/34987647/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987647/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_1",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_1",
-                    "width": 3079,
-                    "height": 4009,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/792a2a6e-95b7-3218-9836-9a31a7375bb9",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/792a2a6e-95b7-3218-9836-9a31a7375bb9/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3079,
-                                "height": 4009,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/792a2a6e-95b7-3218-9836-9a31a7375bb9",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_1"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987648"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987648"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/phyllis-whitmire-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-february-6-1904/annotation/34987648/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196154/export/34987648/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196154/export/34987648/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196154/export/34987648/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196154/34987648/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987648/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_2",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_2",
-                    "width": 3007,
-                    "height": 3985,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/04315c1f-c394-3c6c-bd2b-efbd3f9cffad",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/04315c1f-c394-3c6c-bd2b-efbd3f9cffad/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3007,
-                                "height": 3985,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/04315c1f-c394-3c6c-bd2b-efbd3f9cffad",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_2"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987649"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987649"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/phyllis-whitmire-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-february-6-1904/annotation/34987649/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196154/export/34987649/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196154/export/34987649/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196154/export/34987649/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196154/34987649/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987649/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_3",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_3",
-                    "width": 3079,
-                    "height": 4009,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/8cc82078-b3aa-3c4d-aa50-bcfb18cedc85",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/8cc82078-b3aa-3c4d-aa50-bcfb18cedc85/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3079,
-                                "height": 4009,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/8cc82078-b3aa-3c4d-aa50-bcfb18cedc85",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_3"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987650"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987650"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/phyllis-whitmire-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-february-6-1904/annotation/34987650/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196154/export/34987650/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196154/export/34987650/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196154/export/34987650/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196154/34987650/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987650/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                }
+            "@id": "https://fromthepage.com/iiif/32196154/34987647/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
             ]
-        }
-    ],
-    "otherContent": [
-        {
-            "@id": "https://fromthepage.com/iiif/32196154/layer/transcription",
-            "@type": "sc:Layer",
-            "label": "transcription layer"
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987647/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
         },
         {
-            "@id": "https://fromthepage.com/iiif/32196154/layer/notes",
-            "@type": "sc:Layer",
-            "label": "notes layer"
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_1",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_1",
+          "width": 3079,
+          "height": 4009,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/792a2a6e-95b7-3218-9836-9a31a7375bb9",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/792a2a6e-95b7-3218-9836-9a31a7375bb9/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3079,
+                "height": 4009,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/792a2a6e-95b7-3218-9836-9a31a7375bb9",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_1"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987648"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987648"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/phyllis-whitmire-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-february-6-1904/annotation/34987648/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196154/export/34987648/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196154/export/34987648/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196154/export/34987648/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196154/34987648/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987648/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_2",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_2",
+          "width": 3007,
+          "height": 3985,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/04315c1f-c394-3c6c-bd2b-efbd3f9cffad",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/04315c1f-c394-3c6c-bd2b-efbd3f9cffad/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3007,
+                "height": 3985,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/04315c1f-c394-3c6c-bd2b-efbd3f9cffad",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_2"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987649"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987649"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/phyllis-whitmire-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-february-6-1904/annotation/34987649/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196154/export/34987649/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196154/export/34987649/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196154/export/34987649/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196154/34987649/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987649/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_3",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_3",
+          "width": 3079,
+          "height": 4009,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/8cc82078-b3aa-3c4d-aa50-bcfb18cedc85",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/8cc82078-b3aa-3c4d-aa50-bcfb18cedc85/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3079,
+                "height": 4009,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/8cc82078-b3aa-3c4d-aa50-bcfb18cedc85",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/166/pages/page_3"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987650"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987650"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/phyllis-whitmire-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-february-6-1904/annotation/34987650/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196154/export/34987650/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196154/export/34987650/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196154/export/34987650/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196154/34987650/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987650/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
         }
-    ]
+      ]
+    }
+  ],
+  "otherContent": [
+    {
+      "@id": "https://fromthepage.com/iiif/32196154/layer/transcription",
+      "@type": "sc:Layer",
+      "label": "transcription layer"
+    },
+    {
+      "@id": "https://fromthepage.com/iiif/32196154/layer/notes",
+      "@type": "sc:Layer",
+      "label": "notes layer"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://api-pre.library.tamu.edu/iiif/2/9816d439-32c5-37dd-86d1-565213af4841/full/,200/0/default.jpg",
+    "@type": "dctypes:Image",
+    "label": "thumbnail image",
+    "service": {
+      "@id": "https://api-pre.library.tamu.edu/iiif/2/9816d439-32c5-37dd-86d1-565213af4841",
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "profile": "http://iiif.io/api/image/2/level2.json",
+      "label": "IIIF Image Service"
+    }
+  }
 }

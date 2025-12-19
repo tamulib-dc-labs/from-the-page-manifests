@@ -1,282 +1,293 @@
 {
-    "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/161.json",
-    "@type": "sc:Manifest",
-    "label": "[Katie Vann et al. case]: Letter from the Commission to the Five Civilized Tribes to W. W. Hastings, Muskogee, Indian Territory, February 28, 1907",
-    "metadata": [
-        {
-            "label": "dc:source",
-            "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/161"
-        },
-        {
-            "label": "creator",
-            "value": "United States. Commission to the Five Civilized Tribes"
-        },
-        {
-            "label": "subject",
-            "value": [
-                "United States. Department of the Interior",
-                "Vann, Areminta",
-                "Vann, George",
-                "Vann, Florence",
-                "Children of freed persons",
-                "Vann, Granville",
-                "African Americans",
-                "African American women",
-                "Vann, Dollie",
-                "Vann, Ethel",
-                "Vann, Katie",
-                "Governmental investigations",
-                "Vann, Ray",
-                "Vann, Tessey",
-                "Vann, Lou",
-                "Cherokee Indians--Tribal citizenship",
-                "Vann, Lydia"
-            ]
-        },
-        {
-            "label": "rights",
-            "value": "http://rightsstatements.org/vocab/NoC-US/1.0/"
-        },
-        {
-            "label": "format",
-            "value": "reformatted digital"
-        },
-        {
-            "label": "language",
-            "value": "eng"
-        },
-        {
-            "label": "title",
-            "value": "[Katie Vann et al. case]: Letter from the Commission to the Five Civilized Tribes to W. W. Hastings, Muskogee, Indian Territory, February 28, 1907"
-        },
-        {
-            "label": "type",
-            "value": "Correspondence"
-        },
-        {
-            "label": "extent",
-            "value": "1 page"
-        },
-        {
-            "label": "created",
-            "value": "1907-02-28"
-        },
-        {
-            "label": "abstract",
-            "value": "The Commissioner to the Five Civilized Tribes informs W. W. Hastings, attorney for the Cherokee Nation, of his decision to deny the applications of Katie Vann, et al. for enrollment as Cherokee Freedmen. This decision has been sent to the Secretary of Interior for his review and final approval. The document of the official decision was originally enclosed with this letter."
-        },
-        {
-            "label": "spatial",
-            "value": [
-                "Cherokee Nation, Oklahoma",
-                "Oklahoma--Muskogee (Indian Territory)"
-            ]
-        },
-        {
-            "label": "type",
-            "value": "Text"
-        },
-        {
-            "label": "context",
-            "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/161"
-        },
-        {
-            "label": "Title",
-            "value": "[Katie Vann et al. case]: Letter from the Commission to the Five Civilized Tribes to W. W. Hastings, Muskogee, Indian Territory, February 28, 1907"
-        },
-        {
-            "label": "Description",
-            "value": "The Commissioner to the Five Civilized Tribes informs W. W. Hastings, attorney for the Cherokee Nation, of his decision to deny the applications of Katie Vann, et al. for enrollment as Cherokee Freedmen. This decision has been sent to the Secretary of Interior for his review and final approval. The document of the official decision was originally enclosed with this letter.\n<br /><br />\n"
-        },
-        {
-            "label": "Created On",
-            "value": "2025-04-29 20:01:35 UTC"
-        },
-        {
-            "label": "In Scope",
-            "value": "true"
-        }
-    ],
-    "description": "This is an annotated version of the original manifest produced by FromThePage",
-    "within": {
-        "@type": "sc:Collection",
-        "label": "Cherokee Freedmen",
-        "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/161.json",
+  "@type": "sc:Manifest",
+  "label": "[Katie Vann et al. case]: Letter from the Commission to the Five Civilized Tribes to W. W. Hastings, Muskogee, Indian Territory, February 28, 1907",
+  "metadata": [
+    {
+      "label": "dc:source",
+      "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/161"
     },
-    "related": [
+    {
+      "label": "creator",
+      "value": "United States. Commission to the Five Civilized Tribes"
+    },
+    {
+      "label": "subject",
+      "value": [
+        "United States. Department of the Interior",
+        "Vann, Areminta",
+        "Vann, George",
+        "Vann, Florence",
+        "Children of freed persons",
+        "Vann, Granville",
+        "African Americans",
+        "African American women",
+        "Vann, Dollie",
+        "Vann, Ethel",
+        "Vann, Katie",
+        "Governmental investigations",
+        "Vann, Ray",
+        "Vann, Tessey",
+        "Vann, Lou",
+        "Cherokee Indians--Tribal citizenship",
+        "Vann, Lydia"
+      ]
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/NoC-US/1.0/"
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "title",
+      "value": "[Katie Vann et al. case]: Letter from the Commission to the Five Civilized Tribes to W. W. Hastings, Muskogee, Indian Territory, February 28, 1907"
+    },
+    {
+      "label": "type",
+      "value": "Correspondence"
+    },
+    {
+      "label": "extent",
+      "value": "1 page"
+    },
+    {
+      "label": "created",
+      "value": "1907-02-28"
+    },
+    {
+      "label": "abstract",
+      "value": "The Commissioner to the Five Civilized Tribes informs W. W. Hastings, attorney for the Cherokee Nation, of his decision to deny the applications of Katie Vann, et al. for enrollment as Cherokee Freedmen. This decision has been sent to the Secretary of Interior for his review and final approval. The document of the official decision was originally enclosed with this letter."
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "Cherokee Nation, Oklahoma",
+        "Oklahoma--Muskogee (Indian Territory)"
+      ]
+    },
+    {
+      "label": "type",
+      "value": "Text"
+    },
+    {
+      "label": "context",
+      "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/161"
+    },
+    {
+      "label": "Title",
+      "value": "[Katie Vann et al. case]: Letter from the Commission to the Five Civilized Tribes to W. W. Hastings, Muskogee, Indian Territory, February 28, 1907"
+    },
+    {
+      "label": "Description",
+      "value": "The Commissioner to the Five Civilized Tribes informs W. W. Hastings, attorney for the Cherokee Nation, of his decision to deny the applications of Katie Vann, et al. for enrollment as Cherokee Freedmen. This decision has been sent to the Secretary of Interior for his review and final approval. The document of the official decision was originally enclosed with this letter.\n<br /><br />\n"
+    },
+    {
+      "label": "Created On",
+      "value": "2025-04-29 20:01:35 UTC"
+    },
+    {
+      "label": "In Scope",
+      "value": "true"
+    }
+  ],
+  "description": "This is an annotated version of the original manifest produced by FromThePage",
+  "within": {
+    "@type": "sc:Collection",
+    "label": "Cherokee Freedmen",
+    "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+  },
+  "related": [
+    {
+      "format": "text/html",
+      "label": "Read [Katie Vann et al. case]: Letter from the Commission to the Five Civilized Tribes to W. W. Hastings, Muskogee, Indian Territory, February 28, 1907",
+      "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/katie-vann-et-al-case-letter-from-the-commission-to-the-five-civilized-tribes-to-w-w-hastings-muskogee-indian-territory-february-28-1907"
+    },
+    {
+      "format": "text/html",
+      "label": "Table of Contents for [Katie Vann et al. case]: Letter from the Commission to the Five Civilized Tribes to W. W. Hastings, Muskogee, Indian Territory, February 28, 1907",
+      "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/katie-vann-et-al-case-letter-from-the-commission-to-the-five-civilized-tribes-to-w-w-hastings-muskogee-indian-territory-february-28-1907/contents"
+    }
+  ],
+  "seeAlso": [
+    {
+      "label": "Verbatim Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
+      "@id": "https://fromthepage.com/iiif/32196018/export/plaintext/verbatim"
+    },
+    {
+      "label": "Emended Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
+      "@id": "https://fromthepage.com/iiif/32196018/export/plaintext/emended"
+    },
+    {
+      "label": "Searchable Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
+      "@id": "https://fromthepage.com/iiif/32196018/export/plaintext/searchable"
+    }
+  ],
+  "service": [
+    {
+      "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+      "@id": "https://fromthepage.com/iiif/32196018/status",
+      "label": "Work Status",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
+      "pctComplete": 100.0,
+      "pctTranscribed": 100.0,
+      "pctOcrCorrected": 0.0,
+      "pctIndexed": 0,
+      "pctMarkedBlank": 0,
+      "pctNeedsReview": 0,
+      "pctTranslationComplete": 0,
+      "pctTranslated": 0,
+      "pctTranslationNeedsReview": 0,
+      "pctTranslationIndexed": 0,
+      "pctTranslationMarkedBlank": 0,
+      "metadataStatus": "undescribed",
+      "lastUpdated": "2025-05-03 19:26:40 UTC"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://fromthepage.com/iiif/32196018/sequence/default",
+      "@type": "sc:Sequence",
+      "label": "Pages",
+      "rendering": [
         {
-            "format": "text/html",
-            "label": "Read [Katie Vann et al. case]: Letter from the Commission to the Five Civilized Tribes to W. W. Hastings, Muskogee, Indian Territory, February 28, 1907",
-            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/katie-vann-et-al-case-letter-from-the-commission-to-the-five-civilized-tribes-to-w-w-hastings-muskogee-indian-territory-february-28-1907"
+          "label": "Verbatim Plaintext",
+          "format": "text/plain",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
+          "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32196018/export/plaintext/verbatim"
         },
         {
-            "format": "text/html",
-            "label": "Table of Contents for [Katie Vann et al. case]: Letter from the Commission to the Five Civilized Tribes to W. W. Hastings, Muskogee, Indian Territory, February 28, 1907",
-            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/katie-vann-et-al-case-letter-from-the-commission-to-the-five-civilized-tribes-to-w-w-hastings-muskogee-indian-territory-february-28-1907/contents"
+          "@id": "https://fromthepage.com/iiif/32196018/export/html",
+          "label": "XHTML Export",
+          "format": "text/html",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
+        },
+        {
+          "@id": "https://fromthepage.com/iiif/32196018/export/tei",
+          "label": "TEI Export",
+          "format": "application/tei+xml",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
         }
-    ],
-    "seeAlso": [
+      ],
+      "canvases": [
         {
-            "label": "Verbatim Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
-            "@id": "https://fromthepage.com/iiif/32196018/export/plaintext/verbatim"
-        },
-        {
-            "label": "Emended Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
-            "@id": "https://fromthepage.com/iiif/32196018/export/plaintext/emended"
-        },
-        {
-            "label": "Searchable Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
-            "@id": "https://fromthepage.com/iiif/32196018/export/plaintext/searchable"
-        }
-    ],
-    "service": [
-        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/161/pages/page_0",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/161/pages/page_0",
+          "width": 2975,
+          "height": 3668,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/4be75f1e-bfab-3842-ab9f-37a30b107802",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/4be75f1e-bfab-3842-ab9f-37a30b107802/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2975,
+                "height": 3668,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/4be75f1e-bfab-3842-ab9f-37a30b107802",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/161/pages/page_0"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987231"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987231"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/katie-vann-et-al-case-letter-from-the-commission-to-the-five-civilized-tribes-to-w-w-hastings-muskogee-indian-territory-february-28-1907/annotation/34987231/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196018/export/34987231/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196018/export/34987231/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196018/export/34987231/plaintext/emended"
+            }
+          ],
+          "service": {
             "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-            "@id": "https://fromthepage.com/iiif/32196018/status",
-            "label": "Work Status",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
-            "pctComplete": 100.0,
-            "pctTranscribed": 100.0,
-            "pctOcrCorrected": 0.0,
-            "pctIndexed": 0,
-            "pctMarkedBlank": 0,
-            "pctNeedsReview": 0,
-            "pctTranslationComplete": 0,
-            "pctTranslated": 0,
-            "pctTranslationNeedsReview": 0,
-            "pctTranslationIndexed": 0,
-            "pctTranslationMarkedBlank": 0,
-            "metadataStatus": "undescribed",
-            "lastUpdated": "2025-05-03 19:26:40 UTC"
-        }
-    ],
-    "sequences": [
-        {
-            "@id": "https://fromthepage.com/iiif/32196018/sequence/default",
-            "@type": "sc:Sequence",
-            "label": "Pages",
-            "rendering": [
-                {
-                    "label": "Verbatim Plaintext",
-                    "format": "text/plain",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
-                    "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32196018/export/plaintext/verbatim"
-                },
-                {
-                    "@id": "https://fromthepage.com/iiif/32196018/export/html",
-                    "label": "XHTML Export",
-                    "format": "text/html",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
-                },
-                {
-                    "@id": "https://fromthepage.com/iiif/32196018/export/tei",
-                    "label": "TEI Export",
-                    "format": "application/tei+xml",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
-                }
-            ],
-            "canvases": [
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/161/pages/page_0",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/161/pages/page_0",
-                    "width": 2975,
-                    "height": 3668,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/4be75f1e-bfab-3842-ab9f-37a30b107802",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/4be75f1e-bfab-3842-ab9f-37a30b107802/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 2975,
-                                "height": 3668,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/4be75f1e-bfab-3842-ab9f-37a30b107802",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/161/pages/page_0"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987231"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987231"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/katie-vann-et-al-case-letter-from-the-commission-to-the-five-civilized-tribes-to-w-w-hastings-muskogee-indian-territory-february-28-1907/annotation/34987231/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196018/export/34987231/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196018/export/34987231/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196018/export/34987231/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196018/34987231/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987231/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                }
+            "@id": "https://fromthepage.com/iiif/32196018/34987231/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
             ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987231/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
         }
-    ],
-    "otherContent": [
-        {
-            "@id": "https://fromthepage.com/iiif/32196018/layer/transcription",
-            "@type": "sc:Layer",
-            "label": "transcription layer"
-        },
-        {
-            "@id": "https://fromthepage.com/iiif/32196018/layer/notes",
-            "@type": "sc:Layer",
-            "label": "notes layer"
-        }
-    ]
+      ]
+    }
+  ],
+  "otherContent": [
+    {
+      "@id": "https://fromthepage.com/iiif/32196018/layer/transcription",
+      "@type": "sc:Layer",
+      "label": "transcription layer"
+    },
+    {
+      "@id": "https://fromthepage.com/iiif/32196018/layer/notes",
+      "@type": "sc:Layer",
+      "label": "notes layer"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://api-pre.library.tamu.edu/iiif/2/4be75f1e-bfab-3842-ab9f-37a30b107802/full/,200/0/default.jpg",
+    "@type": "dctypes:Image",
+    "label": "thumbnail image",
+    "service": {
+      "@id": "https://api-pre.library.tamu.edu/iiif/2/4be75f1e-bfab-3842-ab9f-37a30b107802",
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "profile": "http://iiif.io/api/image/2/level2.json",
+      "label": "IIIF Image Service"
+    }
+  }
 }

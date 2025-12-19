@@ -1,1494 +1,1505 @@
 {
-    "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/53.json",
-    "@type": "sc:Manifest",
-    "label": "[John H. Brown case} : Letter from C.R. Breckinridge, Commissioner to the Five Civilized Tribes, to John H. Brown, Alluwe, Indian Territory, March 16, 1904",
-    "metadata": [
-        {
-            "label": "dc:source",
-            "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53"
-        },
-        {
-            "label": "creator",
-            "value": "United States. Commission to the Five Civilized Tribes"
-        },
-        {
-            "label": "contributor",
-            "value": "Breckinridge, Clifton Rodes, 1846-1932"
-        },
-        {
-            "label": "subject",
-            "value": [
-                "Smith, Edgar",
-                "Governmental investigations",
-                "Brown, John H.",
-                "Cherokee Indians--Tribal citizenship",
-                "United States. Department of the Interior",
-                "African Americans",
-                "Freed persons"
-            ]
-        },
-        {
-            "label": "rights",
-            "value": "http://rightsstatements.org/vocab/NoC-US/1.0/"
-        },
-        {
-            "label": "format",
-            "value": "reformatted digital"
-        },
-        {
-            "label": "language",
-            "value": "eng"
-        },
-        {
-            "label": "title",
-            "value": "[John H. Brown case} : Letter from C.R. Breckinridge, Commissioner to the Five Civilized Tribes, to John H. Brown, Alluwe, Indian Territory, March 16, 1904"
-        },
-        {
-            "label": "type",
-            "value": "Correspondence"
-        },
-        {
-            "label": "extent",
-            "value": "1 page"
-        },
-        {
-            "label": "created",
-            "value": "1904-03-16"
-        },
-        {
-            "label": "abstract",
-            "value": "Letter from C.R. Breckinridge the Commissioner to the Five Civilized Tribes to John H. Brown, notifying him that his application to be enrolled as a Cherokee Freedmen has been rejected. It notes that copies of the proceedings and the Commission's decision has been forwarded to his attorney, Edgar Smith of Vinita, Indian Territory, It ends by stating that the decision has been sent to the U.S. Secretary of Interior for his review and decision."
-        },
-        {
-            "label": "spatial",
-            "value": [
-                "Oklahoma--Vinita (Indian Territory)",
-                "Oklahoma--Muskogee (Indian Territory)",
-                "Oklahoma--Alluwe (Indian Territory)",
-                "Washington (D. C.)",
-                "Cherokee Nation, Oklahoma"
-            ]
-        },
-        {
-            "label": "type",
-            "value": "Text"
-        },
-        {
-            "label": "context",
-            "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53"
-        },
-        {
-            "label": "Title",
-            "value": "[John H. Brown case} : Letter from C.R. Breckinridge, Commissioner to the Five Civilized Tribes, to John H. Brown, Alluwe, Indian Territory, March 16, 1904"
-        },
-        {
-            "label": "Description",
-            "value": "Letter from C.R. Breckinridge the Commissioner to the Five Civilized Tribes to John H. Brown, notifying him that his application to be enrolled as a Cherokee Freedmen has been rejected. It notes that copies of the proceedings and the Commission's decision has been forwarded to his attorney, Edgar Smith of Vinita, Indian Territory, It ends by stating that the decision has been sent to the U.S. Secretary of Interior for his review and decision.\n<br /><br />\n"
-        },
-        {
-            "label": "Created On",
-            "value": "2025-04-29 20:03:21 UTC"
-        },
-        {
-            "label": "In Scope",
-            "value": "true"
-        }
-    ],
-    "description": "This is an annotated version of the original manifest produced by FromThePage",
-    "within": {
-        "@type": "sc:Collection",
-        "label": "Cherokee Freedmen",
-        "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/53.json",
+  "@type": "sc:Manifest",
+  "label": "[John H. Brown case} : Letter from C.R. Breckinridge, Commissioner to the Five Civilized Tribes, to John H. Brown, Alluwe, Indian Territory, March 16, 1904",
+  "metadata": [
+    {
+      "label": "dc:source",
+      "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53"
     },
-    "related": [
+    {
+      "label": "creator",
+      "value": "United States. Commission to the Five Civilized Tribes"
+    },
+    {
+      "label": "contributor",
+      "value": "Breckinridge, Clifton Rodes, 1846-1932"
+    },
+    {
+      "label": "subject",
+      "value": [
+        "Smith, Edgar",
+        "Governmental investigations",
+        "Brown, John H.",
+        "Cherokee Indians--Tribal citizenship",
+        "United States. Department of the Interior",
+        "African Americans",
+        "Freed persons"
+      ]
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/NoC-US/1.0/"
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "title",
+      "value": "[John H. Brown case} : Letter from C.R. Breckinridge, Commissioner to the Five Civilized Tribes, to John H. Brown, Alluwe, Indian Territory, March 16, 1904"
+    },
+    {
+      "label": "type",
+      "value": "Correspondence"
+    },
+    {
+      "label": "extent",
+      "value": "1 page"
+    },
+    {
+      "label": "created",
+      "value": "1904-03-16"
+    },
+    {
+      "label": "abstract",
+      "value": "Letter from C.R. Breckinridge the Commissioner to the Five Civilized Tribes to John H. Brown, notifying him that his application to be enrolled as a Cherokee Freedmen has been rejected. It notes that copies of the proceedings and the Commission's decision has been forwarded to his attorney, Edgar Smith of Vinita, Indian Territory, It ends by stating that the decision has been sent to the U.S. Secretary of Interior for his review and decision."
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "Oklahoma--Vinita (Indian Territory)",
+        "Oklahoma--Muskogee (Indian Territory)",
+        "Oklahoma--Alluwe (Indian Territory)",
+        "Washington (D. C.)",
+        "Cherokee Nation, Oklahoma"
+      ]
+    },
+    {
+      "label": "type",
+      "value": "Text"
+    },
+    {
+      "label": "context",
+      "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53"
+    },
+    {
+      "label": "Title",
+      "value": "[John H. Brown case} : Letter from C.R. Breckinridge, Commissioner to the Five Civilized Tribes, to John H. Brown, Alluwe, Indian Territory, March 16, 1904"
+    },
+    {
+      "label": "Description",
+      "value": "Letter from C.R. Breckinridge the Commissioner to the Five Civilized Tribes to John H. Brown, notifying him that his application to be enrolled as a Cherokee Freedmen has been rejected. It notes that copies of the proceedings and the Commission's decision has been forwarded to his attorney, Edgar Smith of Vinita, Indian Territory, It ends by stating that the decision has been sent to the U.S. Secretary of Interior for his review and decision.\n<br /><br />\n"
+    },
+    {
+      "label": "Created On",
+      "value": "2025-04-29 20:03:21 UTC"
+    },
+    {
+      "label": "In Scope",
+      "value": "true"
+    }
+  ],
+  "description": "This is an annotated version of the original manifest produced by FromThePage",
+  "within": {
+    "@type": "sc:Collection",
+    "label": "Cherokee Freedmen",
+    "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+  },
+  "related": [
+    {
+      "format": "text/html",
+      "label": "Read [John H. Brown case} : Letter from C.R. Breckinridge, Commissioner to the Five Civilized Tribes, to John H. Brown, Alluwe, Indian Territory, March 16, 1904",
+      "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904"
+    },
+    {
+      "format": "text/html",
+      "label": "Table of Contents for [John H. Brown case} : Letter from C.R. Breckinridge, Commissioner to the Five Civilized Tribes, to John H. Brown, Alluwe, Indian Territory, March 16, 1904",
+      "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/contents"
+    }
+  ],
+  "seeAlso": [
+    {
+      "label": "Verbatim Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
+      "@id": "https://fromthepage.com/iiif/32196024/export/plaintext/verbatim"
+    },
+    {
+      "label": "Emended Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
+      "@id": "https://fromthepage.com/iiif/32196024/export/plaintext/emended"
+    },
+    {
+      "label": "Searchable Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
+      "@id": "https://fromthepage.com/iiif/32196024/export/plaintext/searchable"
+    }
+  ],
+  "service": [
+    {
+      "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+      "@id": "https://fromthepage.com/iiif/32196024/status",
+      "label": "Work Status",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
+      "pctComplete": 100.0,
+      "pctTranscribed": 100.0,
+      "pctOcrCorrected": 0.0,
+      "pctIndexed": 0,
+      "pctMarkedBlank": 0,
+      "pctNeedsReview": 0,
+      "pctTranslationComplete": 0,
+      "pctTranslated": 0,
+      "pctTranslationNeedsReview": 0,
+      "pctTranslationIndexed": 0,
+      "pctTranslationMarkedBlank": 0,
+      "metadataStatus": "undescribed",
+      "lastUpdated": "2025-05-17 02:26:57 UTC"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://fromthepage.com/iiif/32196024/sequence/default",
+      "@type": "sc:Sequence",
+      "label": "Pages",
+      "rendering": [
         {
-            "format": "text/html",
-            "label": "Read [John H. Brown case} : Letter from C.R. Breckinridge, Commissioner to the Five Civilized Tribes, to John H. Brown, Alluwe, Indian Territory, March 16, 1904",
-            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904"
+          "label": "Verbatim Plaintext",
+          "format": "text/plain",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
+          "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32196024/export/plaintext/verbatim"
         },
         {
-            "format": "text/html",
-            "label": "Table of Contents for [John H. Brown case} : Letter from C.R. Breckinridge, Commissioner to the Five Civilized Tribes, to John H. Brown, Alluwe, Indian Territory, March 16, 1904",
-            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/contents"
+          "@id": "https://fromthepage.com/iiif/32196024/export/html",
+          "label": "XHTML Export",
+          "format": "text/html",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
+        },
+        {
+          "@id": "https://fromthepage.com/iiif/32196024/export/tei",
+          "label": "TEI Export",
+          "format": "application/tei+xml",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
         }
-    ],
-    "seeAlso": [
+      ],
+      "canvases": [
         {
-            "label": "Verbatim Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
-            "@id": "https://fromthepage.com/iiif/32196024/export/plaintext/verbatim"
-        },
-        {
-            "label": "Emended Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
-            "@id": "https://fromthepage.com/iiif/32196024/export/plaintext/emended"
-        },
-        {
-            "label": "Searchable Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
-            "@id": "https://fromthepage.com/iiif/32196024/export/plaintext/searchable"
-        }
-    ],
-    "service": [
-        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_0",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_0",
+          "width": 3079,
+          "height": 4915,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/1f0e165d-7dbe-37b5-960b-95199cc32089",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/1f0e165d-7dbe-37b5-960b-95199cc32089/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3079,
+                "height": 4915,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/1f0e165d-7dbe-37b5-960b-95199cc32089",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_0"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987245"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987245"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987245/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987245/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987245/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987245/plaintext/emended"
+            }
+          ],
+          "service": {
             "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-            "@id": "https://fromthepage.com/iiif/32196024/status",
-            "label": "Work Status",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
-            "pctComplete": 100.0,
-            "pctTranscribed": 100.0,
-            "pctOcrCorrected": 0.0,
-            "pctIndexed": 0,
-            "pctMarkedBlank": 0,
-            "pctNeedsReview": 0,
-            "pctTranslationComplete": 0,
-            "pctTranslated": 0,
-            "pctTranslationNeedsReview": 0,
-            "pctTranslationIndexed": 0,
-            "pctTranslationMarkedBlank": 0,
-            "metadataStatus": "undescribed",
-            "lastUpdated": "2025-05-17 02:26:57 UTC"
-        }
-    ],
-    "sequences": [
-        {
-            "@id": "https://fromthepage.com/iiif/32196024/sequence/default",
-            "@type": "sc:Sequence",
-            "label": "Pages",
-            "rendering": [
-                {
-                    "label": "Verbatim Plaintext",
-                    "format": "text/plain",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
-                    "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32196024/export/plaintext/verbatim"
-                },
-                {
-                    "@id": "https://fromthepage.com/iiif/32196024/export/html",
-                    "label": "XHTML Export",
-                    "format": "text/html",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
-                },
-                {
-                    "@id": "https://fromthepage.com/iiif/32196024/export/tei",
-                    "label": "TEI Export",
-                    "format": "application/tei+xml",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
-                }
-            ],
-            "canvases": [
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_0",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_0",
-                    "width": 3079,
-                    "height": 4915,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/1f0e165d-7dbe-37b5-960b-95199cc32089",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/1f0e165d-7dbe-37b5-960b-95199cc32089/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3079,
-                                "height": 4915,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/1f0e165d-7dbe-37b5-960b-95199cc32089",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_0"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987245"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987245"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987245/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987245/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987245/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987245/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196024/34987245/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987245/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_1",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_1",
-                    "width": 3059,
-                    "height": 4943,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/b61f8ae6-4bc0-3825-b6e1-4fb557161315",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/b61f8ae6-4bc0-3825-b6e1-4fb557161315/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3059,
-                                "height": 4943,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/b61f8ae6-4bc0-3825-b6e1-4fb557161315",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_1"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987250"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987250"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987250/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987250/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987250/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987250/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196024/34987250/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987250/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_2",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_2",
-                    "width": 3079,
-                    "height": 4915,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/ac6326d1-f18b-3b93-9168-b2f25e6211c4",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/ac6326d1-f18b-3b93-9168-b2f25e6211c4/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3079,
-                                "height": 4915,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/ac6326d1-f18b-3b93-9168-b2f25e6211c4",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_2"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987251"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987251"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987251/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987251/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987251/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987251/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196024/34987251/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987251/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_3",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_3",
-                    "width": 3059,
-                    "height": 4943,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/7142a2d2-68df-33a5-aede-402eb4471dc5",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/7142a2d2-68df-33a5-aede-402eb4471dc5/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3059,
-                                "height": 4943,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/7142a2d2-68df-33a5-aede-402eb4471dc5",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_3"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987252"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987252"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987252/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987252/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987252/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987252/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196024/34987252/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987252/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_4",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_4",
-                    "width": 3079,
-                    "height": 4915,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/682e1c21-c63b-3e09-8908-71ed58200220",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/682e1c21-c63b-3e09-8908-71ed58200220/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3079,
-                                "height": 4915,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/682e1c21-c63b-3e09-8908-71ed58200220",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_4"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987253"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987253"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987253/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987253/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987253/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987253/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196024/34987253/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987253/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_5",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_5",
-                    "width": 3059,
-                    "height": 4943,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/3197e5a4-1fea-344d-95ee-9bc5b0613cbe",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/3197e5a4-1fea-344d-95ee-9bc5b0613cbe/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3059,
-                                "height": 4943,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/3197e5a4-1fea-344d-95ee-9bc5b0613cbe",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_5"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987254"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987254"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987254/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987254/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987254/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987254/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196024/34987254/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987254/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_6",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_6",
-                    "width": 3079,
-                    "height": 4915,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/71fd398b-d31a-37da-a0c0-4f27005472bf",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/71fd398b-d31a-37da-a0c0-4f27005472bf/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3079,
-                                "height": 4915,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/71fd398b-d31a-37da-a0c0-4f27005472bf",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_6"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987255"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987255"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987255/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987255/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987255/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987255/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196024/34987255/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987255/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_7",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_7",
-                    "width": 3059,
-                    "height": 4943,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/6412e38e-e9ac-364a-9ee4-bc159d501f07",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/6412e38e-e9ac-364a-9ee4-bc159d501f07/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3059,
-                                "height": 4943,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/6412e38e-e9ac-364a-9ee4-bc159d501f07",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_7"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987256"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987256"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987256/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987256/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987256/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987256/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196024/34987256/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987256/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_8",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_8",
-                    "width": 3079,
-                    "height": 4915,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/acc95680-5c09-3da4-b96e-b7b54f5469f5",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/acc95680-5c09-3da4-b96e-b7b54f5469f5/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3079,
-                                "height": 4915,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/acc95680-5c09-3da4-b96e-b7b54f5469f5",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_8"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987257"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987257"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987257/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987257/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987257/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987257/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196024/34987257/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987257/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_9",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_9",
-                    "width": 3059,
-                    "height": 4943,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/0764f706-08e1-391a-8a8e-2f301b5f8b8f",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/0764f706-08e1-391a-8a8e-2f301b5f8b8f/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3059,
-                                "height": 4943,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/0764f706-08e1-391a-8a8e-2f301b5f8b8f",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_9"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987258"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987258"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987258/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987258/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987258/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987258/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196024/34987258/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987258/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_10",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_10",
-                    "width": 3079,
-                    "height": 4859,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/eb3cc7a7-ab85-33db-b2e1-6cca207ca2ba",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/eb3cc7a7-ab85-33db-b2e1-6cca207ca2ba/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3079,
-                                "height": 4859,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/eb3cc7a7-ab85-33db-b2e1-6cca207ca2ba",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_10"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987259"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987259"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987259/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987259/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987259/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987259/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196024/34987259/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987259/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_11",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_11",
-                    "width": 3059,
-                    "height": 4863,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/e2f9021a-0201-3ec5-b51f-f7627fd51a01",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/e2f9021a-0201-3ec5-b51f-f7627fd51a01/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3059,
-                                "height": 4863,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/e2f9021a-0201-3ec5-b51f-f7627fd51a01",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_11"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987260"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987260"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987260/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987260/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987260/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987260/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196024/34987260/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987260/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_12",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_12",
-                    "width": 3079,
-                    "height": 4859,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/4c0cef2d-2d5c-305c-afea-5e89c5051dec",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/4c0cef2d-2d5c-305c-afea-5e89c5051dec/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3079,
-                                "height": 4859,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/4c0cef2d-2d5c-305c-afea-5e89c5051dec",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_12"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987261"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987261"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987261/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987261/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987261/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987261/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196024/34987261/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987261/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_13",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_13",
-                    "width": 3059,
-                    "height": 4863,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/dcfd7c4e-0864-32ba-93d0-9a1a6d394ad0",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/dcfd7c4e-0864-32ba-93d0-9a1a6d394ad0/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3059,
-                                "height": 4863,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/dcfd7c4e-0864-32ba-93d0-9a1a6d394ad0",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_13"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987262"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987262"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987262/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987262/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987262/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987262/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196024/34987262/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987262/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_14",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_14",
-                    "width": 3043,
-                    "height": 4073,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/146216f4-29ae-3428-a259-7c6a58bb4a08",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/146216f4-29ae-3428-a259-7c6a58bb4a08/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3043,
-                                "height": 4073,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/146216f4-29ae-3428-a259-7c6a58bb4a08",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_14"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987263"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987263"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987263/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987263/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987263/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987263/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196024/34987263/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987263/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_15",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_15",
-                    "width": 2999,
-                    "height": 3941,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/a915a9d5-8d95-384c-ace7-6b10ed52c563",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/a915a9d5-8d95-384c-ace7-6b10ed52c563/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 2999,
-                                "height": 3941,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/a915a9d5-8d95-384c-ace7-6b10ed52c563",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_15"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987264"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987264"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987264/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987264/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987264/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196024/export/34987264/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196024/34987264/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987264/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                }
+            "@id": "https://fromthepage.com/iiif/32196024/34987245/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
             ]
-        }
-    ],
-    "otherContent": [
-        {
-            "@id": "https://fromthepage.com/iiif/32196024/layer/transcription",
-            "@type": "sc:Layer",
-            "label": "transcription layer"
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987245/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
         },
         {
-            "@id": "https://fromthepage.com/iiif/32196024/layer/notes",
-            "@type": "sc:Layer",
-            "label": "notes layer"
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_1",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_1",
+          "width": 3059,
+          "height": 4943,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/b61f8ae6-4bc0-3825-b6e1-4fb557161315",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/b61f8ae6-4bc0-3825-b6e1-4fb557161315/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3059,
+                "height": 4943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/b61f8ae6-4bc0-3825-b6e1-4fb557161315",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_1"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987250"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987250"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987250/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987250/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987250/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987250/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196024/34987250/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987250/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_2",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_2",
+          "width": 3079,
+          "height": 4915,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/ac6326d1-f18b-3b93-9168-b2f25e6211c4",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/ac6326d1-f18b-3b93-9168-b2f25e6211c4/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3079,
+                "height": 4915,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/ac6326d1-f18b-3b93-9168-b2f25e6211c4",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_2"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987251"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987251"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987251/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987251/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987251/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987251/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196024/34987251/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987251/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_3",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_3",
+          "width": 3059,
+          "height": 4943,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/7142a2d2-68df-33a5-aede-402eb4471dc5",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/7142a2d2-68df-33a5-aede-402eb4471dc5/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3059,
+                "height": 4943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/7142a2d2-68df-33a5-aede-402eb4471dc5",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_3"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987252"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987252"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987252/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987252/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987252/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987252/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196024/34987252/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987252/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_4",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_4",
+          "width": 3079,
+          "height": 4915,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/682e1c21-c63b-3e09-8908-71ed58200220",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/682e1c21-c63b-3e09-8908-71ed58200220/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3079,
+                "height": 4915,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/682e1c21-c63b-3e09-8908-71ed58200220",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_4"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987253"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987253"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987253/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987253/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987253/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987253/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196024/34987253/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987253/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_5",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_5",
+          "width": 3059,
+          "height": 4943,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/3197e5a4-1fea-344d-95ee-9bc5b0613cbe",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/3197e5a4-1fea-344d-95ee-9bc5b0613cbe/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3059,
+                "height": 4943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/3197e5a4-1fea-344d-95ee-9bc5b0613cbe",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_5"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987254"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987254"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987254/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987254/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987254/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987254/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196024/34987254/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987254/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_6",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_6",
+          "width": 3079,
+          "height": 4915,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/71fd398b-d31a-37da-a0c0-4f27005472bf",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/71fd398b-d31a-37da-a0c0-4f27005472bf/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3079,
+                "height": 4915,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/71fd398b-d31a-37da-a0c0-4f27005472bf",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_6"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987255"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987255"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987255/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987255/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987255/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987255/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196024/34987255/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987255/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_7",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_7",
+          "width": 3059,
+          "height": 4943,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/6412e38e-e9ac-364a-9ee4-bc159d501f07",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/6412e38e-e9ac-364a-9ee4-bc159d501f07/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3059,
+                "height": 4943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/6412e38e-e9ac-364a-9ee4-bc159d501f07",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_7"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987256"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987256"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987256/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987256/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987256/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987256/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196024/34987256/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987256/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_8",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_8",
+          "width": 3079,
+          "height": 4915,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/acc95680-5c09-3da4-b96e-b7b54f5469f5",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/acc95680-5c09-3da4-b96e-b7b54f5469f5/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3079,
+                "height": 4915,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/acc95680-5c09-3da4-b96e-b7b54f5469f5",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_8"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987257"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987257"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987257/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987257/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987257/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987257/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196024/34987257/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987257/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_9",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_9",
+          "width": 3059,
+          "height": 4943,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/0764f706-08e1-391a-8a8e-2f301b5f8b8f",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/0764f706-08e1-391a-8a8e-2f301b5f8b8f/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3059,
+                "height": 4943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/0764f706-08e1-391a-8a8e-2f301b5f8b8f",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_9"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987258"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987258"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987258/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987258/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987258/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987258/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196024/34987258/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987258/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_10",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_10",
+          "width": 3079,
+          "height": 4859,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/eb3cc7a7-ab85-33db-b2e1-6cca207ca2ba",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/eb3cc7a7-ab85-33db-b2e1-6cca207ca2ba/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3079,
+                "height": 4859,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/eb3cc7a7-ab85-33db-b2e1-6cca207ca2ba",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_10"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987259"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987259"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987259/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987259/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987259/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987259/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196024/34987259/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987259/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_11",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_11",
+          "width": 3059,
+          "height": 4863,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/e2f9021a-0201-3ec5-b51f-f7627fd51a01",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/e2f9021a-0201-3ec5-b51f-f7627fd51a01/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3059,
+                "height": 4863,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/e2f9021a-0201-3ec5-b51f-f7627fd51a01",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_11"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987260"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987260"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987260/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987260/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987260/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987260/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196024/34987260/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987260/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_12",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_12",
+          "width": 3079,
+          "height": 4859,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/4c0cef2d-2d5c-305c-afea-5e89c5051dec",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/4c0cef2d-2d5c-305c-afea-5e89c5051dec/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3079,
+                "height": 4859,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/4c0cef2d-2d5c-305c-afea-5e89c5051dec",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_12"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987261"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987261"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987261/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987261/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987261/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987261/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196024/34987261/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987261/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_13",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_13",
+          "width": 3059,
+          "height": 4863,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/dcfd7c4e-0864-32ba-93d0-9a1a6d394ad0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/dcfd7c4e-0864-32ba-93d0-9a1a6d394ad0/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3059,
+                "height": 4863,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/dcfd7c4e-0864-32ba-93d0-9a1a6d394ad0",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_13"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987262"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987262"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987262/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987262/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987262/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987262/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196024/34987262/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987262/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_14",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_14",
+          "width": 3043,
+          "height": 4073,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/146216f4-29ae-3428-a259-7c6a58bb4a08",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/146216f4-29ae-3428-a259-7c6a58bb4a08/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3043,
+                "height": 4073,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/146216f4-29ae-3428-a259-7c6a58bb4a08",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_14"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987263"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987263"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987263/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987263/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987263/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987263/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196024/34987263/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987263/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_15",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_15",
+          "width": 2999,
+          "height": 3941,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/a915a9d5-8d95-384c-ace7-6b10ed52c563",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/a915a9d5-8d95-384c-ace7-6b10ed52c563/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2999,
+                "height": 3941,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/a915a9d5-8d95-384c-ace7-6b10ed52c563",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/53/pages/page_15"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987264"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987264"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/john-h-brown-case-letter-from-c-r-breckinridge-commissioner-to-the-five-civilized-tribes-to-john-h-brown-alluwe-indian-territory-march-16-1904/annotation/34987264/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987264/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987264/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196024/export/34987264/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196024/34987264/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987264/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
         }
-    ]
+      ]
+    }
+  ],
+  "otherContent": [
+    {
+      "@id": "https://fromthepage.com/iiif/32196024/layer/transcription",
+      "@type": "sc:Layer",
+      "label": "transcription layer"
+    },
+    {
+      "@id": "https://fromthepage.com/iiif/32196024/layer/notes",
+      "@type": "sc:Layer",
+      "label": "notes layer"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://api-pre.library.tamu.edu/iiif/2/1f0e165d-7dbe-37b5-960b-95199cc32089/full/,200/0/default.jpg",
+    "@type": "dctypes:Image",
+    "label": "thumbnail image",
+    "service": {
+      "@id": "https://api-pre.library.tamu.edu/iiif/2/1f0e165d-7dbe-37b5-960b-95199cc32089",
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "profile": "http://iiif.io/api/image/2/level2.json",
+      "label": "IIIF Image Service"
+    }
+  }
 }

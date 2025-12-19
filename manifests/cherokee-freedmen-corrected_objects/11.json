@@ -1,363 +1,374 @@
 {
-    "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/11.json",
-    "@type": "sc:Manifest",
-    "label": "[Martha Albert et al. case]: Letter from E.A. Hitchcock, Secretary of the Interior, to the Commission to the Five Civilized Tribes about Martha Albert's Cherokee Freedmen case, Washington, March 25, 1905",
-    "metadata": [
-        {
-            "label": "dc:source",
-            "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/11"
-        },
-        {
-            "label": "creator",
-            "value": "United States. Department of the Interior"
-        },
-        {
-            "label": "contributor",
-            "value": "Hitchcock, Ethan Allen, 1835-1909"
-        },
-        {
-            "label": "subject",
-            "value": [
-                "Indian slaveholders",
-                "Enslaved persons",
-                "Albert, Martha",
-                "African Americans",
-                "Cherokee Indians--Tribal citizenship",
-                "United States. Commission to the Five Civilized Tribes",
-                "Governmental investigations",
-                "Children of freed persons",
-                "Freed persons",
-                "African American women"
-            ]
-        },
-        {
-            "label": "rights",
-            "value": "http://rightsstatements.org/vocab/NoC-US/1.0/"
-        },
-        {
-            "label": "format",
-            "value": "reformatted digital"
-        },
-        {
-            "label": "language",
-            "value": "eng"
-        },
-        {
-            "label": "title",
-            "value": "[Martha Albert et al. case]: Letter from E.A. Hitchcock, Secretary of the Interior, to the Commission to the Five Civilized Tribes about Martha Albert's Cherokee Freedmen case, Washington, March 25, 1905"
-        },
-        {
-            "label": "type",
-            "value": "Correspondence"
-        },
-        {
-            "label": "extent",
-            "value": "2 pages"
-        },
-        {
-            "label": "created",
-            "value": "1905-03-25"
-        },
-        {
-            "label": "abstract",
-            "value": "Letter from E.A. Hitchcock, Secretary of Interior, informing the Commission that the Department has granted a motion filed by attorneys Neal and London of Fort Smith, Arkansas to re-open the case of Martha Albert et al. Although her application for enrollment as a Cherokee Freedman was previously denied, new evidence has emerged that suggests that Johnson Whitmire may have enslaved two women named Martha\" in Goingsnake District with divergent personal histories."
-        },
-        {
-            "label": "spatial",
-            "value": [
-                "Washington (D. C.)",
-                "Arkansas--Fort Smith",
-                "Cherokee Nation, Oklahoma",
-                "Oklahoma--Muskogee (Indian Territory)",
-                "Oklahoma--Goingsnake District (Indian Territory)"
-            ]
-        },
-        {
-            "label": "type",
-            "value": "Text"
-        },
-        {
-            "label": "context",
-            "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/11"
-        },
-        {
-            "label": "Title",
-            "value": "[Martha Albert et al. case]: Letter from E.A. Hitchcock, Secretary of the Interior, to the Commission to the Five Civilized Tribes about Martha Albert's Cherokee Freedmen case, Washington, March 25, 1905"
-        },
-        {
-            "label": "Description",
-            "value": "Letter from E.A. Hitchcock, Secretary of Interior, informing the Commission that the Department has granted a motion filed by attorneys Neal and London of Fort Smith, Arkansas to re-open the case of Martha Albert et al. Although her application for enrollment as a Cherokee Freedman was previously denied, new evidence has emerged that suggests that Johnson Whitmire may have enslaved two women named Martha\" in Goingsnake District with divergent personal histories.\n<br /><br />\n"
-        },
-        {
-            "label": "Created On",
-            "value": "2025-04-29 20:15:38 UTC"
-        },
-        {
-            "label": "In Scope",
-            "value": "true"
-        }
-    ],
-    "description": "This is an annotated version of the original manifest produced by FromThePage",
-    "within": {
-        "@type": "sc:Collection",
-        "label": "Cherokee Freedmen",
-        "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/11.json",
+  "@type": "sc:Manifest",
+  "label": "[Martha Albert et al. case]: Letter from E.A. Hitchcock, Secretary of the Interior, to the Commission to the Five Civilized Tribes about Martha Albert's Cherokee Freedmen case, Washington, March 25, 1905",
+  "metadata": [
+    {
+      "label": "dc:source",
+      "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/11"
     },
-    "related": [
+    {
+      "label": "creator",
+      "value": "United States. Department of the Interior"
+    },
+    {
+      "label": "contributor",
+      "value": "Hitchcock, Ethan Allen, 1835-1909"
+    },
+    {
+      "label": "subject",
+      "value": [
+        "Indian slaveholders",
+        "Enslaved persons",
+        "Albert, Martha",
+        "African Americans",
+        "Cherokee Indians--Tribal citizenship",
+        "United States. Commission to the Five Civilized Tribes",
+        "Governmental investigations",
+        "Children of freed persons",
+        "Freed persons",
+        "African American women"
+      ]
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/NoC-US/1.0/"
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "title",
+      "value": "[Martha Albert et al. case]: Letter from E.A. Hitchcock, Secretary of the Interior, to the Commission to the Five Civilized Tribes about Martha Albert's Cherokee Freedmen case, Washington, March 25, 1905"
+    },
+    {
+      "label": "type",
+      "value": "Correspondence"
+    },
+    {
+      "label": "extent",
+      "value": "2 pages"
+    },
+    {
+      "label": "created",
+      "value": "1905-03-25"
+    },
+    {
+      "label": "abstract",
+      "value": "Letter from E.A. Hitchcock, Secretary of Interior, informing the Commission that the Department has granted a motion filed by attorneys Neal and London of Fort Smith, Arkansas to re-open the case of Martha Albert et al. Although her application for enrollment as a Cherokee Freedman was previously denied, new evidence has emerged that suggests that Johnson Whitmire may have enslaved two women named Martha\" in Goingsnake District with divergent personal histories."
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "Washington (D. C.)",
+        "Arkansas--Fort Smith",
+        "Cherokee Nation, Oklahoma",
+        "Oklahoma--Muskogee (Indian Territory)",
+        "Oklahoma--Goingsnake District (Indian Territory)"
+      ]
+    },
+    {
+      "label": "type",
+      "value": "Text"
+    },
+    {
+      "label": "context",
+      "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/11"
+    },
+    {
+      "label": "Title",
+      "value": "[Martha Albert et al. case]: Letter from E.A. Hitchcock, Secretary of the Interior, to the Commission to the Five Civilized Tribes about Martha Albert's Cherokee Freedmen case, Washington, March 25, 1905"
+    },
+    {
+      "label": "Description",
+      "value": "Letter from E.A. Hitchcock, Secretary of Interior, informing the Commission that the Department has granted a motion filed by attorneys Neal and London of Fort Smith, Arkansas to re-open the case of Martha Albert et al. Although her application for enrollment as a Cherokee Freedman was previously denied, new evidence has emerged that suggests that Johnson Whitmire may have enslaved two women named Martha\" in Goingsnake District with divergent personal histories.\n<br /><br />\n"
+    },
+    {
+      "label": "Created On",
+      "value": "2025-04-29 20:15:38 UTC"
+    },
+    {
+      "label": "In Scope",
+      "value": "true"
+    }
+  ],
+  "description": "This is an annotated version of the original manifest produced by FromThePage",
+  "within": {
+    "@type": "sc:Collection",
+    "label": "Cherokee Freedmen",
+    "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+  },
+  "related": [
+    {
+      "format": "text/html",
+      "label": "Read [Martha Albert et al. case]: Letter from E.A. Hitchcock, Secretary of the Interior, to the Commission to the Five Civilized Tribes about Martha Albert's Cherokee Freedmen case, Washington, March 25, 1905",
+      "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/martha-albert-et-al-case-letter-from-e-a-hitchcock-secretary-of-the-interior-to-the-commission-to-the-five-civilized-tribes-about-martha-albert-s-cherokee-freedmen-case-washington-march-25-1905-9cdacd56-6f0f-4f3a-b227-471fa779bce6"
+    },
+    {
+      "format": "text/html",
+      "label": "Table of Contents for [Martha Albert et al. case]: Letter from E.A. Hitchcock, Secretary of the Interior, to the Commission to the Five Civilized Tribes about Martha Albert's Cherokee Freedmen case, Washington, March 25, 1905",
+      "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/martha-albert-et-al-case-letter-from-e-a-hitchcock-secretary-of-the-interior-to-the-commission-to-the-five-civilized-tribes-about-martha-albert-s-cherokee-freedmen-case-washington-march-25-1905-9cdacd56-6f0f-4f3a-b227-471fa779bce6/contents"
+    }
+  ],
+  "seeAlso": [
+    {
+      "label": "Verbatim Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
+      "@id": "https://fromthepage.com/iiif/32196077/export/plaintext/verbatim"
+    },
+    {
+      "label": "Emended Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
+      "@id": "https://fromthepage.com/iiif/32196077/export/plaintext/emended"
+    },
+    {
+      "label": "Searchable Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
+      "@id": "https://fromthepage.com/iiif/32196077/export/plaintext/searchable"
+    }
+  ],
+  "service": [
+    {
+      "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+      "@id": "https://fromthepage.com/iiif/32196077/status",
+      "label": "Work Status",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
+      "pctComplete": 100.0,
+      "pctTranscribed": 100.0,
+      "pctOcrCorrected": 0.0,
+      "pctIndexed": 0,
+      "pctMarkedBlank": 0,
+      "pctNeedsReview": 0,
+      "pctTranslationComplete": 0,
+      "pctTranslated": 0,
+      "pctTranslationNeedsReview": 0,
+      "pctTranslationIndexed": 0,
+      "pctTranslationMarkedBlank": 0,
+      "metadataStatus": "undescribed",
+      "lastUpdated": "2025-05-03 21:46:07 UTC"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://fromthepage.com/iiif/32196077/sequence/default",
+      "@type": "sc:Sequence",
+      "label": "Pages",
+      "rendering": [
         {
-            "format": "text/html",
-            "label": "Read [Martha Albert et al. case]: Letter from E.A. Hitchcock, Secretary of the Interior, to the Commission to the Five Civilized Tribes about Martha Albert's Cherokee Freedmen case, Washington, March 25, 1905",
-            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/martha-albert-et-al-case-letter-from-e-a-hitchcock-secretary-of-the-interior-to-the-commission-to-the-five-civilized-tribes-about-martha-albert-s-cherokee-freedmen-case-washington-march-25-1905-9cdacd56-6f0f-4f3a-b227-471fa779bce6"
+          "label": "Verbatim Plaintext",
+          "format": "text/plain",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
+          "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32196077/export/plaintext/verbatim"
         },
         {
-            "format": "text/html",
-            "label": "Table of Contents for [Martha Albert et al. case]: Letter from E.A. Hitchcock, Secretary of the Interior, to the Commission to the Five Civilized Tribes about Martha Albert's Cherokee Freedmen case, Washington, March 25, 1905",
-            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/martha-albert-et-al-case-letter-from-e-a-hitchcock-secretary-of-the-interior-to-the-commission-to-the-five-civilized-tribes-about-martha-albert-s-cherokee-freedmen-case-washington-march-25-1905-9cdacd56-6f0f-4f3a-b227-471fa779bce6/contents"
+          "@id": "https://fromthepage.com/iiif/32196077/export/html",
+          "label": "XHTML Export",
+          "format": "text/html",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
+        },
+        {
+          "@id": "https://fromthepage.com/iiif/32196077/export/tei",
+          "label": "TEI Export",
+          "format": "application/tei+xml",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
         }
-    ],
-    "seeAlso": [
+      ],
+      "canvases": [
         {
-            "label": "Verbatim Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
-            "@id": "https://fromthepage.com/iiif/32196077/export/plaintext/verbatim"
-        },
-        {
-            "label": "Emended Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
-            "@id": "https://fromthepage.com/iiif/32196077/export/plaintext/emended"
-        },
-        {
-            "label": "Searchable Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
-            "@id": "https://fromthepage.com/iiif/32196077/export/plaintext/searchable"
-        }
-    ],
-    "service": [
-        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/11/pages/page_0",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/11/pages/page_0",
+          "width": 3031,
+          "height": 4017,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/dcb44c23-350e-3a76-9867-65e57d231ed9",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/dcb44c23-350e-3a76-9867-65e57d231ed9/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3031,
+                "height": 4017,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/dcb44c23-350e-3a76-9867-65e57d231ed9",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/11/pages/page_0"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987403"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987403"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/martha-albert-et-al-case-letter-from-e-a-hitchcock-secretary-of-the-interior-to-the-commission-to-the-five-civilized-tribes-about-martha-albert-s-cherokee-freedmen-case-washington-march-25-1905-9cdacd56-6f0f-4f3a-b227-471fa779bce6/annotation/34987403/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196077/export/34987403/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196077/export/34987403/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196077/export/34987403/plaintext/emended"
+            }
+          ],
+          "service": {
             "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-            "@id": "https://fromthepage.com/iiif/32196077/status",
-            "label": "Work Status",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
-            "pctComplete": 100.0,
-            "pctTranscribed": 100.0,
-            "pctOcrCorrected": 0.0,
-            "pctIndexed": 0,
-            "pctMarkedBlank": 0,
-            "pctNeedsReview": 0,
-            "pctTranslationComplete": 0,
-            "pctTranslated": 0,
-            "pctTranslationNeedsReview": 0,
-            "pctTranslationIndexed": 0,
-            "pctTranslationMarkedBlank": 0,
-            "metadataStatus": "undescribed",
-            "lastUpdated": "2025-05-03 21:46:07 UTC"
-        }
-    ],
-    "sequences": [
-        {
-            "@id": "https://fromthepage.com/iiif/32196077/sequence/default",
-            "@type": "sc:Sequence",
-            "label": "Pages",
-            "rendering": [
-                {
-                    "label": "Verbatim Plaintext",
-                    "format": "text/plain",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
-                    "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32196077/export/plaintext/verbatim"
-                },
-                {
-                    "@id": "https://fromthepage.com/iiif/32196077/export/html",
-                    "label": "XHTML Export",
-                    "format": "text/html",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
-                },
-                {
-                    "@id": "https://fromthepage.com/iiif/32196077/export/tei",
-                    "label": "TEI Export",
-                    "format": "application/tei+xml",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
-                }
-            ],
-            "canvases": [
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/11/pages/page_0",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/11/pages/page_0",
-                    "width": 3031,
-                    "height": 4017,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/dcb44c23-350e-3a76-9867-65e57d231ed9",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/dcb44c23-350e-3a76-9867-65e57d231ed9/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3031,
-                                "height": 4017,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/dcb44c23-350e-3a76-9867-65e57d231ed9",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/11/pages/page_0"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987403"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987403"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/martha-albert-et-al-case-letter-from-e-a-hitchcock-secretary-of-the-interior-to-the-commission-to-the-five-civilized-tribes-about-martha-albert-s-cherokee-freedmen-case-washington-march-25-1905-9cdacd56-6f0f-4f3a-b227-471fa779bce6/annotation/34987403/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196077/export/34987403/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196077/export/34987403/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196077/export/34987403/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196077/34987403/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987403/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/11/pages/page_1",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/11/pages/page_1",
-                    "width": 3019,
-                    "height": 3969,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/a576d6d4-a53e-35ad-818b-e3b2dfe93c38",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/a576d6d4-a53e-35ad-818b-e3b2dfe93c38/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3019,
-                                "height": 3969,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/a576d6d4-a53e-35ad-818b-e3b2dfe93c38",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/11/pages/page_1"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987404"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987404"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/martha-albert-et-al-case-letter-from-e-a-hitchcock-secretary-of-the-interior-to-the-commission-to-the-five-civilized-tribes-about-martha-albert-s-cherokee-freedmen-case-washington-march-25-1905-9cdacd56-6f0f-4f3a-b227-471fa779bce6/annotation/34987404/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196077/export/34987404/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196077/export/34987404/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196077/export/34987404/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196077/34987404/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987404/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                }
+            "@id": "https://fromthepage.com/iiif/32196077/34987403/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
             ]
-        }
-    ],
-    "otherContent": [
-        {
-            "@id": "https://fromthepage.com/iiif/32196077/layer/transcription",
-            "@type": "sc:Layer",
-            "label": "transcription layer"
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987403/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
         },
         {
-            "@id": "https://fromthepage.com/iiif/32196077/layer/notes",
-            "@type": "sc:Layer",
-            "label": "notes layer"
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/11/pages/page_1",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/11/pages/page_1",
+          "width": 3019,
+          "height": 3969,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/a576d6d4-a53e-35ad-818b-e3b2dfe93c38",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/a576d6d4-a53e-35ad-818b-e3b2dfe93c38/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3019,
+                "height": 3969,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/a576d6d4-a53e-35ad-818b-e3b2dfe93c38",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/11/pages/page_1"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987404"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987404"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/martha-albert-et-al-case-letter-from-e-a-hitchcock-secretary-of-the-interior-to-the-commission-to-the-five-civilized-tribes-about-martha-albert-s-cherokee-freedmen-case-washington-march-25-1905-9cdacd56-6f0f-4f3a-b227-471fa779bce6/annotation/34987404/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196077/export/34987404/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196077/export/34987404/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196077/export/34987404/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32196077/34987404/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987404/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
         }
-    ]
+      ]
+    }
+  ],
+  "otherContent": [
+    {
+      "@id": "https://fromthepage.com/iiif/32196077/layer/transcription",
+      "@type": "sc:Layer",
+      "label": "transcription layer"
+    },
+    {
+      "@id": "https://fromthepage.com/iiif/32196077/layer/notes",
+      "@type": "sc:Layer",
+      "label": "notes layer"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://api-pre.library.tamu.edu/iiif/2/dcb44c23-350e-3a76-9867-65e57d231ed9/full/,200/0/default.jpg",
+    "@type": "dctypes:Image",
+    "label": "thumbnail image",
+    "service": {
+      "@id": "https://api-pre.library.tamu.edu/iiif/2/dcb44c23-350e-3a76-9867-65e57d231ed9",
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "profile": "http://iiif.io/api/image/2/level2.json",
+      "label": "IIIF Image Service"
+    }
+  }
 }

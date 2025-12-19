@@ -1,458 +1,469 @@
 {
-    "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/131.json",
-    "@type": "sc:Manifest",
-    "label": "[Jesse Rowe et al. case testimony]: Department of the Interior, Commission to the Five Civilized Tribes, Nowata, I. T., June 29th, 1901",
-    "metadata": [
-        {
-            "label": "dc:source",
-            "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131"
-        },
-        {
-            "label": "creator",
-            "value": "United States. Commission to the Five Civilized Tribes"
-        },
-        {
-            "label": "contributor",
-            "value": [
-                "Needles, T. B. (Thomas. B.), 1835-1914",
-                "Von Weise, Chas.",
-                "Smith, Edgar",
-                "Rowe, Jesse",
-                "Davenport, James S., 1864-1940"
-            ]
-        },
-        {
-            "label": "subject",
-            "value": [
-                "Enslaved persons",
-                "Governmental investigations",
-                "African Americans",
-                "Children of freed persons",
-                "Rowe, Jesse",
-                "Seals, Alverta",
-                "Seals, Adamiah",
-                "Cherokee Indians--Tribal citizenship",
-                "Migration, Internal--Southern States",
-                "Missionary Baptists",
-                "African American clergy",
-                "Indian slaveholders",
-                "Freed persons",
-                "Seals Clifford",
-                "Seals, Pearle",
-                "American Civil War (United States : 1861-1865)"
-            ]
-        },
-        {
-            "label": "rights",
-            "value": "http://rightsstatements.org/vocab/NoC-US/1.0/"
-        },
-        {
-            "label": "format",
-            "value": "reformatted digital"
-        },
-        {
-            "label": "language",
-            "value": "eng"
-        },
-        {
-            "label": "title",
-            "value": "[Jesse Rowe et al. case testimony]: Department of the Interior, Commission to the Five Civilized Tribes, Nowata, I. T., June 29th, 1901"
-        },
-        {
-            "label": "type",
-            "value": "Interviews"
-        },
-        {
-            "label": "extent",
-            "value": "3 pages"
-        },
-        {
-            "label": "created",
-            "value": "1901-06-29"
-        },
-        {
-            "label": "abstract",
-            "value": "Jesse Rowe, an African American Missionary Baptist minister from Delaware, Indian Territory, testifies on behalf of himself and his four grandchildren (Adamiah Seals, Alverta Seals, and Pearle Seals, and Clifford Seals) for enrollment as Cherokee Freedmen.  He testifies that their mother (Lizzie Seals, his daughter) was born in Texas and is deceased. Jesse testifies that he was formerly enslaved by a Cherokee Indian called \"Dick or Dave Rowe\" from Spring Creek in the Canadian District. He claims that George Starr, his later enslaver, took him from the Flint District to Texas before the Civil War. Jesse returned to the Cherokee Nation (Fort Gibson and the Sequoyah District) several times after the war but continued to live off and on in Texas until 1890, when he returned to reside permanently in the Cherokee Nation. It is decided to place the applications of Jesse and his grandchildren on a 'doubtful card' for further consideration."
-        },
-        {
-            "label": "spatial",
-            "value": [
-                "Cherokee Nation, Oklahoma",
-                "Oklahoma--Spring Creek (Indian Territory)",
-                "Oklahoma--Nowata (Indian Territory)",
-                "Oklahoma--Fort Gibson (Indian Territory)",
-                "Oklahoma--Canadian District (Indian Territory)",
-                "Texas",
-                "Oklahoma--Sequoyah District (Indian Territory)"
-            ]
-        },
-        {
-            "label": "type",
-            "value": "Text"
-        },
-        {
-            "label": "context",
-            "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131"
-        },
-        {
-            "label": "Title",
-            "value": "[Jesse Rowe et al. case testimony]: Department of the Interior, Commission to the Five Civilized Tribes, Nowata, I. T., June 29th, 1901"
-        },
-        {
-            "label": "Description",
-            "value": "Jesse Rowe, an African American Missionary Baptist minister from Delaware, Indian Territory, testifies on behalf of himself and his four grandchildren (Adamiah Seals, Alverta Seals, and Pearle Seals, and Clifford Seals) for enrollment as Cherokee Freedmen.  He testifies that their mother (Lizzie Seals, his daughter) was born in Texas and is deceased. Jesse testifies that he was formerly enslaved by a Cherokee Indian called \"Dick or Dave Rowe\" from Spring Creek in the Canadian District. He claims that George Starr, his later enslaver, took him from the Flint District to Texas before the Civil War. Jesse returned to the Cherokee Nation (Fort Gibson and the Sequoyah District) several times after the war but continued to live off and on in Texas until 1890, when he returned to reside permanently in the Cherokee Nation. It is decided to place the applications of Jesse and his grandchildren on a 'doubtful card' for further consideration.\n<br /><br />\n"
-        },
-        {
-            "label": "Created On",
-            "value": "2025-04-29 19:53:54 UTC"
-        },
-        {
-            "label": "In Scope",
-            "value": "true"
-        }
-    ],
-    "description": "This is an annotated version of the original manifest produced by FromThePage",
-    "within": {
-        "@type": "sc:Collection",
-        "label": "Cherokee Freedmen",
-        "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/131.json",
+  "@type": "sc:Manifest",
+  "label": "[Jesse Rowe et al. case testimony]: Department of the Interior, Commission to the Five Civilized Tribes, Nowata, I. T., June 29th, 1901",
+  "metadata": [
+    {
+      "label": "dc:source",
+      "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131"
     },
-    "related": [
+    {
+      "label": "creator",
+      "value": "United States. Commission to the Five Civilized Tribes"
+    },
+    {
+      "label": "contributor",
+      "value": [
+        "Needles, T. B. (Thomas. B.), 1835-1914",
+        "Von Weise, Chas.",
+        "Smith, Edgar",
+        "Rowe, Jesse",
+        "Davenport, James S., 1864-1940"
+      ]
+    },
+    {
+      "label": "subject",
+      "value": [
+        "Enslaved persons",
+        "Governmental investigations",
+        "African Americans",
+        "Children of freed persons",
+        "Rowe, Jesse",
+        "Seals, Alverta",
+        "Seals, Adamiah",
+        "Cherokee Indians--Tribal citizenship",
+        "Migration, Internal--Southern States",
+        "Missionary Baptists",
+        "African American clergy",
+        "Indian slaveholders",
+        "Freed persons",
+        "Seals Clifford",
+        "Seals, Pearle",
+        "American Civil War (United States : 1861-1865)"
+      ]
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/NoC-US/1.0/"
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "title",
+      "value": "[Jesse Rowe et al. case testimony]: Department of the Interior, Commission to the Five Civilized Tribes, Nowata, I. T., June 29th, 1901"
+    },
+    {
+      "label": "type",
+      "value": "Interviews"
+    },
+    {
+      "label": "extent",
+      "value": "3 pages"
+    },
+    {
+      "label": "created",
+      "value": "1901-06-29"
+    },
+    {
+      "label": "abstract",
+      "value": "Jesse Rowe, an African American Missionary Baptist minister from Delaware, Indian Territory, testifies on behalf of himself and his four grandchildren (Adamiah Seals, Alverta Seals, and Pearle Seals, and Clifford Seals) for enrollment as Cherokee Freedmen.  He testifies that their mother (Lizzie Seals, his daughter) was born in Texas and is deceased. Jesse testifies that he was formerly enslaved by a Cherokee Indian called \"Dick or Dave Rowe\" from Spring Creek in the Canadian District. He claims that George Starr, his later enslaver, took him from the Flint District to Texas before the Civil War. Jesse returned to the Cherokee Nation (Fort Gibson and the Sequoyah District) several times after the war but continued to live off and on in Texas until 1890, when he returned to reside permanently in the Cherokee Nation. It is decided to place the applications of Jesse and his grandchildren on a 'doubtful card' for further consideration."
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "Cherokee Nation, Oklahoma",
+        "Oklahoma--Spring Creek (Indian Territory)",
+        "Oklahoma--Nowata (Indian Territory)",
+        "Oklahoma--Fort Gibson (Indian Territory)",
+        "Oklahoma--Canadian District (Indian Territory)",
+        "Texas",
+        "Oklahoma--Sequoyah District (Indian Territory)"
+      ]
+    },
+    {
+      "label": "type",
+      "value": "Text"
+    },
+    {
+      "label": "context",
+      "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131"
+    },
+    {
+      "label": "Title",
+      "value": "[Jesse Rowe et al. case testimony]: Department of the Interior, Commission to the Five Civilized Tribes, Nowata, I. T., June 29th, 1901"
+    },
+    {
+      "label": "Description",
+      "value": "Jesse Rowe, an African American Missionary Baptist minister from Delaware, Indian Territory, testifies on behalf of himself and his four grandchildren (Adamiah Seals, Alverta Seals, and Pearle Seals, and Clifford Seals) for enrollment as Cherokee Freedmen.  He testifies that their mother (Lizzie Seals, his daughter) was born in Texas and is deceased. Jesse testifies that he was formerly enslaved by a Cherokee Indian called \"Dick or Dave Rowe\" from Spring Creek in the Canadian District. He claims that George Starr, his later enslaver, took him from the Flint District to Texas before the Civil War. Jesse returned to the Cherokee Nation (Fort Gibson and the Sequoyah District) several times after the war but continued to live off and on in Texas until 1890, when he returned to reside permanently in the Cherokee Nation. It is decided to place the applications of Jesse and his grandchildren on a 'doubtful card' for further consideration.\n<br /><br />\n"
+    },
+    {
+      "label": "Created On",
+      "value": "2025-04-29 19:53:54 UTC"
+    },
+    {
+      "label": "In Scope",
+      "value": "true"
+    }
+  ],
+  "description": "This is an annotated version of the original manifest produced by FromThePage",
+  "within": {
+    "@type": "sc:Collection",
+    "label": "Cherokee Freedmen",
+    "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+  },
+  "related": [
+    {
+      "format": "text/html",
+      "label": "Read [Jesse Rowe et al. case testimony]: Department of the Interior, Commission to the Five Civilized Tribes, Nowata, I. T., June 29th, 1901",
+      "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/jesse-rowe-et-al-case-testimony-department-of-the-interior-commission-to-the-five-civilized-tribes-nowata-i-t-june-29th-1901"
+    },
+    {
+      "format": "text/html",
+      "label": "Table of Contents for [Jesse Rowe et al. case testimony]: Department of the Interior, Commission to the Five Civilized Tribes, Nowata, I. T., June 29th, 1901",
+      "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/jesse-rowe-et-al-case-testimony-department-of-the-interior-commission-to-the-five-civilized-tribes-nowata-i-t-june-29th-1901/contents"
+    }
+  ],
+  "seeAlso": [
+    {
+      "label": "Verbatim Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
+      "@id": "https://fromthepage.com/iiif/32195974/export/plaintext/verbatim"
+    },
+    {
+      "label": "Emended Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
+      "@id": "https://fromthepage.com/iiif/32195974/export/plaintext/emended"
+    },
+    {
+      "label": "Searchable Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
+      "@id": "https://fromthepage.com/iiif/32195974/export/plaintext/searchable"
+    }
+  ],
+  "service": [
+    {
+      "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+      "@id": "https://fromthepage.com/iiif/32195974/status",
+      "label": "Work Status",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
+      "pctComplete": 100.0,
+      "pctTranscribed": 100.0,
+      "pctOcrCorrected": 0.0,
+      "pctIndexed": 0,
+      "pctMarkedBlank": 0,
+      "pctNeedsReview": 0,
+      "pctTranslationComplete": 0,
+      "pctTranslated": 0,
+      "pctTranslationNeedsReview": 0,
+      "pctTranslationIndexed": 0,
+      "pctTranslationMarkedBlank": 0,
+      "metadataStatus": "undescribed",
+      "lastUpdated": "2025-05-01 00:51:29 UTC"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://fromthepage.com/iiif/32195974/sequence/default",
+      "@type": "sc:Sequence",
+      "label": "Pages",
+      "rendering": [
         {
-            "format": "text/html",
-            "label": "Read [Jesse Rowe et al. case testimony]: Department of the Interior, Commission to the Five Civilized Tribes, Nowata, I. T., June 29th, 1901",
-            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/jesse-rowe-et-al-case-testimony-department-of-the-interior-commission-to-the-five-civilized-tribes-nowata-i-t-june-29th-1901"
+          "label": "Verbatim Plaintext",
+          "format": "text/plain",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
+          "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32195974/export/plaintext/verbatim"
         },
         {
-            "format": "text/html",
-            "label": "Table of Contents for [Jesse Rowe et al. case testimony]: Department of the Interior, Commission to the Five Civilized Tribes, Nowata, I. T., June 29th, 1901",
-            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/jesse-rowe-et-al-case-testimony-department-of-the-interior-commission-to-the-five-civilized-tribes-nowata-i-t-june-29th-1901/contents"
+          "@id": "https://fromthepage.com/iiif/32195974/export/html",
+          "label": "XHTML Export",
+          "format": "text/html",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
+        },
+        {
+          "@id": "https://fromthepage.com/iiif/32195974/export/tei",
+          "label": "TEI Export",
+          "format": "application/tei+xml",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
         }
-    ],
-    "seeAlso": [
+      ],
+      "canvases": [
         {
-            "label": "Verbatim Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
-            "@id": "https://fromthepage.com/iiif/32195974/export/plaintext/verbatim"
-        },
-        {
-            "label": "Emended Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
-            "@id": "https://fromthepage.com/iiif/32195974/export/plaintext/emended"
-        },
-        {
-            "label": "Searchable Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
-            "@id": "https://fromthepage.com/iiif/32195974/export/plaintext/searchable"
-        }
-    ],
-    "service": [
-        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_0",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_0",
+          "width": 3059,
+          "height": 4867,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/b958f9bd-1c61-3fdc-afdb-ae91df2bdeb9",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/b958f9bd-1c61-3fdc-afdb-ae91df2bdeb9/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3059,
+                "height": 4867,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/b958f9bd-1c61-3fdc-afdb-ae91df2bdeb9",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_0"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987101"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987101"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/jesse-rowe-et-al-case-testimony-department-of-the-interior-commission-to-the-five-civilized-tribes-nowata-i-t-june-29th-1901/annotation/34987101/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32195974/export/34987101/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32195974/export/34987101/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32195974/export/34987101/plaintext/emended"
+            }
+          ],
+          "service": {
             "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-            "@id": "https://fromthepage.com/iiif/32195974/status",
-            "label": "Work Status",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
-            "pctComplete": 100.0,
-            "pctTranscribed": 100.0,
-            "pctOcrCorrected": 0.0,
-            "pctIndexed": 0,
-            "pctMarkedBlank": 0,
-            "pctNeedsReview": 0,
-            "pctTranslationComplete": 0,
-            "pctTranslated": 0,
-            "pctTranslationNeedsReview": 0,
-            "pctTranslationIndexed": 0,
-            "pctTranslationMarkedBlank": 0,
-            "metadataStatus": "undescribed",
-            "lastUpdated": "2025-05-01 00:51:29 UTC"
-        }
-    ],
-    "sequences": [
-        {
-            "@id": "https://fromthepage.com/iiif/32195974/sequence/default",
-            "@type": "sc:Sequence",
-            "label": "Pages",
-            "rendering": [
-                {
-                    "label": "Verbatim Plaintext",
-                    "format": "text/plain",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
-                    "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32195974/export/plaintext/verbatim"
-                },
-                {
-                    "@id": "https://fromthepage.com/iiif/32195974/export/html",
-                    "label": "XHTML Export",
-                    "format": "text/html",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
-                },
-                {
-                    "@id": "https://fromthepage.com/iiif/32195974/export/tei",
-                    "label": "TEI Export",
-                    "format": "application/tei+xml",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
-                }
-            ],
-            "canvases": [
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_0",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_0",
-                    "width": 3059,
-                    "height": 4867,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/b958f9bd-1c61-3fdc-afdb-ae91df2bdeb9",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/b958f9bd-1c61-3fdc-afdb-ae91df2bdeb9/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3059,
-                                "height": 4867,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/b958f9bd-1c61-3fdc-afdb-ae91df2bdeb9",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_0"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987101"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987101"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/jesse-rowe-et-al-case-testimony-department-of-the-interior-commission-to-the-five-civilized-tribes-nowata-i-t-june-29th-1901/annotation/34987101/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32195974/export/34987101/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32195974/export/34987101/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32195974/export/34987101/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32195974/34987101/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987101/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_1",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_1",
-                    "width": 3063,
-                    "height": 4859,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/99e8500d-d499-3edd-af7d-513cb4db7a7e",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/99e8500d-d499-3edd-af7d-513cb4db7a7e/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3063,
-                                "height": 4859,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/99e8500d-d499-3edd-af7d-513cb4db7a7e",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_1"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987102"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987102"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/jesse-rowe-et-al-case-testimony-department-of-the-interior-commission-to-the-five-civilized-tribes-nowata-i-t-june-29th-1901/annotation/34987102/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32195974/export/34987102/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32195974/export/34987102/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32195974/export/34987102/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32195974/34987102/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987102/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_2",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_2",
-                    "width": 3059,
-                    "height": 4867,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/13ea4544-5719-3a47-afc8-92b770af6139",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/13ea4544-5719-3a47-afc8-92b770af6139/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3059,
-                                "height": 4867,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/13ea4544-5719-3a47-afc8-92b770af6139",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_2"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987103"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987103"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/jesse-rowe-et-al-case-testimony-department-of-the-interior-commission-to-the-five-civilized-tribes-nowata-i-t-june-29th-1901/annotation/34987103/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32195974/export/34987103/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32195974/export/34987103/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32195974/export/34987103/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32195974/34987103/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987103/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                }
+            "@id": "https://fromthepage.com/iiif/32195974/34987101/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
             ]
-        }
-    ],
-    "otherContent": [
-        {
-            "@id": "https://fromthepage.com/iiif/32195974/layer/transcription",
-            "@type": "sc:Layer",
-            "label": "transcription layer"
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987101/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
         },
         {
-            "@id": "https://fromthepage.com/iiif/32195974/layer/notes",
-            "@type": "sc:Layer",
-            "label": "notes layer"
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_1",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_1",
+          "width": 3063,
+          "height": 4859,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/99e8500d-d499-3edd-af7d-513cb4db7a7e",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/99e8500d-d499-3edd-af7d-513cb4db7a7e/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3063,
+                "height": 4859,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/99e8500d-d499-3edd-af7d-513cb4db7a7e",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_1"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987102"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987102"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/jesse-rowe-et-al-case-testimony-department-of-the-interior-commission-to-the-five-civilized-tribes-nowata-i-t-june-29th-1901/annotation/34987102/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32195974/export/34987102/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32195974/export/34987102/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32195974/export/34987102/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32195974/34987102/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987102/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
+        },
+        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_2",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_2",
+          "width": 3059,
+          "height": 4867,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/13ea4544-5719-3a47-afc8-92b770af6139",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/13ea4544-5719-3a47-afc8-92b770af6139/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3059,
+                "height": 4867,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/13ea4544-5719-3a47-afc8-92b770af6139",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/131/pages/page_2"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987103"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987103"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/jesse-rowe-et-al-case-testimony-department-of-the-interior-commission-to-the-five-civilized-tribes-nowata-i-t-june-29th-1901/annotation/34987103/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32195974/export/34987103/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32195974/export/34987103/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32195974/export/34987103/plaintext/emended"
+            }
+          ],
+          "service": {
+            "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+            "@id": "https://fromthepage.com/iiif/32195974/34987103/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
+            ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987103/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
         }
-    ]
+      ]
+    }
+  ],
+  "otherContent": [
+    {
+      "@id": "https://fromthepage.com/iiif/32195974/layer/transcription",
+      "@type": "sc:Layer",
+      "label": "transcription layer"
+    },
+    {
+      "@id": "https://fromthepage.com/iiif/32195974/layer/notes",
+      "@type": "sc:Layer",
+      "label": "notes layer"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://api-pre.library.tamu.edu/iiif/2/b958f9bd-1c61-3fdc-afdb-ae91df2bdeb9/full/,200/0/default.jpg",
+    "@type": "dctypes:Image",
+    "label": "thumbnail image",
+    "service": {
+      "@id": "https://api-pre.library.tamu.edu/iiif/2/b958f9bd-1c61-3fdc-afdb-ae91df2bdeb9",
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "profile": "http://iiif.io/api/image/2/level2.json",
+      "label": "IIIF Image Service"
+    }
+  }
 }

@@ -1,280 +1,291 @@
 {
-    "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/72.json",
-    "@type": "sc:Manifest",
-    "label": "[Hartwell H. Houston et al. case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, May 17, 1904",
-    "metadata": [
-        {
-            "label": "dc:source",
-            "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/72"
-        },
-        {
-            "label": "creator",
-            "value": "United States. Office of Indian Affairs"
-        },
-        {
-            "label": "contributor",
-            "value": "Tonner, A. C."
-        },
-        {
-            "label": "subject",
-            "value": [
-                "Freed persons",
-                "Cherokee Indians--Census, 1880",
-                "Free African Americans",
-                "Houston, Narcissa",
-                "African Americans",
-                "Houston, Hartwell H.",
-                "Cherokee Indians--Tribal citizenship",
-                "Governmental investigations",
-                "Migration, Internal--Southern States",
-                "American Civil War (United States : 1861-1865)",
-                "United States. Commission to the Five Civilized Tribes"
-            ]
-        },
-        {
-            "label": "rights",
-            "value": "http://rightsstatements.org/vocab/NoC-US/1.0/"
-        },
-        {
-            "label": "format",
-            "value": "reformatted digital"
-        },
-        {
-            "label": "language",
-            "value": "eng"
-        },
-        {
-            "label": "type",
-            "value": "Correspondence"
-        },
-        {
-            "label": "title",
-            "value": "[Hartwell H. Houston et al. case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, May 17, 1904"
-        },
-        {
-            "label": "extent",
-            "value": "1 page"
-        },
-        {
-            "label": "created",
-            "value": "1904-05-17"
-        },
-        {
-            "label": "abstract",
-            "value": "A.C. Tonner, the Acting Indian Commissioner, informs the Secretary of the Interior that he recommends the Commission to the Five Civilized Tribes' decision to reject Hartwell H. Houston's application for the enrollment of himself and his wife, Narcissa Houston, as Cherokee Freedmen.  Tonner writes that Hartwell and Narcissa had not resided in the Cherokee Nation at the start of the Civil War, and that they could not be identified on the Cherokee tribal roll of 1880.  The Commission's report had originally been enclosed with this document."
-        },
-        {
-            "label": "type",
-            "value": "Text"
-        },
-        {
-            "label": "spatial",
-            "value": [
-                "Cherokee Nation, Oklahoma",
-                "Washington (D. C.)"
-            ]
-        },
-        {
-            "label": "context",
-            "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/72"
-        },
-        {
-            "label": "Title",
-            "value": "[Hartwell H. Houston et al. case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, May 17, 1904"
-        },
-        {
-            "label": "Description",
-            "value": "A.C. Tonner, the Acting Indian Commissioner, informs the Secretary of the Interior that he recommends the Commission to the Five Civilized Tribes' decision to reject Hartwell H. Houston's application for the enrollment of himself and his wife, Narcissa Houston, as Cherokee Freedmen.  Tonner writes that Hartwell and Narcissa had not resided in the Cherokee Nation at the start of the Civil War, and that they could not be identified on the Cherokee tribal roll of 1880.  The Commission's report had originally been enclosed with this document.\n<br /><br />\n"
-        },
-        {
-            "label": "Created On",
-            "value": "2025-04-29 21:01:33 UTC"
-        },
-        {
-            "label": "In Scope",
-            "value": "true"
-        }
-    ],
-    "description": "This is an annotated version of the original manifest produced by FromThePage",
-    "within": {
-        "@type": "sc:Collection",
-        "label": "Cherokee Freedmen",
-        "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tamulib-dc-labs.github.io/from-the-page-manifests/manifests/cherokee-freedmen-corrected_objects/72.json",
+  "@type": "sc:Manifest",
+  "label": "[Hartwell H. Houston et al. case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, May 17, 1904",
+  "metadata": [
+    {
+      "label": "dc:source",
+      "value": "https://api-pre.library.tamu.edu/iiif-service/fedora/presentation/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/72"
     },
-    "related": [
+    {
+      "label": "creator",
+      "value": "United States. Office of Indian Affairs"
+    },
+    {
+      "label": "contributor",
+      "value": "Tonner, A. C."
+    },
+    {
+      "label": "subject",
+      "value": [
+        "Freed persons",
+        "Cherokee Indians--Census, 1880",
+        "Free African Americans",
+        "Houston, Narcissa",
+        "African Americans",
+        "Houston, Hartwell H.",
+        "Cherokee Indians--Tribal citizenship",
+        "Governmental investigations",
+        "Migration, Internal--Southern States",
+        "American Civil War (United States : 1861-1865)",
+        "United States. Commission to the Five Civilized Tribes"
+      ]
+    },
+    {
+      "label": "rights",
+      "value": "http://rightsstatements.org/vocab/NoC-US/1.0/"
+    },
+    {
+      "label": "format",
+      "value": "reformatted digital"
+    },
+    {
+      "label": "language",
+      "value": "eng"
+    },
+    {
+      "label": "type",
+      "value": "Correspondence"
+    },
+    {
+      "label": "title",
+      "value": "[Hartwell H. Houston et al. case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, May 17, 1904"
+    },
+    {
+      "label": "extent",
+      "value": "1 page"
+    },
+    {
+      "label": "created",
+      "value": "1904-05-17"
+    },
+    {
+      "label": "abstract",
+      "value": "A.C. Tonner, the Acting Indian Commissioner, informs the Secretary of the Interior that he recommends the Commission to the Five Civilized Tribes' decision to reject Hartwell H. Houston's application for the enrollment of himself and his wife, Narcissa Houston, as Cherokee Freedmen.  Tonner writes that Hartwell and Narcissa had not resided in the Cherokee Nation at the start of the Civil War, and that they could not be identified on the Cherokee tribal roll of 1880.  The Commission's report had originally been enclosed with this document."
+    },
+    {
+      "label": "type",
+      "value": "Text"
+    },
+    {
+      "label": "spatial",
+      "value": [
+        "Cherokee Nation, Oklahoma",
+        "Washington (D. C.)"
+      ]
+    },
+    {
+      "label": "context",
+      "value": "bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/72"
+    },
+    {
+      "label": "Title",
+      "value": "[Hartwell H. Houston et al. case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, May 17, 1904"
+    },
+    {
+      "label": "Description",
+      "value": "A.C. Tonner, the Acting Indian Commissioner, informs the Secretary of the Interior that he recommends the Commission to the Five Civilized Tribes' decision to reject Hartwell H. Houston's application for the enrollment of himself and his wife, Narcissa Houston, as Cherokee Freedmen.  Tonner writes that Hartwell and Narcissa had not resided in the Cherokee Nation at the start of the Civil War, and that they could not be identified on the Cherokee tribal roll of 1880.  The Commission's report had originally been enclosed with this document.\n<br /><br />\n"
+    },
+    {
+      "label": "Created On",
+      "value": "2025-04-29 21:01:33 UTC"
+    },
+    {
+      "label": "In Scope",
+      "value": "true"
+    }
+  ],
+  "description": "This is an annotated version of the original manifest produced by FromThePage",
+  "within": {
+    "@type": "sc:Collection",
+    "label": "Cherokee Freedmen",
+    "@id": "https://fromthepage.com/iiif/collection/cherokee-freedmen"
+  },
+  "related": [
+    {
+      "format": "text/html",
+      "label": "Read [Hartwell H. Houston et al. case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, May 17, 1904",
+      "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/hartwell-h-houston-et-al-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-may-17-1904"
+    },
+    {
+      "format": "text/html",
+      "label": "Table of Contents for [Hartwell H. Houston et al. case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, May 17, 1904",
+      "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/hartwell-h-houston-et-al-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-may-17-1904/contents"
+    }
+  ],
+  "seeAlso": [
+    {
+      "label": "Verbatim Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
+      "@id": "https://fromthepage.com/iiif/32196161/export/plaintext/verbatim"
+    },
+    {
+      "label": "Emended Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
+      "@id": "https://fromthepage.com/iiif/32196161/export/plaintext/emended"
+    },
+    {
+      "label": "Searchable Plaintext",
+      "format": "text/plain",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
+      "@id": "https://fromthepage.com/iiif/32196161/export/plaintext/searchable"
+    }
+  ],
+  "service": [
+    {
+      "@context": "http://www.fromthepage.org/jsonld/1/context.json",
+      "@id": "https://fromthepage.com/iiif/32196161/status",
+      "label": "Work Status",
+      "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
+      "pctComplete": 100.0,
+      "pctTranscribed": 100.0,
+      "pctOcrCorrected": 0.0,
+      "pctIndexed": 0,
+      "pctMarkedBlank": 0,
+      "pctNeedsReview": 0,
+      "pctTranslationComplete": 0,
+      "pctTranslated": 0,
+      "pctTranslationNeedsReview": 0,
+      "pctTranslationIndexed": 0,
+      "pctTranslationMarkedBlank": 0,
+      "metadataStatus": "undescribed",
+      "lastUpdated": "2025-05-05 02:15:10 UTC"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://fromthepage.com/iiif/32196161/sequence/default",
+      "@type": "sc:Sequence",
+      "label": "Pages",
+      "rendering": [
         {
-            "format": "text/html",
-            "label": "Read [Hartwell H. Houston et al. case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, May 17, 1904",
-            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/hartwell-h-houston-et-al-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-may-17-1904"
+          "label": "Verbatim Plaintext",
+          "format": "text/plain",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
+          "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32196161/export/plaintext/verbatim"
         },
         {
-            "format": "text/html",
-            "label": "Table of Contents for [Hartwell H. Houston et al. case]: Letter from A. C. Tonner, Acting Commissioner of Indian Affairs to the Secretary of the Interior, Washington, May 17, 1904",
-            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/hartwell-h-houston-et-al-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-may-17-1904/contents"
+          "@id": "https://fromthepage.com/iiif/32196161/export/html",
+          "label": "XHTML Export",
+          "format": "text/html",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
+        },
+        {
+          "@id": "https://fromthepage.com/iiif/32196161/export/tei",
+          "label": "TEI Export",
+          "format": "application/tei+xml",
+          "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
         }
-    ],
-    "seeAlso": [
+      ],
+      "canvases": [
         {
-            "label": "Verbatim Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-1",
-            "@id": "https://fromthepage.com/iiif/32196161/export/plaintext/verbatim"
-        },
-        {
-            "label": "Emended Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext",
-            "@id": "https://fromthepage.com/iiif/32196161/export/plaintext/emended"
-        },
-        {
-            "label": "Searchable Plaintext",
-            "format": "text/plain",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search",
-            "@id": "https://fromthepage.com/iiif/32196161/export/plaintext/searchable"
-        }
-    ],
-    "service": [
-        {
+          "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/72/pages/page_0",
+          "@type": "sc:Canvas",
+          "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/72/pages/page_0",
+          "width": 3043,
+          "height": 4053,
+          "images": [
+            {
+              "@id": "https://api-pre.library.tamu.edu/iiif/2/7f1972dd-97bc-35a5-96fd-857e0587261f",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://api-pre.library.tamu.edu/iiif/2/7f1972dd-97bc-35a5-96fd-857e0587261f/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 3043,
+                "height": 4053,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://api-pre.library.tamu.edu/iiif/2/7f1972dd-97bc-35a5-96fd-857e0587261f",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/72/pages/page_0"
+            }
+          ],
+          "related": [
+            {
+              "label": "Read this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/display/display_page?page_id=34987671"
+            },
+            {
+              "label": "Transcribe this page",
+              "format": "text/html",
+              "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987671"
+            }
+          ],
+          "seeAlso": [
+            {
+              "label": "HTML Transcription",
+              "format": "text/html",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
+              "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/hartwell-h-houston-et-al-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-may-17-1904/annotation/34987671/html/transcription"
+            },
+            {
+              "label": "Searchable Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
+              "@id": "https://fromthepage.com/iiif/32196161/export/34987671/plaintext/searchable"
+            },
+            {
+              "label": "Verbatim Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
+              "@id": "https://fromthepage.com/iiif/32196161/export/34987671/plaintext/verbatim"
+            },
+            {
+              "label": "Emended Plaintext",
+              "format": "text/plain",
+              "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
+              "@id": "https://fromthepage.com/iiif/32196161/export/34987671/plaintext/emended"
+            }
+          ],
+          "service": {
             "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-            "@id": "https://fromthepage.com/iiif/32196161/status",
-            "label": "Work Status",
-            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service",
-            "pctComplete": 100.0,
-            "pctTranscribed": 100.0,
-            "pctOcrCorrected": 0.0,
-            "pctIndexed": 0,
-            "pctMarkedBlank": 0,
-            "pctNeedsReview": 0,
-            "pctTranslationComplete": 0,
-            "pctTranslated": 0,
-            "pctTranslationNeedsReview": 0,
-            "pctTranslationIndexed": 0,
-            "pctTranslationMarkedBlank": 0,
-            "metadataStatus": "undescribed",
-            "lastUpdated": "2025-05-05 02:15:10 UTC"
-        }
-    ],
-    "sequences": [
-        {
-            "@id": "https://fromthepage.com/iiif/32196161/sequence/default",
-            "@type": "sc:Sequence",
-            "label": "Pages",
-            "rendering": [
-                {
-                    "label": "Verbatim Plaintext",
-                    "format": "text/plain",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext",
-                    "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/32196161/export/plaintext/verbatim"
-                },
-                {
-                    "@id": "https://fromthepage.com/iiif/32196161/export/html",
-                    "label": "XHTML Export",
-                    "format": "text/html",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#xhtml"
-                },
-                {
-                    "@id": "https://fromthepage.com/iiif/32196161/export/tei",
-                    "label": "TEI Export",
-                    "format": "application/tei+xml",
-                    "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#tei-xml"
-                }
-            ],
-            "canvases": [
-                {
-                    "@id": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/72/pages/page_0",
-                    "@type": "sc:Canvas",
-                    "label": "fedora:bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/72/pages/page_0",
-                    "width": 3043,
-                    "height": 4053,
-                    "images": [
-                        {
-                            "@id": "https://api-pre.library.tamu.edu/iiif/2/7f1972dd-97bc-35a5-96fd-857e0587261f",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://api-pre.library.tamu.edu/iiif/2/7f1972dd-97bc-35a5-96fd-857e0587261f/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "width": 3043,
-                                "height": 4053,
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://api-pre.library.tamu.edu/iiif/2/7f1972dd-97bc-35a5-96fd-857e0587261f",
-                                    "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
-                                }
-                            },
-                            "on": "https://api-pre.library.tamu.edu/iiif-service/fedora/canvas/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/cherokee_freedmen_objects/72/pages/page_0"
-                        }
-                    ],
-                    "related": [
-                        {
-                            "label": "Read this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/display/display_page?page_id=34987671"
-                        },
-                        {
-                            "label": "Transcribe this page",
-                            "format": "text/html",
-                            "@id": "https://fromthepage.com/transcribe/display_page?page_id=34987671"
-                        }
-                    ],
-                    "seeAlso": [
-                        {
-                            "label": "HTML Transcription",
-                            "format": "text/html",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#html-transcription",
-                            "@id": "https://fromthepage.com/tamulibraries/cherokee-freedmen/hartwell-h-houston-et-al-case-letter-from-a-c-tonner-acting-commissioner-of-indian-affairs-to-the-secretary-of-the-interior-washington-may-17-1904/annotation/34987671/html/transcription"
-                        },
-                        {
-                            "label": "Searchable Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#plaintext-for-full-text-search-1",
-                            "@id": "https://fromthepage.com/iiif/32196161/export/34987671/plaintext/searchable"
-                        },
-                        {
-                            "label": "Verbatim Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#verbatim-plaintext-2",
-                            "@id": "https://fromthepage.com/iiif/32196161/export/34987671/plaintext/verbatim"
-                        },
-                        {
-                            "label": "Emended Plaintext",
-                            "format": "text/plain",
-                            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#emended-plaintext-1",
-                            "@id": "https://fromthepage.com/iiif/32196161/export/34987671/plaintext/emended"
-                        }
-                    ],
-                    "service": {
-                        "@context": "http://www.fromthepage.org/jsonld/1/context.json",
-                        "@id": "https://fromthepage.com/iiif/32196161/34987671/status",
-                        "label": "Page Status",
-                        "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
-                        "pageStatus": [
-                            "hasTranscript"
-                        ]
-                    },
-                    "otherContent": [
-                        {
-                            "@id": "https://fromthepage.com/iiif/34987671/list/transcription",
-                            "@type": "sc:AnnotationList",
-                            "label": "Transcription"
-                        }
-                    ]
-                }
+            "@id": "https://fromthepage.com/iiif/32196161/34987671/status",
+            "label": "Page Status",
+            "profile": "https://github.com/benwbrum/fromthepage/wiki/FromThePage-Support-for-the-IIIF-Presentation-API-and-Web-Annotations#service-1",
+            "pageStatus": [
+              "hasTranscript"
             ]
+          },
+          "otherContent": [
+            {
+              "@id": "https://fromthepage.com/iiif/34987671/list/transcription",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription"
+            }
+          ]
         }
-    ],
-    "otherContent": [
-        {
-            "@id": "https://fromthepage.com/iiif/32196161/layer/transcription",
-            "@type": "sc:Layer",
-            "label": "transcription layer"
-        },
-        {
-            "@id": "https://fromthepage.com/iiif/32196161/layer/notes",
-            "@type": "sc:Layer",
-            "label": "notes layer"
-        }
-    ]
+      ]
+    }
+  ],
+  "otherContent": [
+    {
+      "@id": "https://fromthepage.com/iiif/32196161/layer/transcription",
+      "@type": "sc:Layer",
+      "label": "transcription layer"
+    },
+    {
+      "@id": "https://fromthepage.com/iiif/32196161/layer/notes",
+      "@type": "sc:Layer",
+      "label": "notes layer"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://api-pre.library.tamu.edu/iiif/2/7f1972dd-97bc-35a5-96fd-857e0587261f/full/,200/0/default.jpg",
+    "@type": "dctypes:Image",
+    "label": "thumbnail image",
+    "service": {
+      "@id": "https://api-pre.library.tamu.edu/iiif/2/7f1972dd-97bc-35a5-96fd-857e0587261f",
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "profile": "http://iiif.io/api/image/2/level2.json",
+      "label": "IIIF Image Service"
+    }
+  }
 }

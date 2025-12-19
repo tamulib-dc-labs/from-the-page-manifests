@@ -1014,5 +1014,16 @@
             "@type": "sc:Layer",
             "label": "notes layer"
         }
-    ]
+    ],
+    "thumbnail": {
+        "@id": "https://api-pre.library.tamu.edu/iiif/2/f9dd0fc8-bfa4-326d-9112-d9f5bac1f8ef/full/,200/0/default.jpg",
+        "@type": "dctypes:Image",
+        "label": "thumbnail image",
+        "service": {
+            "@id": "https://api-pre.library.tamu.edu/iiif/2/f9dd0fc8-bfa4-326d-9112-d9f5bac1f8ef",
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "profile": "http://iiif.io/api/image/2/level0.json",
+            "label": "IIIF Image Service"
+        }
+    }
 }

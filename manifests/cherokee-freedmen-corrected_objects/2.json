@@ -272,7 +272,7 @@
         }
     ],
     "thumbnail": {
-        "@id": "https://api-pre.library.tamu.edu/iiif/2/5e190c52-c05f-38a1-b358-dbce6429b4a0/full/,250/0/default.jpg",
+        "@id": "https://api-pre.library.tamu.edu/iiif/2/5e190c52-c05f-38a1-b358-dbce6429b4a0/full/,200/0/default.jpg",
         "@type": "dctypes:Image",
         "label": "thumbnail image",
         "service": {
